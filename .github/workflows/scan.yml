@@ -1,0 +1,42 @@
+# Put this file at .github/workflows/scan.yml, with scanner.py at the repo root.
+# It runs the internship scanner twice a day and commits the results to data/.
+name: Internship scan
+
+on:
+  schedule:
+    # UTC. 5:40 am and 3:40 pm Pacific in summer (one hour earlier in winter),
+    # about two hours ahead of the board refresh at 7:55 am and 5:55 pm Pacific.
+    - cron: "40 12,22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run scanner
+        # Exits non-zero on "SCAN FAILED", which stops the job before anything is published.
+        run: python3 scanner.py --out "$RUNNER_TEMP/out"
+
+      - name: Publish results
+        run: |
+          mkdir -p data
+          cp "$RUNNER_TEMP"/out/c[0-5].json "$RUNNER_TEMP/out/meta.json" "$RUNNER_TEMP/out/report.txt" data/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "scan $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
