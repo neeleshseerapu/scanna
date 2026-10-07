@@ -1,48 +1,48 @@
-scan at 2026-10-06 18:28 UTC
-total 1284 (swe 973, ml 311, web finds 0, added from candidates 0)
-posted in last 24h: 24
-sources: SimplifyJobs list 811/1346; ATS feed (zshah101) 230/734; Vansh & Ouckah list 14/181; SpeedyApply SWE list 121/772; SpeedyApply AI list 62/613; Jobright SWE list 33/100; Zapply list 13/179
+scan at 2026-10-07 01:46 UTC
+total 1297 (swe 980, ml 317, web finds 0, added from candidates 0)
+posted in last 24h: 27
+sources: SimplifyJobs list 818/1350; ATS feed (zshah101) 237/744; Vansh & Ouckah list 14/181; SpeedyApply SWE list 120/772; SpeedyApply AI list 62/613; Jobright SWE list 33/98; Zapply list 13/192
 
 TOP NEW (last 72h) — score | company | title | location | url
-74 | Atlassian | Data Engineer Intern | Seattle, WA | https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job
-70 | NVIDIA | Software Engineer Intern | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958
-70 | Khan Academy | Software Engineer Intern | Remote (US) | https://job-boards.greenhouse.io/khanacademy/jobs/8250259
-67 | Hudson River Trading | Data Scientist Intern | NYC | https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369
-66 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251
-66 | Pure Storage | Software Engineer Intern (Summer 2027) | Santa Clara, California | https://job-boards.greenhouse.io/purestorage/jobs/8249749
-62 | General Motors | AI/ML Engineer Intern - Mapping | Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778
+84 | Waymo | ML Ops & Automation Intern | Mountain View, CA | https://careers.withwaymo.com/jobs?gh_jid=8257237
+80 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA | https://careers.withwaymo.com/jobs?gh_jid=8257660
+76 | Amazon | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | Seattle, Washington | https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa
+71 | Meta | Data Scientist Intern - Product Analytics | Menlo Park, CA, NYC | https://www.metacareers.com/jobs/1633096478817942
+70 | Pure Storage | Software Engineer Intern | Santa Clara, CA | https://job-boards.greenhouse.io/purestorage/jobs/8249749
+69 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker | https://zapply.jobs/l/d/workday-leidos-external-R-00193327
+66 | Electronic Arts | Software Engineer Intern | Austin, TX | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240
+64 | NVIDIA | Software Engineer Intern | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958
+64 | Atlassian | Data Engineer Intern | Seattle, WA | https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job
 62 | Boston Scientific | Equipment Engineering AI Vision Engineer Intern | Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813584308
 62 | Space Dynamics Laboratory | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning
 62 | Space Dynamics Laboratory | Software Engineer Intern - AI Enabled Software Development | North Logan, UT | https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development
+62 | Dmainc | Cybersecurity Intern - Summer 2027 | Fort Wayne, IN | https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742
 62 | CACI | Cyber Analyst Intern - Summer 2027 | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161
 62 | Expedia Group | Security Engineering Intern - 2027 - Seattle | Washington - Seattle | https://zapply.jobs/l/d/workday-expedia-private-R-110310
-60 | Expedia Group | Software Development Engineer Intern | Seattle, WA, Austin, TX | https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311
-60 | Expedia Group | Mobile Engineer Intern | Seattle, WA, Austin, TX | https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306
+60 | Khan Academy | Software Engineer Intern | Remote (US) | https://job-boards.greenhouse.io/khanacademy/jobs/8250259
 60 | Cadence Solutions | Software Engineer Intern | Remote (US) | https://job-boards.greenhouse.io/solutions/jobs/4711210006
 60 | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ, Arlington County, Arlington, VA | https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq
 60 | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ, Arlington County, Arlington, VA | https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq
-60 | Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA | https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd
+60 | Rivet Industries | Intern, Software Engineering (Summer 2027) | San Jose, CA | https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914
 60 | Marvell | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1
-56 | IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false
-56 | General Dynamics Mission Systems | Software Engineer Intern - CWL | Manassas, VA | https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false
-56 | Atoms | Machine Learning Engineer Intern | SF | https://job-boards.greenhouse.io/cssmerge/jobs/8869106002
+57 | Hudson River Trading | Data Scientist Intern | NYC | https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369
+56 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251
+56 | General Motors | AI/ML Engineer Intern - Mapping | Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778
 56 | Atoms | Machine Learning Engineer Intern | SF | https://job-boards.greenhouse.io/atoms/jobs/8869105002
-56 | Liberty Mutual | Software Development Co-op | Boston, MA | https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false
-56 | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ | https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-3d8a2b754b8d74 | Atlassian | Data Engineer Intern | https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job
+83a9cce1ee713a | Waymo | ML Ops & Automation Intern | https://careers.withwaymo.com/jobs?gh_jid=8257237
+31427a4bcf4603 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | https://careers.withwaymo.com/jobs?gh_jid=8257660
+77aa9e6ae24594 | Amazon | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa
+74817a45908a9b | Meta | Data Scientist Intern - Product Analytics | https://www.metacareers.com/jobs/1633096478817942
+621c494845cb98 | Pure Storage | Software Engineer Intern | https://job-boards.greenhouse.io/purestorage/jobs/8249749
+f903475e21e5eb | Leidos | Business Systems AI Intern | https://zapply.jobs/l/d/workday-leidos-external-R-00193327
+b07006e14ba8be | Electronic Arts | Software Engineer Intern | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240
 6e28ae61f874a4 | NVIDIA | Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958
-756cc1688675b3 | Khan Academy | Software Engineer Intern | https://job-boards.greenhouse.io/khanacademy/jobs/8250259
-9ce81012efa52a | Hudson River Trading | Data Scientist Intern | https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369
-ecf766f44b84a1 | Electronic Arts | Software Engineer Intern | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251
-621c494845cb98 | Pure Storage | Software Engineer Intern (Summer 2027) | https://job-boards.greenhouse.io/purestorage/jobs/8249749
-6c41cd8b1611ac | General Motors | AI/ML Engineer Intern - Mapping | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778
+3d8a2b754b8d74 | Atlassian | Data Engineer Intern | https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job
+7088c97ddb70b0 | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | https://jobright.ai/jobs/info/6ac55cfc8ff3fb9b3bc89567
 653bfd767cb6fd | Boston Scientific | Equipment Engineering AI Vision Engineer Intern | https://bostonscientific.eightfold.ai/careers/job/563602813584308
 a691c42988cec8 | Space Dynamics Laboratory | Software Engineer Intern - Software, AI, & Machine Learning | https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning
 27536371c1e381 | Space Dynamics Laboratory | Software Engineer Intern - AI Enabled Software Development | https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development
+79b81fd38f0670 | Dmainc | Cybersecurity Intern - Summer 2027 | https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742
 e323f27a9ac02e | CACI | Cyber Analyst Intern - Summer 2027 | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161
-34890be59a403b | Expedia Group | Security Engineering Intern - 2027 - Seattle | https://zapply.jobs/l/d/workday-expedia-private-R-110310
-fa64ad5de06fa7 | Robinhood | Software Engineering Intern, Web (Summer 2027) | https://jobright.ai/jobs/info/6aa7ec7e3a9f0a4fe6f16530
-24825e31da3f83 | Expedia Group | Software Development Engineer Intern | https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311
-6da0f0a95f42c4 | Expedia Group | Mobile Engineer Intern | https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306
