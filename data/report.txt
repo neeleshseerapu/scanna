@@ -1,48 +1,48 @@
-scan at 2026-10-10 17:26 UTC
-total 1309 (swe 991, ml 318, web finds 0, added from candidates 0)
-posted in last 24h: 4
-sources: SimplifyJobs list 818/1366; ATS feed (zshah101) 235/759; Vansh & Ouckah list 15/181; SpeedyApply SWE list 116/769; SpeedyApply AI list 65/638; Jobright SWE list 43/100; Zapply list 17/190
+scan at 2026-10-11 01:12 UTC
+total 1308 (swe 991, ml 317, web finds 0, added from candidates 0)
+posted in last 24h: 2
+sources: SimplifyJobs list 819/1372; ATS feed (zshah101) 236/760; Vansh & Ouckah list 15/181; SpeedyApply SWE list 116/769; SpeedyApply AI list 65/638; Jobright SWE list 40/100; Zapply list 17/190
 
 TOP NEW (last 72h) — score | company | title | location | url
-82 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | https://careers.amd.com/jobs/91341?icims=1
 76 | Zipline | Firmware Engineer Intern - Summer 2027 | South San Francisco, CA | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
+72 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | https://careers.amd.com/jobs/91341?icims=1
 72 | Microsoft | AI Software Engineering Intern | Redmond, Washington | https://zapply.jobs/l/d/microsoft-200049019
-70 | Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
-66 | IMC Trading | Machine Learning Engineer Intern | NYC | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
+66 | Workday | Cybersecurity Engineer Intern | CA, Pleasanton | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809
 64 | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | San Jose, CA | https://lifeattiktok.com/search/7687630614472149301
 64 | DoorDash | Software Engineer Intern | SF, Sunnyvale, CA | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
-60 | Workday | Machine Learning Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812
-60 | Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
-60 | Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
-58 | Amazon | Data Engineer Intern | Seattle, WA | https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us
-58 | General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064
+60 | IMC Trading | Machine Learning Engineer Intern | NYC | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
+60 | Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 58 | Carnegie Mellon University | AI Security Software Engineer Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200
 58 | Carnegie Mellon University | AI Security Research Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1
-56 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
 56 | Docusign | Software Engineer Intern | Seattle, WA | https://uscareers-docusign.icims.com/jobs/30508/software-engineer-intern/job
 56 | Docusign | Software Engineer Intern | Seattle, WA | https://uscareers-docusign.icims.com/jobs/30509/software-engineer-intern/job
+54 | Workday | Machine Learning Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812
+54 | Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
+54 | Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
+54 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | https://careers.jhuapl.edu/jobs/60432?icims=1
 54 | JLL | AI Intern Summer 2027 Internship - Los Angeles, CA | Los Angeles, CA | https://zapply.jobs/l/d/workday-jll-jllcareers-REQ539393
 53 | BorgWarner | Systems Test Automation Engineering Intern | Kokomo Technical | https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-4041
-52 | AeroVironment | Autonomy & Robotics Engineer Intern | Germantown, MD, Dayton, OH | https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556
-52 | MITRE | AI Solutions Architect Intern | McLean, Virginia | https://zapply.jobs/l/d/phenom-mitre-R117733
 51 | Microsoft | Data Science INTERN | United States | https://zapply.jobs/l/d/microsoft-200041778
-50 | GlobalFoundries | Software Engineer Intern | Austin, TX, Santa Clara, CA | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039
 50 | Northrop Grumman | 2027 Software Engineer Intern – McClellan CA | McClellan, California | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207
-49 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false
+49 | Arcesium | Infrastructure Engineer Intern | New York | https://zapply.jobs/l/d/greenhouse-arcesiumllc-5257199007
+48 | Moog | Intern, Computer Science | Torrance, CA | https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Computer-Science_R-26-19819
+46 | Schonfeld | Quantitative Developer Intern | Austin, TX | https://job-boards.greenhouse.io/schonfeld/jobs/8267092
+46 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
+46 | Aptiv | Linux Software Development Intern | Home, WA | https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-703d6c61f58178 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | https://careers.amd.com/jobs/91341?icims=1
 098ec04c671e4f | Zipline | Firmware Engineer Intern - Summer 2027 | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
+703d6c61f58178 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | https://careers.amd.com/jobs/91341?icims=1
 b6ccd07eebe050 | Microsoft | AI Software Engineering Intern | https://zapply.jobs/l/d/microsoft-200049019
-29a77b191f3e55 | Affirm | IT Engineer Intern - Early Careers | https://job-boards.greenhouse.io/affirm/jobs/8011375003
-db611957f14f24 | IMC Trading | Machine Learning Engineer Intern | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
+a1091e1c9b4406 | Workday | Cybersecurity Engineer Intern | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809
 ac2dbf20010a47 | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | https://lifeattiktok.com/search/7687630614472149301
 20eb75548d2111 | DoorDash | Software Engineer Intern | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
 83a9cce1ee713a | Waymo | ML Ops & Automation Intern | https://careers.withwaymo.com/jobs?gh_jid=8257237
-b20989ca4b7bef | Workday | Machine Learning Engineer Intern | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812
-634767df081bd3 | Workday | Software Application Development Engineer Intern | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
-096ee5233b9a0c | Workday | Software Engineer Intern | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
-b84dc2c42762f3 | Amazon | Data Engineer Intern | https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us
-8261495d8c53be | General Motors | Autonomous Driving Software Engineer Intern | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064
+db611957f14f24 | IMC Trading | Machine Learning Engineer Intern | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
+29a77b191f3e55 | Affirm | IT Engineer Intern - Early Careers | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 d34505cbb2faa3 | Carnegie Mellon University | AI Security Software Engineer Intern - Summer 2027 | https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200
 89e6da22b36e5c | Carnegie Mellon University | AI Security Research Intern - Summer 2027 | https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1
+6e28ae61f874a4 | NVIDIA | Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958
+31427a4bcf4603 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | https://careers.withwaymo.com/jobs?gh_jid=8257660
+796a4f96242c58 | Docusign | Software Engineer Intern | https://uscareers-docusign.icims.com/jobs/30508/software-engineer-intern/job
+5c9d99867863e9 | Docusign | Software Engineer Intern | https://uscareers-docusign.icims.com/jobs/30509/software-engineer-intern/job
