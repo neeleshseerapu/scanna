@@ -1,44 +1,41 @@
-scan at 2026-10-11 17:45 UTC
-total 1302 (swe 988, ml 314, web finds 0, added from candidates 0)
-posted in last 24h: 1
-sources: SimplifyJobs list 813/1375; ATS feed (zshah101) 235/760; Vansh & Ouckah list 15/181; SpeedyApply SWE list 118/765; SpeedyApply AI list 65/633; Jobright SWE list 40/100; Zapply list 16/190
+scan at 2026-10-12 01:42 UTC
+total 1302 (swe 987, ml 315, web finds 0, added from candidates 0)
+posted in last 24h: 0
+sources: SimplifyJobs list 813/1372; ATS feed (zshah101) 237/762; Vansh & Ouckah list 15/181; SpeedyApply SWE list 118/765; SpeedyApply AI list 65/633; Jobright SWE list 37/100; Zapply list 17/190
 
 TOP NEW (last 72h) — score | company | title | location | url
-72 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | https://careers.amd.com/jobs/91341?icims=1
+66 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | https://careers.amd.com/jobs/91341?icims=1
 66 | Zipline | Firmware Engineer Intern - Summer 2027 | South San Francisco, CA | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
-60 | IMC Trading | Machine Learning Engineer Intern | NYC | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
-60 | Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 60 | Workday | Cybersecurity Engineer Intern | CA, Pleasanton | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809
-54 | Workday | Machine Learning Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812
-54 | Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
-54 | Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
-54 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | https://careers.jhuapl.edu/jobs/60432?icims=1
+54 | Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
+52 | Cmu | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1
+52 | Cmu | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1
 52 | Carnegie Mellon University | AI Security Software Engineer Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200
-52 | Carnegie Mellon University | AI Security Research Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1
+52 | Carnegie Mellon University | AI Security Research Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199
 50 | Docusign | Software Engineer Intern | Seattle, WA | https://uscareers-docusign.icims.com/jobs/30508/software-engineer-intern/job
 50 | Docusign | Software Engineer Intern | Seattle, WA | https://uscareers-docusign.icims.com/jobs/30509/software-engineer-intern/job
 47 | BorgWarner | Systems Test Automation Engineering Intern | Kokomo Technical | https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-4041
-46 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
-44 | GlobalFoundries | Software Engineer Intern | Austin, TX, Santa Clara, CA | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039
-43 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false
+44 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | https://careers.jhuapl.edu/jobs/60432?icims=1
 43 | Arcesium | Infrastructure Engineer Intern | New York | https://zapply.jobs/l/d/greenhouse-arcesiumllc-5257199007
-40 | Peraton | Software Development Intern | Topeka, KS | https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false
-40 | Viget | Software Developer Intern | Boulder, CO | https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply
 40 | Schonfeld | Quantitative Developer Intern | Austin, TX | https://job-boards.greenhouse.io/schonfeld/jobs/8267092
-40 | Papa John's | Digital Development Intern | Atlanta, GA | https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155
-40 | Nissan Global | EA & Cloud Intern | Franklin, TN | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214
-40 | RTX | Software Engineer Intern | Melbourne, FL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918
+40 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
 40 | Aptiv | Linux Software Development Intern | Home, WA | https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398
+40 | Aptiv | Linux Software Development Intern | Home, WA | https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399
+40 | Raytheon | Software Engineering Intern - Summer 2027 | Melbourne, FL | https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467
+40 | Cboe | Software Engineer Intern | Chicago, IL | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4654
+38 | Perpay | Super Day - Data Engineering Internship | Marquette, MI +1 | https://job-boards.greenhouse.io/perpay/jobs/5260444007
+36 | Micron Technology | Intern - SSD Firmware - CICD | Longmont-MAX, CO | https://micron.wd1.myworkdayjobs.com/en-US/external/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542
+35 | Wing | Data Scientist Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872482002?gh_jid=8872482002
+34 | Enterprise | Intern - Software Analyst - EFM IT - Summer 2027 | St. Louis, MO | https://us-erac.icims.com/jobs/569085/intern---software-analyst-%28efm-it%29%2c-summer-2027/job
+31 | Alcon | Clinical Data Science Intern | Fort Worth, Texas | https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204
+31 | Perpay | Super Day - Data Science Internship | Marquette, MI +1 | https://job-boards.greenhouse.io/perpay/jobs/5260960007
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 703d6c61f58178 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | https://careers.amd.com/jobs/91341?icims=1
 098ec04c671e4f | Zipline | Firmware Engineer Intern - Summer 2027 | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
 208732a0c2146b | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | https://jobright.ai/jobs/info/6acba021d113c967e3c78eb4
 83a9cce1ee713a | Waymo | ML Ops & Automation Intern | https://careers.withwaymo.com/jobs?gh_jid=8257237
-db611957f14f24 | IMC Trading | Machine Learning Engineer Intern | https://job-boards.eu.greenhouse.io/imc/jobs/4962456101
-29a77b191f3e55 | Affirm | IT Engineer Intern - Early Careers | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 a1091e1c9b4406 | Workday | Cybersecurity Engineer Intern | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809
-6e28ae61f874a4 | NVIDIA | Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958
 ac2dbf20010a47 | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | https://lifeattiktok.com/search/7687630614472149301
 20eb75548d2111 | DoorDash | Software Engineer Intern | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
 31427a4bcf4603 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | https://careers.withwaymo.com/jobs?gh_jid=8257660
@@ -46,3 +43,6 @@ ac2dbf20010a47 | TikTok | Machine Learning Engineer Intern - Monetization Techno
 bd31d0776b8f88 | Qualcomm | Multimedia Engineering Internship – Summer 2027 | https://jobright.ai/jobs/info/6aad87113dbb1f8967cee0d6
 69f6155640abf0 | Palantir Technologies | Forward Deployed Infrastructure Engineer, Internship - US Government | https://jobright.ai/jobs/info/6ab5f5cec6fe0dec811a3cc3
 ca9677811844b8 | ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | https://jobs.bytedance.com/en/position/7670690923748870405/detail
+11b7e772d66c6f | TikTok | AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live | https://lifeattiktok.com/search/7670876223732762933
+29a77b191f3e55 | Affirm | IT Engineer Intern - Early Careers | https://job-boards.greenhouse.io/affirm/jobs/8011375003
+68abfb7bd97036 | TikTok | Software Development Engineer Intern - Global E-Commerce - Quality Platform & AI Test Automation - 2027 Summer | https://lifeattiktok.com/search/7668837275459324213
