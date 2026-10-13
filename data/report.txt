@@ -1,46 +1,48 @@
-scan at 2026-10-12 21:23 UTC
-total 1311 (swe 994, ml 317, web finds 0, added from candidates 0)
-posted in last 24h: 18
-sources: SimplifyJobs list 804/1366; ATS feed (zshah101) 246/774; Vansh & Ouckah list 15/181; SpeedyApply SWE list 118/765; SpeedyApply AI list 66/639; Jobright SWE list 42/100; Zapply list 20/190
+scan at 2026-10-13 03:08 UTC
+total 1314 (swe 998, ml 316, web finds 0, added from candidates 0)
+posted in last 24h: 14
+sources: SimplifyJobs list 828/1403; ATS feed (zshah101) 236/774; Vansh & Ouckah list 15/181; SpeedyApply SWE list 118/765; SpeedyApply AI list 66/639; Jobright SWE list 34/100; Zapply list 17/190
 
 TOP NEW (last 72h) — score | company | title | location | url
 80 | Google | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
-72 | General Motors | 2027 Summer Intern - Research and Development - AI/Machine Learning | Mountain View, California | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620
-70 | General Motors | 2027 Summer Intern - Research and Development - Machine Learning for Automation | Warren, Michigan | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724
+80 | Databricks | Software Engineer Intern | SF, Bellevue, WA | https://boards.greenhouse.io/embed/job_app?token=6865687002
 70 | Microsoft | Cloud Network Engineering Internship Oportunities | Redmond, Washington | https://zapply.jobs/l/d/microsoft-200061277
-66 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | https://careers.amd.com/jobs/91341?icims=1
 62 | General Dynamics Information Technology | 2027 Summer Intern - Defense Agencies (Cybersecurity) | USA VA Falls Church | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273
-62 | General Dynamics Information Technology | 2027 Summer Intern - Defense Angencies (AI/ML) | USA VA Falls Church | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275
-62 | Nissan | Financial AI Engineering Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - | https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241
-62 | KLA | AI/ML Software Engineer - Intern | Ann Arbor, MI | https://zapply.jobs/l/d/workday-kla-search-2641701
 60 | Zipline | Firmware Engineer Intern - Summer 2027 | South San Francisco, CA | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
+59 | Stantec | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC | https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240
 58 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726
 56 | CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA | https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115
-56 | AtkinsRéalis | Software Developer Intern - Summer 2027 | US.CO.Denver | https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1
+56 | RF-SMART | Software Support Engineer Intern | Jacksonville, FL | https://job-boards.greenhouse.io/rfsmart/jobs/5427723008
 56 | RF-SMART | Software Developer Internship- Summer 2027 | Highlands Ranch, Colorado | https://job-boards.greenhouse.io/rfsmart/jobs/5446867008
-56 | RF-SMART | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Jacksonville, Florida | https://job-boards.greenhouse.io/rfsmart/jobs/5427723008
 56 | Symbotic | Intern- Software Engineer | USA Wilmington, MA | https://zapply.jobs/l/d/workday-symbotic-symbotic-R7963
-54 | Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 54 | CapTech Consulting | Data Analysis/Data Engineering Intern | Richmond, VA | https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169
+54 | MEMX | Data Engineer Intern | NYC | https://job-boards.greenhouse.io/memx/jobs/5450442008
 54 | Symbotic | Intern- Data Engineer | USA Wilmington, MA | https://zapply.jobs/l/d/workday-symbotic-symbotic-R7967
-47 | Nissan | Data Science Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - | https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250
-47 | Nissan | Data Science Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United... | https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215331
-44 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | https://careers.jhuapl.edu/jobs/60432?icims=1
-40 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
+52 | Corewell Health | Digital Services Generative AI Internship | Grand Rapids, MI, Southfield, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Generative-AI-Internship-Summer-2027_R229392
+52 | Nissan Global | Financial AI Engineer Intern | Franklin, TN | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241
+52 | General Dynamics Information Technology | Defense Agencies Intern - AI/ML | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275
+50 | RTX | Software Engineer Intern | Fullerton, CA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
+50 | Corewell Health | Digital Services Web and Mobile Developer Intern | Grand Rapids, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434
+50 | Realty Income | Technology Intern | San Diego, CA | https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339
+47 | Ascension | Data Science Intern | St. Louis, MO | https://jobs.ascension.org/us/en/job/2026-465186
+46 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1
+46 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1
+46 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2
+46 | AtkinsRéalis | Software Developer Intern | Denver, CO | https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 fd9962d67b4f46 | Google | Forward Deployed Engineer Intern | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
-44ac65280d7ea7 | General Motors | 2027 Summer Intern - Research and Development - AI/Machine Learning | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620
-6f15a9800b3ce9 | General Motors | 2027 Summer Intern - Research and Development - Machine Learning for Automation | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724
+bcc8fbae67b9b1 | Databricks | Software Engineer Intern | https://boards.greenhouse.io/embed/job_app?token=6865687002
 644c3d848a2686 | Microsoft | Cloud Network Engineering Internship Oportunities | https://zapply.jobs/l/d/microsoft-200061277
-703d6c61f58178 | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | https://careers.amd.com/jobs/91341?icims=1
-208732a0c2146b | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | https://jobright.ai/jobs/info/6acba021d113c967e3c78eb4
 d4eee4fd0fa243 | General Dynamics Information Technology | 2027 Summer Intern - Defense Agencies (Cybersecurity) | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273
-b2325a1326f7cf | General Dynamics Information Technology | 2027 Summer Intern - Defense Angencies (AI/ML) | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275
-1582190f9477ee | Nissan | Financial AI Engineering Intern - Summer 2027 - Franklin, TN | https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241
-43f1cac12e3dc4 | KLA | AI/ML Software Engineer - Intern | https://zapply.jobs/l/d/workday-kla-search-2641701
 83a9cce1ee713a | Waymo | ML Ops & Automation Intern | https://careers.withwaymo.com/jobs?gh_jid=8257237
 fa64ad5de06fa7 | Robinhood | Software Engineering Intern, Web (Summer 2027) | https://jobright.ai/jobs/info/6aa7ec7e3a9f0a4fe6f16530
 098ec04c671e4f | Zipline | Firmware Engineer Intern - Summer 2027 | https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003
+8c20a444c843db | Stantec | Bridge Design Intern - Infrastructure (Summer 2027) | https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240
 5edf2a2d6f0e29 | Cboe | Software Engineer Intern (C++) | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726
 ac2dbf20010a47 | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | https://lifeattiktok.com/search/7687630614472149301
+20eb75548d2111 | DoorDash | Software Engineer Intern | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
+31427a4bcf4603 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | https://careers.withwaymo.com/jobs?gh_jid=8257660
+e9b9e643e9870a | Robinhood | Software Engineering Intern, Backend (Summer 2027) | https://jobright.ai/jobs/info/6aa7ec9182e82a31997c2ee5
+555a4680340b5b | Robinhood | Software Engineering Intern, Android (Summer 2027) | https://jobright.ai/jobs/info/6aa7ec8ca77a53f5a1576698
+2dab0bbed4d693 | Robinhood | Software Engineering Intern, iOS (Summer 2027) | https://jobright.ai/jobs/info/6aa7eceaa77a53f5a15766b1
