@@ -1,48 +1,48 @@
-scan at 2026-10-13 19:29 UTC
-total 1347 (swe 1022, ml 325, web finds 0, added from candidates 0)
-posted in last 24h: 15
-sources: SimplifyJobs list 816/1383; ATS feed (zshah101) 233/773; Vansh & Ouckah list 15/181; SpeedyApply SWE list 149/820; SpeedyApply AI list 84/696; Jobright SWE list 33/100; Zapply list 17/190
+scan at 2026-10-14 01:21 UTC
+total 1352 (swe 1027, ml 325, web finds 0, added from candidates 0)
+posted in last 24h: 17
+sources: SimplifyJobs list 818/1373; ATS feed (zshah101) 227/772; Vansh & Ouckah list 15/181; SpeedyApply SWE list 149/820; SpeedyApply AI list 83/696; Jobright SWE list 43/100; Zapply list 17/189
 
 TOP NEW (last 72h) — score | company | title | location | url
-80 | Databricks | Software Engineer Intern | SF, Bellevue, WA | https://boards.greenhouse.io/embed/job_app?token=6865687002
-72 | Skydio | Embedded Software Engineer Intern - Summer 2027 | San Mateo, California, United... | https://zapply.jobs/l/d/ashby-skydio-8994767e-fd53-4ca2-b0ef-fe0923c1e260
+80 | Netflix | Software Engineer Intern | LA, Los Gatos, CA | https://explore.jobs.netflix.net/careers/job/790318904468
+76 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA, West Palm Beach, FL | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+72 | Skydio | Embedded Software Engineer Intern - Summer 2027 | San Mateo, California | https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260
 70 | Google | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
+70 | Databricks | Software Engineer Intern | SF, Bellevue, WA | https://boards.greenhouse.io/embed/job_app?token=6865687002
 70 | Impulse Space | Assembly - Integration - and Test - AI&T Engineering Intern - Summer 2027 | Redondo Beach, CA | https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56
-70 | Motorola Solutions | Software Engineer Co-op Intern - 2026/2027 | Illinois Remote Work, More... | https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641
 65 | Hewlett Packard Enterprise | HPC/AI Systems Service Process Improvement Engineer Intern | Illinois | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402
+64 | Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
 64 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv
 62 | Hewlett Packard Enterprise | HPC/AI System Admin HW/SW Service Engineer Intern | Tennessee | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404
-62 | KLA | Software Engineer Intern - AI | Ann Arbor, MI | https://zapply.jobs/l/d/workday-kla-search-2641817
+62 | Blue Origin | Summer 2027 Test Engineering Internship - Undergraduate | Greater Seattle Area | https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71433
+60 | Rhombus | Software Engineer Intern | Sacramento, CA | https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
 60 | Impulse Space | Flight/Embedded Software Engineering Intern - Summer 2027 | Redondo Beach, CA | https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7
 60 | Microsoft | Cloud Network Engineering Internship Opportunities | Redmond, Washington | https://zapply.jobs/l/d/microsoft-200061277
-56 | RTX | Software Engineer Intern | Annapolis Junction, MD | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1
+60 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | https://zapply.jobs/l/d/workday-kla-search-2641921
+59 | Watts Water | End User & Infrastructure Support Intern, Summer 2027 | Andover, MA Federal Street | https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567
+58 | Medpace | Python Developer Intern | Cincinnati, OH | https://careers.medpace.com/jobs/13059?icims=1
 56 | Draper | Classified Cybersecurity/IT Internship (Summer 2027) | Cambridge, MA | https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021
-56 | Jain Global | Quantitative Developer Intern (Summer 2027 - New York) | New York, New York | https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608
 56 | Gesture | Data Science Engineering Intern | New York City, NY | https://jobs.gusto.com/postings/gesture-us-inc-data-science-engineering-intern-13b91e09-a404-4820-ab7d-f310a56a9936
 56 | Muon Space | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | https://zapply.jobs/l/d/greenhouse-muonspace-5256288007
-54 | MEMX | Data Engineer Intern | NYC | https://job-boards.greenhouse.io/memx/jobs/5450442008
-52 | Corewell Health | Digital Services Generative AI Internship | Grand Rapids, MI, Southfield, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Generative-AI-Internship-Summer-2027_R229392
-52 | Nissan Global | Financial AI Engineer Intern | Franklin, TN | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241
-52 | General Dynamics Information Technology | Defense Agencies Intern - AI/ML | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275
+54 | Gallup | Data Engineer Intern | SF | https://job-boards.greenhouse.io/gallup/jobs/4449991009
+52 | Carbon Robotics | Engineering Intern - Hardware & Software | Seattle, WA | https://carbonrobotics.com/job-openings?gh_jid=4721558006
 52 | General Dynamics Information Technology | 2027 Summer Intern - Defense Agencies (Cybersecurity) | USA VA Falls Church | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273
-52 | Bose | Embedded Audio ML Engineer Co-op | MA - Framingham | https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R28719
-50 | RTX | Software Engineer Intern | Fullerton, CA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
-50 | Corewell Health | Digital Services Web and Mobile Developer Intern | Grand Rapids, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434
-50 | Realty Income | Technology Intern | San Diego, CA | https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339
+49 | Stantec | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC | https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240
+48 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-bcc8fbae67b9b1 | Databricks | Software Engineer Intern | https://boards.greenhouse.io/embed/job_app?token=6865687002
-c0b744b6601bd3 | Skydio | Embedded Software Engineer Intern - Summer 2027 | https://zapply.jobs/l/d/ashby-skydio-8994767e-fd53-4ca2-b0ef-fe0923c1e260
+eb89e826071ea4 | Netflix | Software Engineer Intern | https://explore.jobs.netflix.net/careers/job/790318904468
+1cd562e01cd40e | ServiceNow | AI Engineering Associate Software Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+d90e39c14b62c0 | Skydio | Embedded Software Engineer Intern - Summer 2027 | https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260
 fd9962d67b4f46 | Google | Forward Deployed Engineer Intern | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
+bcc8fbae67b9b1 | Databricks | Software Engineer Intern | https://boards.greenhouse.io/embed/job_app?token=6865687002
 f3743382dd1a69 | Impulse Space | Assembly - Integration - and Test - AI&T Engineering Intern - Summer 2027 | https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56
-95e910558f7622 | Motorola Solutions | Software Engineer Co-op Intern - 2026/2027 | https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641
 255b5b4de5d43c | Hewlett Packard Enterprise | HPC/AI Systems Service Process Improvement Engineer Intern | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402
+31236443de9768 | Armadin | Frontend Engineer Intern - Member of Technical Staff | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
 9e4d4615af58d9 | GEI Consultants | Web Developer Intern | https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv
 0780fb3ace76cf | Hewlett Packard Enterprise | HPC/AI System Admin HW/SW Service Engineer Intern | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404
-4371c277223644 | KLA | Software Engineer Intern - AI | https://zapply.jobs/l/d/workday-kla-search-2641817
-83a9cce1ee713a | Waymo | ML Ops & Automation Intern | https://careers.withwaymo.com/jobs?gh_jid=8257237
+6c807e9bb0d3c2 | Blue Origin | Summer 2027 Test Engineering Internship - Undergraduate | https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71433
+c822968809f601 | Rhombus | Software Engineer Intern | https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
 b2d606b4ab00d5 | Impulse Space | Flight/Embedded Software Engineering Intern - Summer 2027 | https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7
 644c3d848a2686 | Microsoft | Cloud Network Engineering Internship Opportunities | https://zapply.jobs/l/d/microsoft-200061277
-ac2dbf20010a47 | TikTok | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | https://lifeattiktok.com/search/7687630614472149301
-20eb75548d2111 | DoorDash | Software Engineer Intern | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
-31427a4bcf4603 | Waymo | 2027 Summer Intern, BS, Software Engineer, Model Eval | https://careers.withwaymo.com/jobs?gh_jid=8257660
+a8c1c21b57e9d7 | KLA | Computer Vision/Machine Learning Intern | https://zapply.jobs/l/d/workday-kla-search-2641921
