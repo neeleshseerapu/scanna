@@ -1,48 +1,48 @@
-scan at 2026-10-14 01:21 UTC
-total 1352 (swe 1027, ml 325, web finds 0, added from candidates 0)
-posted in last 24h: 17
-sources: SimplifyJobs list 818/1373; ATS feed (zshah101) 227/772; Vansh & Ouckah list 15/181; SpeedyApply SWE list 149/820; SpeedyApply AI list 83/696; Jobright SWE list 43/100; Zapply list 17/189
+scan at 2026-10-14 17:33 UTC
+total 1377 (swe 1045, ml 332, web finds 0, added from candidates 0)
+posted in last 24h: 31
+sources: SimplifyJobs list 815/1380; ATS feed (zshah101) 236/774; Vansh & Ouckah list 15/181; SpeedyApply SWE list 158/848; SpeedyApply AI list 91/734; Jobright SWE list 41/100; Zapply list 21/188
 
 TOP NEW (last 72h) — score | company | title | location | url
+82 | JPMorganChase | 2027 AI Research Associate Program - Internship | New York, NY | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800354
 80 | Netflix | Software Engineer Intern | LA, Los Gatos, CA | https://explore.jobs.netflix.net/careers/job/790318904468
+80 | Anduril | 2027 Firmware Engineer Intern | Costa Mesa, CA | https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
+78 | General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | Sunnyvale, California, United... | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622410
 76 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA, West Palm Beach, FL | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+76 | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA | https://lifeattiktok.com/search/7694357619162532149
+76 | Point72 | Software Engineer Intern | NYC | https://boards.greenhouse.io/point72/jobs/8885733002
+76 | General Motors | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | Sunnyvale, California, United... | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622406
+72 | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | Annapolis, Maryland | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705
 72 | Skydio | Embedded Software Engineer Intern - Summer 2027 | San Mateo, California | https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260
-70 | Google | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
+72 | Northrop Grumman | 2027 Cyber Software Engineer Intern - San Antonio TX | San Antonio, Texas | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256037
 70 | Databricks | Software Engineer Intern | SF, Bellevue, WA | https://boards.greenhouse.io/embed/job_app?token=6865687002
-70 | Impulse Space | Assembly - Integration - and Test - AI&T Engineering Intern - Summer 2027 | Redondo Beach, CA | https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56
-65 | Hewlett Packard Enterprise | HPC/AI Systems Service Process Improvement Engineer Intern | Illinois | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402
+67 | GE Vernova | AI Post-Training and Model Alignment Intern | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1
+67 | GE Vernova | AI Evaluation & Benchmarking Intern - AGI | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1
+64 | Google | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
 64 | Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
-64 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv
-62 | Hewlett Packard Enterprise | HPC/AI System Admin HW/SW Service Engineer Intern | Tennessee | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404
-62 | Blue Origin | Summer 2027 Test Engineering Internship - Undergraduate | Greater Seattle Area | https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71433
+62 | Northrop Grumman | 2027 S/W Embedded Engineering Intern – Annapolis MD | Annapolis, Maryland | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697
 60 | Rhombus | Software Engineer Intern | Sacramento, CA | https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
-60 | Impulse Space | Flight/Embedded Software Engineering Intern - Summer 2027 | Redondo Beach, CA | https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7
-60 | Microsoft | Cloud Network Engineering Internship Opportunities | Redmond, Washington | https://zapply.jobs/l/d/microsoft-200061277
-60 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | https://zapply.jobs/l/d/workday-kla-search-2641921
-59 | Watts Water | End User & Infrastructure Support Intern, Summer 2027 | Andover, MA Federal Street | https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567
-58 | Medpace | Python Developer Intern | Cincinnati, OH | https://careers.medpace.com/jobs/13059?icims=1
-56 | Draper | Classified Cybersecurity/IT Internship (Summer 2027) | Cambridge, MA | https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021
-56 | Gesture | Data Science Engineering Intern | New York City, NY | https://jobs.gusto.com/postings/gesture-us-inc-data-science-engineering-intern-13b91e09-a404-4820-ab7d-f310a56a9936
-56 | Muon Space | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | https://zapply.jobs/l/d/greenhouse-muonspace-5256288007
-54 | Gallup | Data Engineer Intern | SF | https://job-boards.greenhouse.io/gallup/jobs/4449991009
-52 | Carbon Robotics | Engineering Intern - Hardware & Software | Seattle, WA | https://carbonrobotics.com/job-openings?gh_jid=4721558006
-52 | General Dynamics Information Technology | 2027 Summer Intern - Defense Agencies (Cybersecurity) | USA VA Falls Church | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273
-49 | Stantec | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC | https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240
-48 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726
+60 | Microsoft | Cloud Network Engineering Internship Opportunities | Washington, DC | https://apply.careers.microsoft.com/careers/job/1970393557037856
+60 | Wing | Execution & Topology Software Engineering Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872477002?gh_jid=8872477002
+60 | Wing | Manufacturing Software Test Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872468002?gh_jid=8872468002
+60 | Wing | Motion Planning Software Engineering Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872472002?gh_jid=8872472002
+60 | Wing | Software Engineering Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872476002?gh_jid=8872476002
+60 | Wing | Data Infra Software Engineering Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872471002?gh_jid=8872471002
+60 | Wing | Machine Learning Engineering Intern - Summer 2027 | Palo Alto, CA | https://wing.com/careers/8872479002?gh_jid=8872479002
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+75e1a4c97e03cc | JPMorganChase | 2027 AI Research Associate Program - Internship | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800354
 eb89e826071ea4 | Netflix | Software Engineer Intern | https://explore.jobs.netflix.net/careers/job/790318904468
+cbc5aec3af2edf | Anduril | 2027 Firmware Engineer Intern | https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
+b1b3b0365a73e0 | General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622410
 1cd562e01cd40e | ServiceNow | AI Engineering Associate Software Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+32f0f0850897aa | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | https://lifeattiktok.com/search/7694357619162532149
+f742499d578b20 | Point72 | Software Engineer Intern | https://boards.greenhouse.io/point72/jobs/8885733002
+e07199bdddcec3 | General Motors | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622406
+46e4b4f9b2231e | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705
 d90e39c14b62c0 | Skydio | Embedded Software Engineer Intern - Summer 2027 | https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260
-fd9962d67b4f46 | Google | Forward Deployed Engineer Intern | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
+5be5d9b875b364 | Northrop Grumman | 2027 Cyber Software Engineer Intern - San Antonio TX | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256037
 bcc8fbae67b9b1 | Databricks | Software Engineer Intern | https://boards.greenhouse.io/embed/job_app?token=6865687002
-f3743382dd1a69 | Impulse Space | Assembly - Integration - and Test - AI&T Engineering Intern - Summer 2027 | https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56
-255b5b4de5d43c | Hewlett Packard Enterprise | HPC/AI Systems Service Process Improvement Engineer Intern | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402
-31236443de9768 | Armadin | Frontend Engineer Intern - Member of Technical Staff | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true
-9e4d4615af58d9 | GEI Consultants | Web Developer Intern | https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv
-0780fb3ace76cf | Hewlett Packard Enterprise | HPC/AI System Admin HW/SW Service Engineer Intern | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404
-6c807e9bb0d3c2 | Blue Origin | Summer 2027 Test Engineering Internship - Undergraduate | https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71433
-c822968809f601 | Rhombus | Software Engineer Intern | https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
-b2d606b4ab00d5 | Impulse Space | Flight/Embedded Software Engineering Intern - Summer 2027 | https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7
-644c3d848a2686 | Microsoft | Cloud Network Engineering Internship Opportunities | https://zapply.jobs/l/d/microsoft-200061277
-a8c1c21b57e9d7 | KLA | Computer Vision/Machine Learning Intern | https://zapply.jobs/l/d/workday-kla-search-2641921
+efc3f66c444b69 | GE Vernova | AI Post-Training and Model Alignment Intern | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1
+702018ae419660 | GE Vernova | AI Evaluation & Benchmarking Intern - AGI | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1
+fd9962d67b4f46 | Google | Forward Deployed Engineer Intern | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
