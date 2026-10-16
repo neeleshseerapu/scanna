@@ -1,20 +1,17 @@
-scan at 2026-10-16 00:41 UTC
-total 1394 (swe 1052, ml 342, web finds 0, added from candidates 0)
+scan at 2026-10-16 16:54 UTC
+total 1385 (swe 1043, ml 342, web finds 0, added from candidates 0)
 posted in last 24h: 15
-sources: SimplifyJobs list 822/1399; ATS feed (zshah101) 245/800; Vansh & Ouckah list 15/181; SpeedyApply SWE list 158/847; SpeedyApply AI list 91/734; Jobright SWE list 44/100; Zapply list 19/193
+sources: SimplifyJobs list 817/1403; ATS feed (zshah101) 243/797; Vansh & Ouckah list 15/181; SpeedyApply SWE list 163/878; SpeedyApply AI list 93/771; Jobright SWE list 37/100; Zapply list 17/189
 
 TOP NEW (last 72h) — score | company | title | location | url
+80 | TikTok | Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | https://lifeattiktok.com/search/7673636206961641781
+78 | Together AI | Hardware Security Engineer Intern (Summer 2027) | San Francisco | https://zapply.jobs/l/d/greenhouse-togetherai-5238469007
 72 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA | https://lifeattiktok.com/search/7694365861943953717
 70 | Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
 70 | General Matter | Summer 2027 Internship - Information Security Engineer | Los Angeles, CA | https://job-boards.greenhouse.io/generalmatter/jobs/5448019008
-70 | Anduril | 2027 Firmware Engineer Intern | Costa Mesa, CA | https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
 69 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016165636
-69 | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016164196
 69 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016164416
 69 | LLNL | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer... | Livermore, CA | https://zapply.jobs/l/d/sr-llnl-3743990016165636
-68 | General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | Sunnyvale, California | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
-66 | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA | https://lifeattiktok.com/search/7694357619162532149
-66 | Point72 | Software Engineer Intern | NYC | https://boards.greenhouse.io/point72/jobs/8885733002
 66 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA | https://lifeattiktok.com/search/7694360101507762485
 66 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA | https://lifeattiktok.com/search/7694362230074673461
 66 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Live | Seattle, WA | https://lifeattiktok.com/search/7694360097210861829
@@ -22,27 +19,30 @@ TOP NEW (last 72h) — score | company | title | location | url
 66 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | https://lifeattiktok.com/search/7694362229701069109
 66 | TikTok | Machine Learning Engineer Intern - E-Commerce Governance | Seattle, WA | https://lifeattiktok.com/search/7694366551807265029
 66 | Snap | Generative Media Research Intern | LA | https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179
-66 | T-Mobile | Summer 2027 Software Engineering Intern | Bellevue, Washington | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
-66 | General Motors | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | Sunnyvale, California | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406
 64 | Netflix | Software Engineer Intern | LA, Los Gatos, CA | https://explore.jobs.netflix.net/careers/job/790318904468
-64 | Tessera Labs | Full Stack Software Engineer Intern - Full Stack | San Jose, CA, Remote (US) | https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
+64 | Healthpeak Properties | Forward Deployed Software Engineer Intern | Irvine, CA | https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship
+64 | AiDash | Software Engineering Intern - Backend | Palo Alto, CA | https://job-boards.greenhouse.io/aidashinc/jobs/4436057009
+64 | Anduril | 2027 Firmware Engineer Intern | Costa Mesa, CA | https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
 63 | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Intern | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016165496
-62 | Northrop Grumman | 2027 Cyber Software Engineer Intern - San Antonio TX | San Antonio, Texas | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037
-62 | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | Annapolis, Maryland | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705
+62 | General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | Sunnyvale, California | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
+62 | Dell Technologies | Cybersecurity Undergraduate Intern | Round Rock, TX | https://zapply.jobs/l/d/oracle-dell-technologies-299004
+62 | Dell Technologies | Product & Application Security Undergraduate Intern | Round Rock, TX | https://zapply.jobs/l/d/oracle-dell-technologies-299002
+60 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA, West Palm Beach, FL | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+60 | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA | https://lifeattiktok.com/search/7694357619162532149
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+39a0fae911a9d9 | TikTok | Software Engineer Intern - Recommendation Performance Efficiency | https://lifeattiktok.com/search/7673636206961641781
+6e34a002fc0572 | Together AI | Hardware Security Engineer Intern (Summer 2027) | https://zapply.jobs/l/d/greenhouse-togetherai-5238469007
 db204b568ba3f1 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | https://lifeattiktok.com/search/7694365861943953717
 beba0d380fa2cf | Skydio | Software Engineer Intern | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
 9c2020143aec1c | General Matter | Summer 2027 Internship - Information Security Engineer | https://job-boards.greenhouse.io/generalmatter/jobs/5448019008
-cbc5aec3af2edf | Anduril | 2027 Firmware Engineer Intern | https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
 945ee75ee67c9a | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016165636
-27dd5c6e85447b | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016164196
 b4cdf4e61a5126 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016164416
 f458894abf4301 | LLNL | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer... | https://zapply.jobs/l/d/sr-llnl-3743990016165636
-ebbf5700b36b30 | General Motors | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
-32f0f0850897aa | TikTok | Machine Learning Engineer Intern - E-Commerce User Growth | https://lifeattiktok.com/search/7694357619162532149
-f742499d578b20 | Point72 | Software Engineer Intern | https://boards.greenhouse.io/point72/jobs/8885733002
 729d3e07d5b8d7 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | https://lifeattiktok.com/search/7694360101507762485
 1f59ea93ad5e10 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Video | https://lifeattiktok.com/search/7694362230074673461
 f98995eaec9f4e | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Live | https://lifeattiktok.com/search/7694360097210861829
 d68fd338b97460 | TikTok | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | https://lifeattiktok.com/search/7679220954338494773
+bac706b8b7cc11 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | https://lifeattiktok.com/search/7694362229701069109
+3177ab44a17c48 | TikTok | Machine Learning Engineer Intern - E-Commerce Governance | https://lifeattiktok.com/search/7694366551807265029
+03de8a4d53c03b | Snap | Generative Media Research Intern | https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179
