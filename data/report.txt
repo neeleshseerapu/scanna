@@ -1,48 +1,48 @@
-scan at 2026-10-20 17:28 UTC
+scan at 2026-10-21 00:51 UTC
 total 1385 (swe 1040, ml 345, web finds 0, added from candidates 0)
-posted in last 24h: 28
-sources: SimplifyJobs list 811/1398; ATS feed (zshah101) 244/808; Vansh & Ouckah list 47/349; SpeedyApply SWE list 153/832; SpeedyApply AI list 84/739; Jobright SWE list 29/100; Zapply list 17/192
+posted in last 24h: 20
+sources: SimplifyJobs list 812/1387; ATS feed (zshah101) 242/814; Vansh & Ouckah list 51/413; SpeedyApply SWE list 154/832; SpeedyApply AI list 84/739; Jobright SWE list 27/100; Zapply list 15/194
 
 TOP NEW (last 72h) — score | company | title | location | url
-86 | Adobe | AI & Architecture Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
-86 | Adobe | Data, AI & Innovation Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
-82 | Adobe | Security Engineer Intern | Lehi, UT | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
-76 | Point72 | Quantitative Developer Intern | NYC | https://boards.greenhouse.io/point72/jobs/7609197002
-76 | Scale AI | Machine Learning Research Intern | SF, NYC | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
-75 | Northrop Grumman | 2027 Cyber Systems Engineer Intern-Tampa FL | Tampa, Florida | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249196
-70 | Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
-66 | Salesforce | Software Engineer Intern | SF, Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
-66 | Amplify | AI Scientist Intern | Remote (US) | https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true
-66 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
-66 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262
-64 | Aerospace Corporation | Cloud Solutions Engineer / Site Reliability Intern | El Segundo, CA, Chantilly, VA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714
+86 | Adobe | Security Engineer Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+80 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+80 | Uber | 2027 Software Engineering Intern, US | San Francisco, CA, Sunnyvale, CA | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
+80 | LinkedIn | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | Mountain View, CA, United States (Hybrid) | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
+76 | Adobe | AI & Architecture Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
+76 | Adobe | Data, AI & Innovation Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
+72 | Skydio | Embedded Software Engineer Intern - Winer 2027 | San Mateo, California | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
+72 | Adobe | Security Engineer Intern | Lehi, UT | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
+66 | Point72 | Quantitative Developer Intern | NYC | https://boards.greenhouse.io/point72/jobs/7609197002
+66 | Scale AI | Machine Learning Research Intern | SF, NYC | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
+66 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA | https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d
 62 | The New York Times | AI Initiatives Fellow | NYC | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005
 62 | Space Dynamics Laboratory | AI-Enabled Requirements Engineering Intern | North Logan, UT | https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern
+62 | DriveWealth | AI Consulting Associate Program Brokerage Intern | Chicago, IL | https://boards.greenhouse.io/drivewealth/jobs/8039368003
+62 | DriveWealth | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL, NYC | https://boards.greenhouse.io/drivewealth/jobs/8039350003
 62 | MakiPeople | AI Implementation Intern | New York City, NY | https://jobs.ashbyhq.com/maki/e315491d-2c1d-4656-a5a2-07ce158d5d40
 62 | Bosch | AI Research Intern: Wireless Foundation Models | Pittsburgh, PA | https://jobs.smartrecruiters.com/BoschGroup/744000156323136-ai-research-intern-wireless-foundation-models?oga=true
-62 | CoStar Group | Security Engineer Intern - Arlington, VA | VA Arlington | https://zapply.jobs/l/d/workday-costar-costar-campus-R39727
-60 | Amplify | Software Engineer Intern | Remote (US) | https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true
+60 | Salesforce | Software Engineer Intern | SF, Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
+60 | Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
+60 | Metamorphic | Engineering Intern | Palo Alto, CA | https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true
 60 | Nintendo | Intern - IT Software Engineer | Redmond, WA | https://careers.nintendo.com/?gh_jid=4421632009
-56 | Tyler Technologies | Software Developer Intern | Orono, ME | https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false
-56 | Patreon | Software Engineer Intern | SF, NYC | https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true
-56 | Patreon | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application?embed=true
-56 | Westinghouse Electric Company | Software Development Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors
-56 | Boston Scientific | R&D Software Engineer Intern | Arden Hills, MN | https://bostonscientific.eightfold.ai/careers/job/563602813563514
-56 | Verizon Communications | Call Routing Optimization Engineer Intern | Basking Ridge, Bernards, NJ | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398
+60 | Philips | Intern – R&D Front-End Innovation Intern - Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington | https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593146
+57 | TruStage | Information Technology - Development and Infrastructure Internship (hybrid) | Wisconsin - Remote | https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
+56 | Amplify | AI Scientist Intern | Remote (US) | https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true
+56 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+a5826a7bccb1e3 | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+f1017d9450f7cf | Skydio | Mobile Software Engineer Intern | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+547bdf49e25f5e | Uber | 2027 Software Engineering Intern, US | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
+ff2001ae078be1 | LinkedIn | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
 aaf3d960bee37c | Adobe | AI & Architecture Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
 a89f81d86327fd | Adobe | Data, AI & Innovation Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
+3ce7d2f48cd99f | Skydio | Embedded Software Engineer Intern - Winer 2027 | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
 fb1126f075441b | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
 9d5fefe7ed7867 | Point72 | Quantitative Developer Intern | https://boards.greenhouse.io/point72/jobs/7609197002
 cf2aa37b23fa26 | Scale AI | Machine Learning Research Intern | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
-8df2a7df86dcc9 | Northrop Grumman | 2027 Cyber Systems Engineer Intern-Tampa FL | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249196
-766fcbf62ee498 | Inversion Space | AI & Internal Tools Software Engineer Intern | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
-08881d25365564 | Salesforce | Software Engineer Intern | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
-ecbcaf3a4b48db | Amplify | AI Scientist Intern | https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true
-b6860105fbfb95 | Electronic Arts | Software Engineer Intern | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
-ebfbf8773269db | Electronic Arts | Software Engineer Intern | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262
-703e72f360ccc8 | Aerospace Corporation | Cloud Solutions Engineer / Site Reliability Intern | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714
+92fb44a797b094 | Illumio | Engineering Intern, Product Security | https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d
 6766a0aa6ad86c | The New York Times | AI Initiatives Fellow | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005
 2a4ea11b504b3c | Space Dynamics Laboratory | AI-Enabled Requirements Engineering Intern | https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern
-9d92547cac6561 | MakiPeople | AI Implementation Intern | https://jobs.ashbyhq.com/maki/e315491d-2c1d-4656-a5a2-07ce158d5d40
+0c4b9b4211a309 | DriveWealth | AI Consulting Associate Program Brokerage Intern | https://boards.greenhouse.io/drivewealth/jobs/8039368003
+b6478d4faf03b5 | DriveWealth | AI Consulting Associate Program – AI Engineer Intern | https://boards.greenhouse.io/drivewealth/jobs/8039350003
