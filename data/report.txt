@@ -1,48 +1,48 @@
-scan at 2026-10-21 17:36 UTC
-total 1392 (swe 1048, ml 344, web finds 0, added from candidates 0)
-posted in last 24h: 24
-sources: SimplifyJobs list 805/1384; ATS feed (zshah101) 247/823; Vansh & Ouckah list 50/413; SpeedyApply SWE list 160/840; SpeedyApply AI list 86/754; Jobright SWE list 31/100; Zapply list 13/194
+scan at 2026-10-22 00:51 UTC
+total 1397 (swe 1054, ml 343, web finds 0, added from candidates 0)
+posted in last 24h: 17
+sources: SimplifyJobs list 810/1408; ATS feed (zshah101) 242/813; Vansh & Ouckah list 52/448; SpeedyApply SWE list 161/840; SpeedyApply AI list 86/754; Jobright SWE list 35/100; Zapply list 11/194
 
 TOP NEW (last 72h) — score | company | title | location | url
-86 | Adobe | Security Engineer Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
-80 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+82 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge | Cambridge, Massachusetts,... | https://zapply.jobs/l/d/microsoft-200063141
 80 | LinkedIn | Software Engineer Intern | Mountain View, CA | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
-76 | Adobe | AI & Architecture Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
-76 | Adobe | Data, AI & Innovation Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
-72 | Skydio | Embedded Software Engineer Intern - Winer 2027 | San Mateo, California | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
-72 | Adobe | Security Engineer Intern | Lehi, UT | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
+76 | Adobe | Security Engineer Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+72 | Intel | Information Security Engineer Undergraduate Intern | California, Folsom | https://zapply.jobs/l/d/workday-intel-external-JR0287588
 71 | Shield AI | Data Science Intern | San Diego, CA | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
+70 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
 70 | Uber | 2027 Software Engineering Intern, US | San Francisco, CA, Sunnyvale, CA | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
-66 | Point72 | Quantitative Developer Intern | NYC | https://boards.greenhouse.io/point72/jobs/7609197002
-66 | Scale AI | Machine Learning Research Intern | SF, NYC | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
-66 | Northrop Grumman | Software Engineer Intern | Roy, UT | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
-66 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA | https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d
-66 | Aerospace Corporation | 2027 Hardware Security Engineering Undergrad Intern | El Segundo, CA | https://zapply.jobs/l/d/workday-aero-external-R016954
-62 | DriveWealth | AI Consulting Associate Program Brokerage Intern | Chicago, IL | https://boards.greenhouse.io/drivewealth/jobs/8039368003
-62 | DriveWealth | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL, NYC | https://boards.greenhouse.io/drivewealth/jobs/8039350003
+70 | Adobe | AI & Architecture Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
+70 | Adobe | Data, AI & Innovation Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
+66 | Adobe | Security Engineer Intern | Lehi, UT | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
+66 | Aerospace Corporation | Hardware Security Engineering Intern | El Segundo, CA, Chantilly, VA | https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954
 62 | Duke Energy | Nuclear Cybersecurity 2027 Summer Internship | Hartsville, SC | https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099
 62 | Smith+Nephew | Intern Agentic AI Software Engineering | Andover, MA | https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953
-62 | T-Mobile | Summer 2027 Software Engineer - Cloud Security Summer Internship | Atlanta, GA +1 | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190
-60 | Salesforce | Software Engineer Intern | SF, Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
-60 | Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
-60 | Metamorphic | Engineering Intern | Palo Alto, CA | https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true
+62 | Skydio | Embedded Software Engineer Intern - Winer 2027 | San Mateo, California | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
+62 | T-Mobile | Software Engineer Intern, Cloud Security | Atlanta, GA, Frisco, TX | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190
+60 | Point72 | Quantitative Developer Intern | NYC | https://boards.greenhouse.io/point72/jobs/7609197002
+60 | Scale AI | Machine Learning Research Intern | SF, NYC | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
+60 | Zillow | Software Development Engineer Intern | Seattle, WA, Remote (US) | https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
 60 | The Aerospace Corporation | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949
-56 | Amplify | AI Scientist Intern | Remote (US) | https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true
-56 | Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
+60 | Crusoe | Software Engineering Intern, Summer 2027 | San Francisco, CA - | https://zapply.jobs/l/d/ashby-crusoe-07a8a6a9-975e-471c-ac31-b5aaa97f9af5
+56 | Northrop Grumman | Software Engineer Intern | Roy, UT | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
+56 | Aon | IT / AI Engineer Intern | Chicago, IL | https://jobs.aon.com/jobs/110099?icims=1
+56 | GlobalFoundries | AI Software Intern | Santa Clara, CA, Richardson, TX | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029
+56 | Sierra Space | Summer 2027 Flight Software Engineer Intern | Louisville, CO | https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456
+56 | RTX | Software Engineering Co-op (Spring/Summer 2027) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-a5826a7bccb1e3 | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
-f1017d9450f7cf | Skydio | Mobile Software Engineer Intern | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+5baca8170f1f41 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge | https://zapply.jobs/l/d/microsoft-200063141
 ff2001ae078be1 | LinkedIn | Software Engineer Intern | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
+a5826a7bccb1e3 | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+14d12cf7e25b20 | Intel | Information Security Engineer Undergraduate Intern | https://zapply.jobs/l/d/workday-intel-external-JR0287588
+f93f312ce89772 | Shield AI | Data Science Intern | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
+f1017d9450f7cf | Skydio | Mobile Software Engineer Intern | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+547bdf49e25f5e | Uber | 2027 Software Engineering Intern, US | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
 aaf3d960bee37c | Adobe | AI & Architecture Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
 a89f81d86327fd | Adobe | Data, AI & Innovation Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
-3ce7d2f48cd99f | Skydio | Embedded Software Engineer Intern - Winer 2027 | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
 fb1126f075441b | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000
-f93f312ce89772 | Shield AI | Data Science Intern | https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply
-547bdf49e25f5e | Uber | 2027 Software Engineering Intern, US | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
-9d5fefe7ed7867 | Point72 | Quantitative Developer Intern | https://boards.greenhouse.io/point72/jobs/7609197002
-cf2aa37b23fa26 | Scale AI | Machine Learning Research Intern | https://job-boards.greenhouse.io/scaleai/jobs/4735665005
-fe67241a6967e4 | Northrop Grumman | Software Engineer Intern | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
-92fb44a797b094 | Illumio | Engineering Intern, Product Security | https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d
-f69759148afc49 | Aerospace Corporation | 2027 Hardware Security Engineering Undergrad Intern | https://zapply.jobs/l/d/workday-aero-external-R016954
-0c4b9b4211a309 | DriveWealth | AI Consulting Associate Program Brokerage Intern | https://boards.greenhouse.io/drivewealth/jobs/8039368003
+74f47485e28d33 | Aerospace Corporation | Hardware Security Engineering Intern | https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954
+e55ca759fefc4a | Duke Energy | Nuclear Cybersecurity 2027 Summer Internship | https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099
+5e46010963d201 | Smith+Nephew | Intern Agentic AI Software Engineering | https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953
+3ce7d2f48cd99f | Skydio | Embedded Software Engineer Intern - Winer 2027 | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
+28f9ef15c6c207 | T-Mobile | Software Engineer Intern, Cloud Security | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190
