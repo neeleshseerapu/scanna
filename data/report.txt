@@ -1,48 +1,48 @@
-scan at 2026-10-23 00:53 UTC
-total 1393 (swe 1049, ml 344, web finds 0, added from candidates 0)
-posted in last 24h: 16
-sources: SimplifyJobs list 816/1421; ATS feed (zshah101) 239/825; Vansh & Ouckah list 66/496; SpeedyApply SWE list 156/833; SpeedyApply AI list 80/747; Jobright SWE list 26/96; Zapply list 10/195
+scan at 2026-10-23 17:23 UTC
+total 1382 (swe 1039, ml 343, web finds 0, added from candidates 0)
+posted in last 24h: 20
+sources: SimplifyJobs list 787/1349; ATS feed (zshah101) 233/807; Vansh & Ouckah list 90/583; SpeedyApply SWE list 151/842; SpeedyApply AI list 79/779; Jobright SWE list 32/100; Zapply list 10/195
 
 TOP NEW (last 72h) — score | company | title | location | url
 84 | Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
-80 | Microsoft | Software Engineer: Fullstack Product (Web + Services) Intern Opportunities for University Students, | Redmond, Washington | https://zapply.jobs/l/d/microsoft-200042195
+79 | Amazon | Systems Development Engineer Intern | Bellevue, WA | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
+76 | Amazon | Software Engineer Intern | Redmond, WA | https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa
+76 | Amazon | Software Engineer Intern - AWS Database | United States | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+76 | MongoDB | 2027 - Software Engineering Intern, AMER | Austin, New York City | https://www.mongodb.com/careers/job/?gh_jid=8209134
 72 | Microsoft | Software Engineer Intern, Security & Identity | Cambridge, MA | https://apply.careers.microsoft.com/careers/job/1970393557044765
-70 | LinkedIn | Software Engineer Intern | Mountain View, CA | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
 70 | Adobe | Security Engineer Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+70 | Rivian | Software Engineering Intern - Applications - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160
+68 | Rivian and Volkswagen Group Technologies | Data Engineering Intern, AI & Analytics | Palo Alto, CA, Irvine, CA | https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464
 67 | JP Morgan Chase | Asset Management Data Scientist – Summer Associate Intern | NYC | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931
-66 | Pattern | AI Automation Engineer Intern | Lehi, UT | https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply
+67 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Connected Systems | Palo Alto, CA, Irvine, CA | https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f
 66 | Cisco | AI Operations Engineer I Intern | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804
-66 | Skydio | Embedded Software Engineer Intern - Winer 2027 | San Mateo, CA | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
-65 | Pattern | AI Infrastructure Engineer Intern | Lehi, UT | https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply
+66 | KLA | Software Engineering Intern – AI/ML for Diagnostics & Calibration | Milpitas, CA | https://zapply.jobs/l/d/workday-kla-search-2642129
 65 | Northrop Grumman | Systems Engineering Intern - AI Experience | Dulles, VA | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423
-65 | Sierra Nevada Corporation | Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Hagerstown, MD | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540
 64 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
-64 | Uber | 2027 Software Engineering Intern, US | San Francisco, CA, Sunnyvale, CA | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
+64 | LinkedIn | Software Engineer Intern | Mountain View, CA | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
 64 | Cisco | Software Engineer Intern, Full Stack / Backend I | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924
 64 | Cisco | Software Engineer Intern, Full Stack / Backend II | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800
-62 | Northrop Grumman | Cyber Software Engineer Intern | San Antonio, TX | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311
-62 | Nissan | Cyber Security Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - | https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879
-62 | Intel | Information Security Engineer Undergraduate Intern | California, Folsom | https://zapply.jobs/l/d/workday-intel-external-JR0287588
+64 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Vehicle Controls | Palo Alto, CA, Irvine, CA | https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c
+63 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Embedded Platforms | Palo Alto, CA, Irvine, CA | https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048
 60 | Cisco | Machine Learning Engineer I Intern | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803
 60 | Cisco | Machine Learning Engineer II Intern | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802
-60 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (Summer 2027) | Palo Alto, California | https://zapply.jobs/l/d/ashby-rivianvw.tech-7967cd44-5469-48b8-b69f-f036e4098464
-59 | Northrop Grumman | Cyber Systems Engineer Intern | Tampa, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196
+60 | Cisco | Software Engineer Intern, Data & AI | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306
+60 | ASML | Internship - Software Engineer In Test (MOD) | San Jose, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00354568
 59 | Cisco | Software Engineer Intern, Embedded Systems II | San Jose, CA, Milpitas, CA | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805
-58 | Carnegie Mellon University | AI Security Research Intern - Summer 2027 | Pittsburgh, PA | https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 80d01ebafebb80 | Skydio | Frontend Software Engineer Intern | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
-37072dd0725bb9 | Microsoft | Software Engineer: Fullstack Product (Web + Services) Intern Opportunities for University Students, | https://zapply.jobs/l/d/microsoft-200042195
+2b400fee64174d | Amazon | Systems Development Engineer Intern | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
+77549a5a772745 | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa
+7ccead096476e3 | Amazon | Software Engineer Intern - AWS Database | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+d059e88a2f5a8a | MongoDB | 2027 - Software Engineering Intern, AMER | https://www.mongodb.com/careers/job/?gh_jid=8209134
 a54a7306dced4f | Microsoft | Software Engineer Intern, Security & Identity | https://apply.careers.microsoft.com/careers/job/1970393557044765
-ff2001ae078be1 | LinkedIn | Software Engineer Intern | https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
 a5826a7bccb1e3 | Adobe | Security Engineer Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
+2fb5263801e239 | Rivian | Software Engineering Intern - Applications - Summer 2027 | https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160
+5aced960c26842 | Rivian and Volkswagen Group Technologies | Data Engineering Intern, AI & Analytics | https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464
 7f2dc038376bd2 | JP Morgan Chase | Asset Management Data Scientist – Summer Associate Intern | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931
-1c5ef489a43a42 | Pattern | AI Automation Engineer Intern | https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply
+42005ca9fc0362 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, Connected Systems | https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f
 3b73f7f59aff76 | Cisco | AI Operations Engineer I Intern | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804
-3ce7d2f48cd99f | Skydio | Embedded Software Engineer Intern - Winer 2027 | https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34
-d21ebcab7d8e30 | Pattern | AI Infrastructure Engineer Intern | https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply
+33fd1614e18356 | KLA | Software Engineering Intern – AI/ML for Diagnostics & Calibration | https://zapply.jobs/l/d/workday-kla-search-2642129
 eb3692aa8d05e5 | Northrop Grumman | Systems Engineering Intern - AI Experience | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423
-cea450fca2254c | Sierra Nevada Corporation | Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540
 f1017d9450f7cf | Skydio | Mobile Software Engineer Intern | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
-547bdf49e25f5e | Uber | 2027 Software Engineering Intern, US | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
-7ea20a12f54d6b | Cisco | Software Engineer Intern, Full Stack / Backend I | https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924
