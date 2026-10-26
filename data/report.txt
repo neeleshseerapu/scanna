@@ -1,48 +1,48 @@
-scan at 2026-10-26 00:40 UTC
-total 1472 (swe 1100, ml 372, web finds 0, added from candidates 0)
-posted in last 24h: 2
-sources: SimplifyJobs list 743/1305; ATS feed (zshah101) 234/804; Vansh & Ouckah list 227/589; SpeedyApply SWE list 160/843; SpeedyApply AI list 80/788; Jobright SWE list 22/100; Zapply list 6/178
+scan at 2026-10-26 18:50 UTC
+total 1590 (swe 1202, ml 388, web finds 0, added from candidates 0)
+posted in last 24h: 20
+sources: SimplifyJobs list 736/1310; ATS feed (zshah101) 231/806; Vansh & Ouckah list 358/1127; SpeedyApply SWE list 156/837; SpeedyApply AI list 78/784; Jobright SWE list 22/100; Zapply list 9/178
 
 TOP NEW (last 72h) — score | company | title | location | url
+87 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | San Mateo, CA | https://go.vansh.nyc/Sj
 84 | Skydio | Autonomy Engineer Intern | San Mateo, CA | https://go.vansh.nyc/BH
+84 | Skydio | Autonomy Engineer Intern, Simulation & Robotics | San Mateo, CA | https://go.vansh.nyc/Si
+74 | Skydio | Autonomy Engineer Intern - Deep Learning / Computer Vision | San Mateo, CA | https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true
+72 | Wells Fargo | 2027 Technology Summer Internship - Early Careers (Cybersecurity) | CHARLOTTE, NC | https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583417
 66 | Microsoft | Software Engineer Intern, Security & Identity | United States | https://go.vansh.nyc/hN
-64 | MongoDB | Software Engineer Intern | Palo Alto, CA, Seattle, WA | https://www.mongodb.com/careers/job/?gh_jid=8209134
-64 | Astrolab | Software Engineering Intern | Hawthorne, CA | https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005
-63 | Amazon | Systems Development Engineer Intern | Bellevue, WA | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
-63 | Docusign | AI Platform Engineer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job
-62 | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | Spring, TX | https://go.vansh.nyc/hW
-60 | Amazon | Software Engineer Intern - AWS Database | United States | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
-60 | Epic Games | Tools Programmer Intern - Graphics | Cary, NC | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
+66 | Northrop Grumman | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, Ohio | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257656
+64 | Wells Fargo | Technology Intern - Early Careers - Data Engineering | Iselin, Woodbridge Township, NJ, Charlotte, NC | https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066
+63 | BorgWarner | Systems Test Automation Engineering Intern | Kokomo, IN | https://go.vansh.nyc/Sy
+62 | Booz Allen Hamilton | Cyber Security Intern | Lexington, MA | https://go.vansh.nyc/Sx
+62 | Crowe | Cybersecurity Intern | Chicago, IL, Indianapolis, IN | https://go.vansh.nyc/SD
 60 | Amazon | Software Engineer Intern | Redmond, WA | https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
-60 | Amazon | Cloud Hardware Development Engineer Intern | Austin, TX, Cupertino, CA | https://go.vansh.nyc/gL
-60 | Cisco | Software Engineer Data & AI II Intern | San Jose, CA, Milpitas, CA | https://go.vansh.nyc/gO
-60 | Amazon | Software Development Engineer Intern, Amazon Leo | Redmond, WA | https://go.vansh.nyc/hR
-60 | Bosch | Agentic AI R&D Intern | Sunnyvale, CA | https://jobs.smartrecruiters.com/BoschGroup/744000157483412-agentic-ai-r-d-intern?oga=true
-60 | Docusign | Agentic AI Engineer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30587/agentic-ai-engineer-intern/job
+60 | Cisive | Software Developer Intern | Remote (US), United States | https://go.vansh.nyc/SB
+60 | Member Solutions | Software Developer Intern | Remote (US) | https://go.vansh.nyc/SK
+60 | Highmark Health | Software Engineer Intern | Remote (US), United States | https://go.vansh.nyc/SR
 59 | Siemens | Python Backend Developer Intern, Energy Flexibility Platform | Princeton, NJ | https://go.vansh.nyc/hM
-58 | Rivian | Data Engineering Intern - AI & Analytics - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464
-57 | Rivian | Software Engineering Intern - Connected Systems - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f
-54 | The Aerospace Corporation | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011
-54 | Aerospace Corporation | Defensive Cyber Operations Intern | El Segundo, CA | https://go.vansh.nyc/h5
-54 | Rivian | Software Engineering Intern - Vehicle Controls - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c
-54 | Rivian | Software Engineering Intern - Applications - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160
-54 | Docusign | Software Developer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30571/software-developer-intern/job
-53 | ASML | Platform Software Engineer In Test Intern | San Jose, CA | https://go.vansh.nyc/hQ
-53 | Rivian | Software Engineering Intern - Embedded Platforms - Summer 2027 | Palo Alto, CA +2 | https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048
+56 | PTC | Software Engineer Intern | Boston, MA | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943
+56 | Hive Financial Systems | Software Internship-2027 | Atlanta, Georgia | https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007
+56 | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | Spring, TX | https://go.vansh.nyc/hW
+56 | Manhattan Associates | Cloud Intern | Atlanta, GA | https://go.vansh.nyc/MX
+56 | Copart | Vulnerability Management Engineering Intern | Dallas, TX | https://go.vansh.nyc/SC
+56 | Hewlett Packard (HP) | Software Intern | Spring, TX, Fort Collins, CO | https://go.vansh.nyc/SM
+56 | ICF | 2027 Summer Intern, Software Developer (Reston, VA) | Reston, VA | https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603002
+54 | CVS Health | Innovation & Technology Intern - Data Engineering | Irving, TX | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1
+54 | Astrolab | Software Engineering Intern | Hawthorne, CA | https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+0cc36bfd5122f8 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | https://go.vansh.nyc/Sj
 b737c05ce3476b | Skydio | Autonomy Engineer Intern | https://go.vansh.nyc/BH
+48f480613fca09 | Skydio | Autonomy Engineer Intern, Simulation & Robotics | https://go.vansh.nyc/Si
+a759af6d37fdeb | Skydio | Autonomy Engineer Intern - Deep Learning / Computer Vision | https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true
+a36d1daf208d0f | Wells Fargo | 2027 Technology Summer Internship - Early Careers (Cybersecurity) | https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583417
 c889978e15858c | Amazon | Frontier AI & Robotics Intern | https://go.vansh.nyc/eL
 95eda4d7d0777f | Microsoft | Software Engineer Intern, Security & Identity | https://go.vansh.nyc/hN
-d059e88a2f5a8a | MongoDB | Software Engineer Intern | https://www.mongodb.com/careers/job/?gh_jid=8209134
-51c7b4962e916e | Astrolab | Software Engineering Intern | https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005
-2b400fee64174d | Amazon | Systems Development Engineer Intern | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
+b42db4a49d29ed | Northrop Grumman | 2027 Software Engineering Intern - Beavercreek OH | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257656
+1483449e2a1c5f | Wells Fargo | Technology Intern - Early Careers - Data Engineering | https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066
+36c7f70a668d38 | Apple | Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation | https://go.vansh.nyc/D3
 dd1eb717dc3c52 | Adobe | Data, AI & Innovation Intern | https://go.vansh.nyc/bv
 5e160eaa2639e3 | Salesforce | Software Engineer Intern, Security/Government | https://go.vansh.nyc/bA
 29f2c398c3e909 | Salesforce | AI Research Intern | https://go.vansh.nyc/cG
 803eaed815dd8b | Adobe | Security Engineer Intern | https://go.vansh.nyc/cM
-8242c016f9d90b | Docusign | AI Platform Engineer Intern | https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job
-049e47438e05ab | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | https://go.vansh.nyc/hW
-80d01ebafebb80 | Skydio | Frontend Software Engineer Intern | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
-7ccead096476e3 | Amazon | Software Engineer Intern - AWS Database | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
-eeadf64e8cbe64 | Epic Games | Tools Programmer Intern - Graphics | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
+a47e189e18c146 | BorgWarner | Systems Test Automation Engineering Intern | https://go.vansh.nyc/Sy
