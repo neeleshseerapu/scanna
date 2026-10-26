@@ -1,48 +1,48 @@
-scan at 2026-10-25 16:45 UTC
-total 1474 (swe 1102, ml 372, web finds 0, added from candidates 0)
-posted in last 24h: 1
-sources: SimplifyJobs list 745/1322; ATS feed (zshah101) 234/803; Vansh & Ouckah list 226/589; SpeedyApply SWE list 160/843; SpeedyApply AI list 80/788; Jobright SWE list 24/100; Zapply list 5/178
+scan at 2026-10-26 00:40 UTC
+total 1472 (swe 1100, ml 372, web finds 0, added from candidates 0)
+posted in last 24h: 2
+sources: SimplifyJobs list 743/1305; ATS feed (zshah101) 234/804; Vansh & Ouckah list 227/589; SpeedyApply SWE list 160/843; SpeedyApply AI list 80/788; Jobright SWE list 22/100; Zapply list 6/178
 
 TOP NEW (last 72h) — score | company | title | location | url
-72 | Microsoft | Software Engineer Intern, Security & Identity | United States | https://go.vansh.nyc/hN
-68 | Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
-66 | Epic Games | Tools Programmer Intern - Graphics | Cary, NC | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
-66 | Amazon | Software Engineer Intern | Redmond, WA | https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
-65 | Siemens | Python Backend Developer Intern, Energy Flexibility Platform | Princeton, NJ | https://go.vansh.nyc/hM
+84 | Skydio | Autonomy Engineer Intern | San Mateo, CA | https://go.vansh.nyc/BH
+66 | Microsoft | Software Engineer Intern, Security & Identity | United States | https://go.vansh.nyc/hN
 64 | MongoDB | Software Engineer Intern | Palo Alto, CA, Seattle, WA | https://www.mongodb.com/careers/job/?gh_jid=8209134
 64 | Astrolab | Software Engineering Intern | Hawthorne, CA | https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005
 63 | Amazon | Systems Development Engineer Intern | Bellevue, WA | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
 63 | Docusign | AI Platform Engineer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job
 62 | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | Spring, TX | https://go.vansh.nyc/hW
 60 | Amazon | Software Engineer Intern - AWS Database | United States | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+60 | Epic Games | Tools Programmer Intern - Graphics | Cary, NC | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
+60 | Amazon | Software Engineer Intern | Redmond, WA | https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
 60 | Amazon | Cloud Hardware Development Engineer Intern | Austin, TX, Cupertino, CA | https://go.vansh.nyc/gL
 60 | Cisco | Software Engineer Data & AI II Intern | San Jose, CA, Milpitas, CA | https://go.vansh.nyc/gO
 60 | Amazon | Software Development Engineer Intern, Amazon Leo | Redmond, WA | https://go.vansh.nyc/hR
 60 | Bosch | Agentic AI R&D Intern | Sunnyvale, CA | https://jobs.smartrecruiters.com/BoschGroup/744000157483412-agentic-ai-r-d-intern?oga=true
 60 | Docusign | Agentic AI Engineer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30587/agentic-ai-engineer-intern/job
+59 | Siemens | Python Backend Developer Intern, Energy Flexibility Platform | Princeton, NJ | https://go.vansh.nyc/hM
 58 | Rivian | Data Engineering Intern - AI & Analytics - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464
 57 | Rivian | Software Engineering Intern - Connected Systems - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f
-56 | Simbe Robotics | Computer Vision / Applied AI Intern | Burlingame, CA | https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply
-56 | Scout AI | AI Engineer Intern - Fury Team (Summer 2027) | Sunnyvale, CA | https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99
-56 | Amperesand | AI/ML Engineer Intern | Sunnyvale, CA | https://go.vansh.nyc/hF
 54 | The Aerospace Corporation | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011
 54 | Aerospace Corporation | Defensive Cyber Operations Intern | El Segundo, CA | https://go.vansh.nyc/h5
-54 | Multiply Labs | Robotics Software Engineer Intern | San Francisco, CA | https://go.vansh.nyc/hH
 54 | Rivian | Software Engineering Intern - Vehicle Controls - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c
+54 | Rivian | Software Engineering Intern - Applications - Summer 2027 | Palo Alto, CA +1 | https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160
+54 | Docusign | Software Developer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30571/software-developer-intern/job
+53 | ASML | Platform Software Engineer In Test Intern | San Jose, CA | https://go.vansh.nyc/hQ
+53 | Rivian | Software Engineering Intern - Embedded Platforms - Summer 2027 | Palo Alto, CA +2 | https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-95eda4d7d0777f | Microsoft | Software Engineer Intern, Security & Identity | https://go.vansh.nyc/hN
-80d01ebafebb80 | Skydio | Frontend Software Engineer Intern | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
+b737c05ce3476b | Skydio | Autonomy Engineer Intern | https://go.vansh.nyc/BH
 c889978e15858c | Amazon | Frontier AI & Robotics Intern | https://go.vansh.nyc/eL
-eeadf64e8cbe64 | Epic Games | Tools Programmer Intern - Graphics | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
-0b75bfaf940e0a | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
-eb53c41b09e705 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer | https://jobright.ai/jobs/info/6adc8a63c5c64fa3d9cb3e4c
-b095b1412b44e3 | Siemens | Python Backend Developer Intern, Energy Flexibility Platform | https://go.vansh.nyc/hM
+95eda4d7d0777f | Microsoft | Software Engineer Intern, Security & Identity | https://go.vansh.nyc/hN
 d059e88a2f5a8a | MongoDB | Software Engineer Intern | https://www.mongodb.com/careers/job/?gh_jid=8209134
 51c7b4962e916e | Astrolab | Software Engineering Intern | https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005
 2b400fee64174d | Amazon | Systems Development Engineer Intern | https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027
-aaf3d960bee37c | Adobe | AI & Architecture Intern | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
 dd1eb717dc3c52 | Adobe | Data, AI & Innovation Intern | https://go.vansh.nyc/bv
 5e160eaa2639e3 | Salesforce | Software Engineer Intern, Security/Government | https://go.vansh.nyc/bA
 29f2c398c3e909 | Salesforce | AI Research Intern | https://go.vansh.nyc/cG
 803eaed815dd8b | Adobe | Security Engineer Intern | https://go.vansh.nyc/cM
+8242c016f9d90b | Docusign | AI Platform Engineer Intern | https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job
+049e47438e05ab | Hewlett Packard Enterprise | Cybersecurity Engineering Intern | https://go.vansh.nyc/hW
+80d01ebafebb80 | Skydio | Frontend Software Engineer Intern | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
+7ccead096476e3 | Amazon | Software Engineer Intern - AWS Database | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+eeadf64e8cbe64 | Epic Games | Tools Programmer Intern - Graphics | https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004
