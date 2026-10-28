@@ -1,48 +1,48 @@
-scan at 2026-10-28 01:38 UTC
-total 1668 (swe 1263, ml 405, web finds 0, added from candidates 0)
-posted in last 24h: 50
-sources: SimplifyJobs list 777/1389; ATS feed (zshah101) 237/834; Vansh & Ouckah list 391/1194; SpeedyApply SWE list 158/843; SpeedyApply AI list 79/792; Jobright SWE list 16/100; Zapply list 10/177
+scan at 2026-10-28 18:28 UTC
+total 1687 (swe 1278, ml 409, web finds 0, added from candidates 0)
+posted in last 24h: 40
+sources: SimplifyJobs list 775/1377; ATS feed (zshah101) 238/842; Vansh & Ouckah list 396/1193; SpeedyApply SWE list 158/854; SpeedyApply AI list 83/793; Jobright SWE list 25/100; Zapply list 12/177
 
 TOP NEW (last 72h) — score | company | title | location | url
-83 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | San Francisco, CA | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
 80 | Amazon | Database Engineer Intern | Seattle, WA, East Palo Alto, CA | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
-77 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | San Mateo, CA | https://go.vansh.nyc/Sj
-74 | Skydio | Autonomy Engineer Intern - Reinforcement Learning - 2027 - HQ | San Mateo, CA | https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048
-73 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ) | San Mateo, California | https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb
-70 | Visa | Software Engineer, Intern - Foster City 2027 | US - Foster City, CA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1
-70 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Foster City | US - Foster City, CA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1
+73 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | San Francisco, CA | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
+71 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | San Mateo, CA | https://go.vansh.nyc/Sj
 70 | Glean | Software Engineer, Intern (Summer 2027) | Mountain View, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4747670005
+70 | Lockheed Martin | Software Engineer Intern | Sunnyvale, CA | https://go.vansh.nyc/Xr
 68 | Skydio | Autonomy Engineer Intern - Simulation & Robotics | San Mateo, CA | https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true
 68 | Skydio | Autonomy Engineer Intern | San Mateo, CA | https://go.vansh.nyc/BH
+68 | Skydio | Autonomy Engineer Intern - Reinforcement Learning - 2027 - HQ | San Mateo, CA | https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048
+67 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ) | San Mateo, California | https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb
 66 | Visa | Data Science Intern - Data and AI Team | Foster City, CA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1
 66 | Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas, Ohio | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1
-66 | Centene | Applications Security Engineer Intern (Undergraduate Summer 2027) | Remote (US) | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746
-66 | Sonos | Software Engineering Intern (Seattle) | Seattle, WA | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871
-66 | Visa | Software Engineer, Intern - 2027 Ashburn, VA | US - Ashburn, VA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1
-66 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn | US - Ashburn, VA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1
-66 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Bellevue | US - Bellevue, WA | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2
-66 | Lockheed Martin | Software Engineer Intern | Huntsville, AL | https://go.vansh.nyc/UC
-66 | EQT Corporation | AI Intern | Remote (US), United States | https://go.vansh.nyc/VF
-66 | Atoms | AI Research Intern | Mountain View, CA | https://go.vansh.nyc/VZ
-66 | Apple | Software Engineer Intern, Core OS | United States | https://go.vansh.nyc/W1
 66 | Sonos | Software Engineering Intern | Seattle, WA | https://go.vansh.nyc/W9
 66 | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA | https://go.vansh.nyc/Wb
-66 | HP Inc | Cloud Engineering Intern - HP IQ | San Francisco, California,... | https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4799
-65 | Micron Technology | AI Engineer Intern, Platform | Boise, ID | https://go.vansh.nyc/VX
+66 | Sonos | Software Engineering Intern | Boston, MA | https://go.vansh.nyc/XB
+66 | Samsung Semiconductor | Intern - Thermal Modeling & Simulation Engineer - AI Memory / HBM | San Jose, CA | https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003
+66 | Visa | Product Management Intern - Data and AI Team - Summer 2027 | Foster City, CA | https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W
+66 | Intuitive | AI Research Intern | Sunnyvale, CA | https://zapply.jobs/l/d/sr-Intuitive-744000158312151
+65 | Mercor | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA | https://go.vansh.nyc/WU
+64 | ASML | Frontend Developer Intern | San Jose, CA | https://go.vansh.nyc/Wr
+64 | Certa | Frontend Engineer Intern | San Francisco, CA | https://go.vansh.nyc/Xa
+62 | Papa John's | Cyber Security Intern | Atlanta, GA | https://go.vansh.nyc/W8
+62 | Perspective Therapeutics | AI Innovation Intern | Seattle, WA | https://go.vansh.nyc/WX
+62 | Visa | Network and Security Engineering Intern | Ashburn, VA | https://go.vansh.nyc/Xg
+62 | Visa | Network and Security Engineering Intern | Denver, CO | https://go.vansh.nyc/Xh
+62 | RosaicLabs | AI Accelerator Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | https://go.vansh.nyc/Xp
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-b82ab63ede3223 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
 6663baf5c0eb0a | Amazon | Database Engineer Intern | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
+b82ab63ede3223 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
 0cc36bfd5122f8 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | https://go.vansh.nyc/Sj
-422e695cf7d864 | Skydio | Autonomy Engineer Intern - Reinforcement Learning - 2027 - HQ | https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048
-0b56527c75e595 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ) | https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb
-43a56a2fc77c23 | Visa | Software Engineer, Intern - Foster City 2027 | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1
-7e5c02892d0cda | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Foster City | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1
 4c004c82f3e07e | Glean | Software Engineer, Intern (Summer 2027) | https://job-boards.greenhouse.io/gleanwork/jobs/4747670005
+8002c84b6b9220 | Lockheed Martin | Software Engineer Intern | https://go.vansh.nyc/Xr
 18b5f32343b116 | Skydio | Autonomy Engineer Intern - Simulation & Robotics | https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true
 b737c05ce3476b | Skydio | Autonomy Engineer Intern | https://go.vansh.nyc/BH
+422e695cf7d864 | Skydio | Autonomy Engineer Intern - Reinforcement Learning - 2027 - HQ | https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048
+0b56527c75e595 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ) | https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb
 c889978e15858c | Amazon | Frontier AI & Robotics Intern | https://go.vansh.nyc/eL
 127a7a1e3a6161 | Visa | Data Science Intern - Data and AI Team | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1
 123c0d8cb66138 | Salesforce | Forward Deployed Engineer Intern - Global Public Sector | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1
-8137337b3de303 | Centene | Applications Security Engineer Intern (Undergraduate Summer 2027) | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746
-5f1fe025dd6387 | Sonos | Software Engineering Intern (Seattle) | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871
+896e09444a209d | Sonos | Software Engineering Intern | https://go.vansh.nyc/W9
+b1630a30bc47e6 | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | https://go.vansh.nyc/Wb
+c6ca5281538503 | Sonos | Software Engineering Intern | https://go.vansh.nyc/XB
