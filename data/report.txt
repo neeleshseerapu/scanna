@@ -1,48 +1,48 @@
-scan at 2026-10-30 02:07 UTC
-total 1760 (swe 1328, ml 432, web finds 0, added from candidates 0)
-posted in last 24h: 29
-sources: SimplifyJobs list 816/1431; ATS feed (zshah101) 238/861; Vansh & Ouckah list 430/1256; SpeedyApply SWE list 150/848; SpeedyApply AI list 78/797; Jobright SWE list 35/99; Zapply list 13/191
+scan at 2026-10-30 18:10 UTC
+total 1746 (swe 1319, ml 427, web finds 0, added from candidates 0)
+posted in last 24h: 19
+sources: SimplifyJobs list 807/1413; ATS feed (zshah101) 237/859; Vansh & Ouckah list 432/1250; SpeedyApply SWE list 150/850; SpeedyApply AI list 74/794; Jobright SWE list 33/100; Zapply list 13/190
 
 TOP NEW (last 72h) — score | company | title | location | url
-78 | Tesla | Data Engineer Intern - Energy | Palo Alto, CA | https://www.tesla.com/careers/search/job/287982
-78 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | Burbank, CA | https://go.vansh.nyc/YM
-76 | Microsoft | Applied Scientist Intern, Turing | Redmond, WA | https://go.vansh.nyc/Z4
+85 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | https://go.vansh.nyc/10o
+76 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA | https://go.vansh.nyc/10y
 75 | NVIDIA | AI Systems Software Engineer Intern | Austin, TX | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
-75 | Nintendo | Intern - Software Engineer - Platform Security - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4469778009
 74 | Zoox | Autonomy and Geofence Expansion Intern | Foster City, CA | https://go.vansh.nyc/ZX
+72 | Toyota Research Institute | Machine Learning/Agentic AI Intern | Cambridge, MA | https://zapply.jobs/l/d/lever-tri-f8c9ed26-4574-4ad2-954b-b7f5ec365495
 70 | LinkedIn | Software Engineer Intern - First Play | Mountain View, CA | https://jobs.smartrecruiters.com/LinkedIn3/744000158394370
 70 | General Motors | AI/ML Engineer Intern - Autonomous Vehicles | Seattle, WA, Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
-67 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | San Francisco, CA | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
+68 | Tesla | Data Engineer Intern - Energy | Palo Alto, CA | https://www.tesla.com/careers/search/job/287982
+68 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | Burbank, CA | https://go.vansh.nyc/YM
 66 | NVIDIA | Compiler Software Engineer Intern | Redmond, WA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607
-66 | Sonos | Software Partner Engineering Intern (Boston) | Boston, MA | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1
 66 | HP Inc. | Software Product Security Intern, HP IQ | San Francisco, CA | https://go.vansh.nyc/YE
-66 | Ericsson | AI and Automation Engineer Intern | Plano, TX | https://go.vansh.nyc/YK
-66 | Gilead Sciences | Research Intern, Discovery Sciences and Technologies, AI | Foster City, CA | https://go.vansh.nyc/Z5
-66 | Gilead Sciences | Research Intern, Inflammation, AI | Foster City, CA | https://go.vansh.nyc/Z6
-66 | Gilead Sciences | Research Intern, Oncology Biomarker - AI | Foster City, CA | https://go.vansh.nyc/Z7
-66 | Nintendo | Intern - Software Engineer - Audio - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4470048009
-66 | Nintendo | Intern - Software Engineer - Multimedia - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4469718009
-66 | Nintendo | Intern - Software Engineer - CPU Profiler - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4469762009
-66 | Nintendo | Intern - Software Engineer - CPU Debugger - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4471972009
+66 | Microsoft | Applied Scientist Intern, Turing | Redmond, WA | https://go.vansh.nyc/Z4
+66 | Nintendo | Intern - Software Engineer - Connectivity - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4472147009
+65 | Nintendo | Intern - Software Engineer - Platform Security - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4469778009
 64 | Amazon | Database Engineer Intern | Seattle, WA, East Palo Alto, CA | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
-62 | Boston Scientific | AI Solutions Engineering Intern | Arden Hills, MN | https://bostonscientific.eightfold.ai/careers/job/563602813547675
 62 | T-Mobile | Associate AI Engineer Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484
-62 | Northrop Grumman | 2027 Software Test Engineering Intern- Roy UT | Roy, Utah | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1
-60 | Path Robotics | Machine Learning & Robotics Intern | Columbus, OH | https://boards.greenhouse.io/pathrobotics/jobs/8924241002
+62 | GCM Grosvenor | 2027 Cybersecurity Summer Intern | Chicago, Illinois | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003
+62 | MITRE | Trustworthy AI Intern | McLean, VA | https://go.vansh.nyc/10r
+60 | CareSource | Full Stack AI Development Intern | Remote (US) | https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181
+60 | Wex | Software Engineer Intern | Remote (US), United States | https://go.vansh.nyc/10z
+60 | Carnegie Mellon University | Full-Stack Software Development Intern | Pittsburgh, PA | https://zapply.jobs/l/d/workday-cmu-cmu-2025287
+59 | MITRE | Critical Infrastructure Protection Intern | McLean, VA | https://go.vansh.nyc/10s
+58 | AeroVironment | GNC / Autonomy Engineering Intern | Simi Valley, CA | https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/GNC---Autonomy-Engineering-Intern_9222
+57 | Syntiant | Internship - DevOps Machine Learning Infrastructure | Irvine, CA | https://apply.workable.com/syntiant/j/468B53B345/
+56 | T-Mobile | Associate AI Engineer Intern | Frisco, TX, Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-e0685a4f6d1685 | Tesla | Data Engineer Intern - Energy | https://www.tesla.com/careers/search/job/287982
-06acf643e1cd39 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | https://go.vansh.nyc/YM
-4c2341762a648a | Microsoft | Applied Scientist Intern, Turing | https://go.vansh.nyc/Z4
+c95d03ab4320ec | NVIDIA | AI Systems Software Engineering Intern | https://go.vansh.nyc/10o
+ee8d9455730405 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | https://go.vansh.nyc/10y
 626874143869f8 | NVIDIA | AI Systems Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
-bf98d6024b4131 | Nintendo | Intern - Software Engineer - Platform Security - NTD | https://careers.nintendo.com/?gh_jid=4469778009
 05ec44bd3e45fe | Zoox | Autonomy and Geofence Expansion Intern | https://go.vansh.nyc/ZX
+6d70d0477ad3c0 | Toyota Research Institute | Machine Learning/Agentic AI Intern | https://zapply.jobs/l/d/lever-tri-f8c9ed26-4574-4ad2-954b-b7f5ec365495
 506b80cc54eabd | LinkedIn | Software Engineer Intern - First Play | https://jobs.smartrecruiters.com/LinkedIn3/744000158394370
 f5199164316d7c | General Motors | AI/ML Engineer Intern - Autonomous Vehicles | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
-b82ab63ede3223 | Together AI | Technical Writer Intern - Developer Experience - Summer 2027 | https://job-boards.greenhouse.io/togetherai/jobs/5271149007
+e0685a4f6d1685 | Tesla | Data Engineer Intern - Energy | https://www.tesla.com/careers/search/job/287982
+06acf643e1cd39 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | https://go.vansh.nyc/YM
 4caf630cac6875 | NVIDIA | Compiler Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607
-6d3269a82e3bec | Sonos | Software Partner Engineering Intern (Boston) | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1
 5b8bb8af6ac54f | HP Inc. | Software Product Security Intern, HP IQ | https://go.vansh.nyc/YE
-a512b4e7f40433 | Ericsson | AI and Automation Engineer Intern | https://go.vansh.nyc/YK
-4d1a5f9ef67c04 | Gilead Sciences | Research Intern, Discovery Sciences and Technologies, AI | https://go.vansh.nyc/Z5
-d2287136df1c76 | Gilead Sciences | Research Intern, Inflammation, AI | https://go.vansh.nyc/Z6
+4c2341762a648a | Microsoft | Applied Scientist Intern, Turing | https://go.vansh.nyc/Z4
+d69acf86332dd6 | Nintendo | Intern - Software Engineer - Connectivity - NTD | https://careers.nintendo.com/?gh_jid=4472147009
+bf98d6024b4131 | Nintendo | Intern - Software Engineer - Platform Security - NTD | https://careers.nintendo.com/?gh_jid=4469778009
+6663baf5c0eb0a | Amazon | Database Engineer Intern | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
