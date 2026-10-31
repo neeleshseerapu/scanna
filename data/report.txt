@@ -1,48 +1,48 @@
-scan at 2026-10-31 01:46 UTC
-total 1750 (swe 1313, ml 437, web finds 0, added from candidates 0)
-posted in last 24h: 22
-sources: SimplifyJobs list 819/1430; ATS feed (zshah101) 237/867; Vansh & Ouckah list 437/1259; SpeedyApply SWE list 149/850; SpeedyApply AI list 74/794; Jobright SWE list 23/99; Zapply list 11/190
+scan at 2026-10-31 17:20 UTC
+total 1774 (swe 1330, ml 444, web finds 0, added from candidates 0)
+posted in last 24h: 23
+sources: SimplifyJobs list 830/1463; ATS feed (zshah101) 243/871; Vansh & Ouckah list 441/1254; SpeedyApply SWE list 146/848; SpeedyApply AI list 77/805; Jobright SWE list 26/98; Zapply list 11/190
 
 TOP NEW (last 72h) — score | company | title | location | url
-85 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | https://go.vansh.nyc/10o
 84 | Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
+80 | NVIDIA | Deep Learning Intern | Santa Clara, CA | https://go.vansh.nyc/12j
+75 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | https://go.vansh.nyc/10o
+73 | Tevora | Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC) | Irvine, CA | https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c
+70 | Tevora | Cybersecurity Internship Summer 2027 - Threat | Irvine, CA | https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758
+70 | Tevora | Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO) | Irvine, CA | https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c
+70 | Tevora | Cybersecurity Internship Summer 2027 - Healthcare | Irvine, CA | https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0
+70 | Tevora | Cybersecurity Internship Summer 2027 - Solutions | Irvine, CA | https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d
+70 | Tevora | Cybersecurity Internship Summer 2027 - Enterprise Risk Management | Irvine, CA | https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c
 70 | Hewlett Packard Enterprise | Software Engineering Intern | Sunnyvale, CA | https://go.vansh.nyc/111
+70 | Tevora | Cybersecurity Intern, Federal | Fairfax, VA, Irvine, CA | https://go.vansh.nyc/12b
 69 | NVIDIA | AI Systems Software Engineer Intern | Austin, TX | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
-68 | Tesla | Data Engineer Intern - Energy | Palo Alto, CA | https://www.tesla.com/careers/search/job/287982
-68 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | Burbank, CA | https://go.vansh.nyc/YM
 68 | Zoox | Autonomy and Geofence Expansion Intern | Foster City, CA | https://go.vansh.nyc/ZX
-66 | General Motors | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746
-66 | Microsoft | Applied Scientist Intern, Turing | Redmond, WA | https://go.vansh.nyc/Z4
 66 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA | https://go.vansh.nyc/10y
 66 | VSP Vision | Agentic & Machine Learning Development Intern, AI | Remote (US), United States | https://go.vansh.nyc/113
-66 | Nintendo | Intern - Software Engineer - Connectivity - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4472147009
-65 | Nintendo | Intern - Software Engineer - Platform Security - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4469778009
+66 | Nintendo | Intern - Software Engineer - Graphics - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4473550009
+66 | Nintendo | Intern - Software Engineer - Performance Tools - NTD | Redmond, WA | https://careers.nintendo.com/?gh_jid=4473568009
 64 | LinkedIn | Software Engineer Intern - First Play | Mountain View, CA | https://jobs.smartrecruiters.com/LinkedIn3/744000158394370
 64 | General Motors | AI/ML Engineer Intern - Autonomous Vehicles | Seattle, WA, Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
 64 | Obsidian Entertainment | Gameplay Engineer Intern | Irvine, CA | https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship
-62 | Molina Healthcare | Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate) | United States | https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172
-62 | GCM Grosvenor | 2027 Cybersecurity Summer Intern | Chicago, Illinois | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003
+62 | Tesla | Data Engineer Intern - Energy | Palo Alto, CA | https://www.tesla.com/careers/search/job/287982
+62 | Tevora | Cybersecurity Internship Summer2027 - Federal | Fairfax, VA | https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d
+62 | Tevora | Cybersecurity Internship Summer 2027 - Payments | Fairfax, VA | https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721
+62 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | Burbank, CA | https://go.vansh.nyc/YM
 62 | Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Indianapolis, IN | https://go.vansh.nyc/11b
-60 | NVIDIA | Compiler Software Engineer Intern | Redmond, WA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607
-60 | HP Inc. | Software Product Security Intern, HP IQ | San Francisco, CA | https://go.vansh.nyc/YE
-60 | Wex | Software Engineer Intern | Remote (US), United States | https://go.vansh.nyc/10z
-60 | Carnegie Mellon SEI | Full-Stack Software Development Intern | Pittsburgh, PA | https://zapply.jobs/l/d/workday-cmu-sei-2025287
-59 | Garda Capital Partners | Infrastructure Engineer Intern | Wayzata, Minnesota | https://job-boards.greenhouse.io/gardacp/jobs/6239821004
-58 | Firework | Data Engineer Intern | San Mateo, CA | https://go.vansh.nyc/11I
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-c95d03ab4320ec | NVIDIA | AI Systems Software Engineering Intern | https://go.vansh.nyc/10o
 adef0f4ed7c719 | Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
+ff5826f2e6e158 | NVIDIA | Deep Learning Intern | https://go.vansh.nyc/12j
+c95d03ab4320ec | NVIDIA | AI Systems Software Engineering Intern | https://go.vansh.nyc/10o
+e7f0ceed3ca8be | Tevora | Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC) | https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c
+7ae5845a26397c | Tevora | Cybersecurity Internship Summer 2027 - Threat | https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758
+1aea2179a2cb1c | Tevora | Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO) | https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c
+8ec59fe4f86c38 | Tevora | Cybersecurity Internship Summer 2027 - Healthcare | https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0
+956e8e200aef9a | Tevora | Cybersecurity Internship Summer 2027 - Solutions | https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d
+e0fa49a4bc48bb | Tevora | Cybersecurity Internship Summer 2027 - Enterprise Risk Management | https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c
 ef5f74d4a54361 | Hewlett Packard Enterprise | Software Engineering Intern | https://go.vansh.nyc/111
+8363b13416ce36 | Tevora | Cybersecurity Intern, Federal | https://go.vansh.nyc/12b
 626874143869f8 | NVIDIA | AI Systems Software Engineer Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
-e0685a4f6d1685 | Tesla | Data Engineer Intern - Energy | https://www.tesla.com/careers/search/job/287982
-06acf643e1cd39 | Disney | Full Stack Web Development Intern, Walt Disney Animation Studios | https://go.vansh.nyc/YM
 05ec44bd3e45fe | Zoox | Autonomy and Geofence Expansion Intern | https://go.vansh.nyc/ZX
-19d1a4da5ca24a | General Motors | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746
-4c2341762a648a | Microsoft | Applied Scientist Intern, Turing | https://go.vansh.nyc/Z4
 ee8d9455730405 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | https://go.vansh.nyc/10y
 82e404e38f64fc | VSP Vision | Agentic & Machine Learning Development Intern, AI | https://go.vansh.nyc/113
-d69acf86332dd6 | Nintendo | Intern - Software Engineer - Connectivity - NTD | https://careers.nintendo.com/?gh_jid=4472147009
-bf98d6024b4131 | Nintendo | Intern - Software Engineer - Platform Security - NTD | https://careers.nintendo.com/?gh_jid=4469778009
-506b80cc54eabd | LinkedIn | Software Engineer Intern - First Play | https://jobs.smartrecruiters.com/LinkedIn3/744000158394370
-f5199164316d7c | General Motors | AI/ML Engineer Intern - Autonomous Vehicles | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
