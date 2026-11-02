@@ -1,36 +1,37 @@
-scan at 2026-11-02 01:46 UTC
-total 1852 (swe 1387, ml 465, web finds 0, added from candidates 0)
-posted in last 24h: 48
-sources: SimplifyJobs list 824/1438; ATS feed (zshah101) 242/855; Vansh & Ouckah list 541/1443; SpeedyApply SWE list 139/842; SpeedyApply AI list 72/797; Jobright SWE list 26/99; Zapply list 8/190
+scan at 2026-11-02 21:53 UTC
+total 1847 (swe 1376, ml 471, web finds 0, added from candidates 0)
+posted in last 24h: 32
+sources: SimplifyJobs list 805/1426; ATS feed (zshah101) 250/868; Vansh & Ouckah list 547/1441; SpeedyApply SWE list 135/830; SpeedyApply AI list 69/780; Jobright SWE list 30/100; Zapply list 11/194
 
 TOP NEW (last 72h) — score | company | title | location | url
-92 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | https://go.vansh.nyc/18h
-91 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14f
-89 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | https://go.vansh.nyc/140
-89 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | San Jose, CA | https://go.vansh.nyc/14r
-89 | TikTok | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA | https://go.vansh.nyc/18t
-89 | TikTok | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA | https://go.vansh.nyc/18G
-87 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | https://go.vansh.nyc/149
-87 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | https://go.vansh.nyc/17L
-86 | ByteDance | Student Researcher Intern, Seed Model - LLM | San Jose, CA | https://go.vansh.nyc/142
-86 | ByteDance | Security Software Engineer Project Intern, Network Security | San Jose, CA | https://go.vansh.nyc/14B
-86 | TikTok | AI Engineer Intern, TikTok-Client Arch | San Jose, CA | https://go.vansh.nyc/17P
-86 | TikTok | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA | https://go.vansh.nyc/183
-85 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | https://go.vansh.nyc/14o
-85 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | https://go.vansh.nyc/14s
-85 | TikTok | Machine Learning MLOps Intern, Global SRE | San Jose, CA | https://go.vansh.nyc/17S
-85 | TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA | https://go.vansh.nyc/17U
-85 | TikTok | ML Infra Engineer Intern, Ads Infra | San Jose, CA | https://go.vansh.nyc/17V
-83 | ByteDance | Software Engineer Intern, Traffic Infrastructure | San Jose, CA | https://go.vansh.nyc/146
-83 | ByteDance | Software Engineer Project Intern, Developer Infrastructure | San Jose, CA | https://go.vansh.nyc/14a
-83 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14h
-83 | ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | San Jose, CA | https://go.vansh.nyc/15G
-83 | TikTok | Software Engineer Intern, Ads Infrastructure | San Jose, CA | https://go.vansh.nyc/18m
-83 | TikTok | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA | https://go.vansh.nyc/18F
-81 | TikTok | Data Engineer Intern, Data Platform TikTok BP | San Jose, CA | https://go.vansh.nyc/18a
-80 | ByteDance | Machine Learning Engineer Intern, AML-Engine-Orchestration | San Jose, CA | https://go.vansh.nyc/144
+84 | Microsoft | Software Engineer Intern | Aliso Viejo, CA | https://go.vansh.nyc/19z
+82 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | https://go.vansh.nyc/18h
+81 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14f
+79 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | https://go.vansh.nyc/140
+79 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | San Jose, CA | https://go.vansh.nyc/14r
+79 | TikTok | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA | https://go.vansh.nyc/18t
+79 | TikTok | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA | https://go.vansh.nyc/18G
+77 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | https://go.vansh.nyc/149
+77 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | https://go.vansh.nyc/17L
+76 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA | https://www.weareroku.com/jobs/8258241?gh_jid=8258241
+76 | ByteDance | Student Researcher Intern, Seed Model - LLM | San Jose, CA | https://go.vansh.nyc/142
+76 | ByteDance | Security Software Engineer Project Intern, Network Security | San Jose, CA | https://go.vansh.nyc/14B
+76 | TikTok | AI Engineer Intern, TikTok-Client Arch | San Jose, CA | https://go.vansh.nyc/17P
+76 | TikTok | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA | https://go.vansh.nyc/183
+76 | Microsoft | First-Year Explore Program Engineering Intern | Redmond, WA | https://go.vansh.nyc/199
+76 | Microsoft | Software Engineer Intern, CoreAI | Redmond, WA | https://go.vansh.nyc/19t
+76 | Motorola Solutions | Software Engineer Intern, Cybersecurity Services | Remote (US), United States | https://go.vansh.nyc/19M
+75 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | https://go.vansh.nyc/14o
+75 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | https://go.vansh.nyc/14s
+75 | TikTok | Machine Learning MLOps Intern, Global SRE | San Jose, CA | https://go.vansh.nyc/17S
+75 | TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA | https://go.vansh.nyc/17U
+75 | TikTok | ML Infra Engineer Intern, Ads Infra | San Jose, CA | https://go.vansh.nyc/17V
+73 | ByteDance | Software Engineer Intern, Traffic Infrastructure | San Jose, CA | https://go.vansh.nyc/146
+73 | ByteDance | Software Engineer Project Intern, Developer Infrastructure | San Jose, CA | https://go.vansh.nyc/14a
+73 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14h
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+16172c6e336314 | Microsoft | Software Engineer Intern | https://go.vansh.nyc/19z
 59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
 879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
 8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
@@ -39,10 +40,9 @@ f52c2cd5752bd1 | TikTok | AI Software Engineer Project Intern, Transaction Platf
 4b7c64a28a408f | TikTok | Software Engineer Project Intern, Content AI Infrastructure | https://go.vansh.nyc/18G
 850bde527b432d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/149
 2539ca2316f0d0 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | https://go.vansh.nyc/17L
+f3bbb7dc2d88c2 | Roku | Software Engineer Intern - AI Engineering | https://www.weareroku.com/jobs/8258241?gh_jid=8258241
 1d3711255c5007 | ByteDance | Student Researcher Intern, Seed Model - LLM | https://go.vansh.nyc/142
 c60db0c310792f | ByteDance | Security Software Engineer Project Intern, Network Security | https://go.vansh.nyc/14B
 36d26c7f93176c | TikTok | AI Engineer Intern, TikTok-Client Arch | https://go.vansh.nyc/17P
 bed4a76d364659 | TikTok | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | https://go.vansh.nyc/183
-4cdaa89dcc5372 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | https://go.vansh.nyc/14o
-8704816a567122 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/14s
-d776f340d9e996 | TikTok | Machine Learning MLOps Intern, Global SRE | https://go.vansh.nyc/17S
+072cd355aa01ae | Microsoft | First-Year Explore Program Engineering Intern | https://go.vansh.nyc/199
