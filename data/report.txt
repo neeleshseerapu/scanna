@@ -1,7 +1,7 @@
-scan at 2026-11-01 18:03 UTC
-total 1859 (swe 1393, ml 466, web finds 0, added from candidates 0)
-posted in last 24h: 49
-sources: SimplifyJobs list 825/1454; ATS feed (zshah101) 242/855; Vansh & Ouckah list 541/1438; SpeedyApply SWE list 139/842; SpeedyApply AI list 72/797; Jobright SWE list 31/99; Zapply list 9/190
+scan at 2026-11-02 01:46 UTC
+total 1852 (swe 1387, ml 465, web finds 0, added from candidates 0)
+posted in last 24h: 48
+sources: SimplifyJobs list 824/1438; ATS feed (zshah101) 242/855; Vansh & Ouckah list 541/1443; SpeedyApply SWE list 139/842; SpeedyApply AI list 72/797; Jobright SWE list 26/99; Zapply list 8/190
 
 TOP NEW (last 72h) — score | company | title | location | url
 92 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | https://go.vansh.nyc/18h
