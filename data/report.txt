@@ -1,23 +1,19 @@
-scan at 2026-11-03 19:45 UTC
-total 1895 (swe 1418, ml 477, web finds 0, added from candidates 0)
-posted in last 24h: 82
-sources: SimplifyJobs list 819/1439; ATS feed (zshah101) 246/880; Vansh & Ouckah list 603/1558; SpeedyApply SWE list 136/820; SpeedyApply AI list 64/770; Jobright SWE list 17/100; Zapply list 10/199
+scan at 2026-11-04 02:39 UTC
+total 1941 (swe 1455, ml 486, web finds 0, added from candidates 0)
+posted in last 24h: 79
+sources: SimplifyJobs list 837/1458; ATS feed (zshah101) 244/888; Vansh & Ouckah list 624/1618; SpeedyApply SWE list 136/820; SpeedyApply AI list 63/770; Jobright SWE list 26/100; Zapply list 11/199
 
 TOP NEW (last 72h) — score | company | title | location | url
-78 | American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
-78 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | https://go.vansh.nyc/1dS
+78 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
+76 | Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
 76 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | https://go.vansh.nyc/18h
 76 | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | https://go.vansh.nyc/1dY
 75 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14f
 75 | Northrop Grumman | Cyber Systems Engineer Intern | Roy, UT | https://go.vansh.nyc/1dD
-74 | Microsoft | Software Engineer Intern | Aliso Viejo, CA | https://go.vansh.nyc/19z
-74 | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | https://go.vansh.nyc/1dV
 73 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | https://go.vansh.nyc/140
 73 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | San Jose, CA | https://go.vansh.nyc/14r
 73 | TikTok | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA | https://go.vansh.nyc/18t
 73 | TikTok | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA | https://go.vansh.nyc/18G
-72 | NVIDIA | AI Compiler and Kernel Intern | Austin, TX | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
-72 | Shield AI | Embedded Firmware Intern | Dallas, TX | https://go.vansh.nyc/1bm
 72 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, TX | https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4
 71 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | https://go.vansh.nyc/149
 71 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | https://go.vansh.nyc/17L
@@ -29,20 +25,24 @@ TOP NEW (last 72h) — score | company | title | location | url
 70 | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | https://go.vansh.nyc/1dH
 69 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | https://go.vansh.nyc/14o
 69 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | https://go.vansh.nyc/14s
+69 | TikTok | Machine Learning MLOps Intern, Global SRE | San Jose, CA | https://go.vansh.nyc/17S
+69 | TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA | https://go.vansh.nyc/17U
+69 | TikTok | ML Infra Engineer Intern, Ads Infra | San Jose, CA | https://go.vansh.nyc/17V
+68 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | https://go.vansh.nyc/1dS
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-21dfb835837187 | American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
-a5cfbbd94ba2ea | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | https://go.vansh.nyc/1dS
+21dfb835837187 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
+71ee4ad8132c35 | Microsoft | Software Engineer Intern | https://apply.careers.microsoft.com/careers/job/1970393557037859
 59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
 8112c10e4657e2 | Microsoft | Software Engineer Intern, Teamwork Experiences | https://go.vansh.nyc/1dY
 879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
 c6fc25e6ae9781 | Northrop Grumman | Cyber Systems Engineer Intern | https://go.vansh.nyc/1dD
-16172c6e336314 | Microsoft | Software Engineer Intern | https://go.vansh.nyc/19z
-d07e0fbc74d51a | Northrop Grumman | Flight Software Engineer Intern | https://go.vansh.nyc/1dV
 8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
 b80f90b00c80cd | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | https://go.vansh.nyc/14r
 f52c2cd5752bd1 | TikTok | AI Software Engineer Project Intern, Transaction Platform | https://go.vansh.nyc/18t
 4b7c64a28a408f | TikTok | Software Engineer Project Intern, Content AI Infrastructure | https://go.vansh.nyc/18G
-38026305427213 | NVIDIA | AI Compiler and Kernel Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
-0104fd44c9bf90 | Shield AI | Embedded Firmware Intern | https://go.vansh.nyc/1bm
 b3c5830d297244 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 | https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4
+850bde527b432d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/149
+2539ca2316f0d0 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | https://go.vansh.nyc/17L
+9ff4e649694707 | American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722
+1d3711255c5007 | ByteDance | Student Researcher Intern, Seed Model - LLM | https://go.vansh.nyc/142
