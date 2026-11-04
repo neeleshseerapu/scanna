@@ -1,48 +1,48 @@
-scan at 2026-11-04 02:39 UTC
-total 1941 (swe 1455, ml 486, web finds 0, added from candidates 0)
-posted in last 24h: 79
-sources: SimplifyJobs list 837/1458; ATS feed (zshah101) 244/888; Vansh & Ouckah list 624/1618; SpeedyApply SWE list 136/820; SpeedyApply AI list 63/770; Jobright SWE list 26/100; Zapply list 11/199
+scan at 2026-11-04 19:59 UTC
+total 1938 (swe 1448, ml 490, web finds 0, added from candidates 0)
+posted in last 24h: 44
+sources: SimplifyJobs list 826/1451; ATS feed (zshah101) 248/890; Vansh & Ouckah list 636/1635; SpeedyApply SWE list 137/826; SpeedyApply AI list 66/779; Jobright SWE list 15/100; Zapply list 10/196
 
 TOP NEW (last 72h) — score | company | title | location | url
 78 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
 76 | Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
-76 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | https://go.vansh.nyc/18h
-76 | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | https://go.vansh.nyc/1dY
-75 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | https://go.vansh.nyc/14f
-75 | Northrop Grumman | Cyber Systems Engineer Intern | Roy, UT | https://go.vansh.nyc/1dD
-73 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | https://go.vansh.nyc/140
-73 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | San Jose, CA | https://go.vansh.nyc/14r
-73 | TikTok | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA | https://go.vansh.nyc/18t
-73 | TikTok | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA | https://go.vansh.nyc/18G
-72 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, TX | https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4
-71 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | https://go.vansh.nyc/149
-71 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | https://go.vansh.nyc/17L
-70 | American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | Sunnyvale, CA | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722
-70 | ByteDance | Student Researcher Intern, Seed Model - LLM | San Jose, CA | https://go.vansh.nyc/142
-70 | ByteDance | Security Software Engineer Project Intern, Network Security | San Jose, CA | https://go.vansh.nyc/14B
-70 | TikTok | AI Engineer Intern, TikTok-Client Arch | San Jose, CA | https://go.vansh.nyc/17P
-70 | TikTok | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA | https://go.vansh.nyc/183
-70 | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | https://go.vansh.nyc/1dH
-69 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | https://go.vansh.nyc/14o
-69 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | https://go.vansh.nyc/14s
-69 | TikTok | Machine Learning MLOps Intern, Global SRE | San Jose, CA | https://go.vansh.nyc/17S
-69 | TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA | https://go.vansh.nyc/17U
-69 | TikTok | ML Infra Engineer Intern, Ads Infra | San Jose, CA | https://go.vansh.nyc/17V
+72 | Northrop Grumman | 2027 Cybersecurity Software Engineering Intern - Roy UT | Clearfield, Utah | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177
+72 | Northrop Grumman | Cybersecurity Software Engineering Intern | Clearfield, UT | https://go.vansh.nyc/1gl
+69 | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016610426
+69 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016610446
+69 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990016610186
+69 | LLNL | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | https://go.vansh.nyc/1fR
 68 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | https://go.vansh.nyc/1dS
+66 | NVIDIA | AI Compiler and Kernel Intern | Austin, TX | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
+66 | Electronic Arts | Anticheat Engineer Intern | Austin, TX | https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242
+66 | Northrop Grumman | Software Engineer Intern | Roy, UT | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181
+66 | Northrop Grumman | 2027 DevOps Software Engineering Intern - Roy UT | Roy, Utah | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178
+66 | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | https://go.vansh.nyc/1dY
+66 | T-Mobile | T-Ads Software Engineering Intern | Philadelphia, PA | https://go.vansh.nyc/1er
+66 | Northrop Grumman | DevOps Software Engineering Intern | Roy, UT | https://go.vansh.nyc/1gk
+66 | Northrop Grumman | Software Engineering Intern | Roy, UT | https://go.vansh.nyc/1gn
+65 | Northrop Grumman | Cyber Systems Engineer Intern | Roy, UT | https://go.vansh.nyc/1dD
+64 | HP Inc. | Software Engineer Intern - AIML Platform - HP IQ | SF | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800
+64 | HP Inc. | Software Engineer Intern - AIML Platform - HP IQ | SF | https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1
+64 | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032
+64 | Northrop Grumman | Ground Software Engineer Intern | Redondo Beach, CA | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057
+64 | Moog | Software Engineering Intern | Torrance, CA | https://go.vansh.nyc/1gy
+64 | Sonos | Data Engineering Intern (Seattle) | Seattle, WA | https://zapply.jobs/l/d/workday-sonos-sonos-R2897
+62 | Zebra Technologies | Software Engineer Intern - AI Features & Product Convergence | Kennesaw, GA | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 21dfb835837187 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
 71ee4ad8132c35 | Microsoft | Software Engineer Intern | https://apply.careers.microsoft.com/careers/job/1970393557037859
+b1a016cf3cd52c | Northrop Grumman | 2027 Cybersecurity Software Engineering Intern - Roy UT | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177
+916ae5b537a53f | Northrop Grumman | Cybersecurity Software Engineering Intern | https://go.vansh.nyc/1gl
+3ac34931359c17 | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016610426
+a7737a0d59d3c1 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016610446
+e65681a81c7fb4 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | https://jobs.smartrecruiters.com/LLNL/3743990016610186
 59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
-8112c10e4657e2 | Microsoft | Software Engineer Intern, Teamwork Experiences | https://go.vansh.nyc/1dY
+05143ea9d23c6b | LLNL | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | https://go.vansh.nyc/1fR
 879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
-c6fc25e6ae9781 | Northrop Grumman | Cyber Systems Engineer Intern | https://go.vansh.nyc/1dD
-8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
-b80f90b00c80cd | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | https://go.vansh.nyc/14r
-f52c2cd5752bd1 | TikTok | AI Software Engineer Project Intern, Transaction Platform | https://go.vansh.nyc/18t
-4b7c64a28a408f | TikTok | Software Engineer Project Intern, Content AI Infrastructure | https://go.vansh.nyc/18G
-b3c5830d297244 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 | https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4
-850bde527b432d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/149
-2539ca2316f0d0 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | https://go.vansh.nyc/17L
-9ff4e649694707 | American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722
-1d3711255c5007 | ByteDance | Student Researcher Intern, Seed Model - LLM | https://go.vansh.nyc/142
+a5cfbbd94ba2ea | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | https://go.vansh.nyc/1dS
+38026305427213 | NVIDIA | AI Compiler and Kernel Intern | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
+faa2fc6b09debf | Electronic Arts | Anticheat Engineer Intern | https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242
+6f10869e28220c | Northrop Grumman | Software Engineer Intern | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181
+8943b8e4b18bed | Northrop Grumman | 2027 DevOps Software Engineering Intern - Roy UT | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178
