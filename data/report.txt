@@ -1,48 +1,48 @@
-scan at 2026-11-05 20:14 UTC
-total 2006 (swe 1506, ml 500, web finds 0, added from candidates 0)
-posted in last 24h: 44
-sources: SimplifyJobs list 867/1518; ATS feed (zshah101) 248/888; Vansh & Ouckah list 657/1686; SpeedyApply SWE list 125/831; SpeedyApply AI list 63/788; Jobright SWE list 36/100; Zapply list 10/196
+scan at 2026-11-06 02:46 UTC
+total 2007 (swe 1510, ml 497, web finds 0, added from candidates 0)
+posted in last 24h: 53
+sources: SimplifyJobs list 866/1536; ATS feed (zshah101) 256/892; Vansh & Ouckah list 666/1706; SpeedyApply SWE list 125/831; SpeedyApply AI list 63/788; Jobright SWE list 22/92; Zapply list 9/196
 
 TOP NEW (last 72h) — score | company | title | location | url
 85 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | New York, NY | https://go.vansh.nyc/1j0
-85 | Palantir | Software Engineer, Internship - Sovereign AI Systems | New York, NY | https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312
+80 | Shield AI | Software Engineer Co-op Intern | Seattle, WA, Washington, DC | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
 76 | PayPal | Cybersecurity Intern | San Jose, CA, Scottsdale, AZ | https://go.vansh.nyc/1iu
-70 | PayPal | Machine Learning Engineer Intern | San Jose, CA | https://paypal.eightfold.ai/careers/job/274922983149
-70 | PayPal | Software Engineer Intern | Austin, TX, San Jose, CA | https://paypal.eightfold.ai/careers/job/274922982814
-70 | PayPal | Mobile Engineer Intern | Austin, TX, San Jose, CA | https://paypal.eightfold.ai/careers/job/274922982818
 69 | Tencent | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA | https://go.vansh.nyc/1hQ
-68 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
 68 | Apex Technology | Software Engineering Internship, Test & Automation (Summer 2027) | Los Angeles | https://zapply.jobs/l/d/ashby-apex-technology-inc-692bb497-59ba-44df-bacf-fffd2f7c6344
-66 | Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
-66 | Constellation Brands | AI & Automation Engineering Intern | Rochester, NY | https://go.vansh.nyc/1h2
+66 | NBCUniversal | NBC Sports Bay Area & California - Programming Intern - Summer 2027 | San Francisco, CALIFORNIA, United States (Hybrid) | https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792
 66 | The Cary Company | AI / Automation Intern | Addison, IL | https://go.vansh.nyc/1ig
 66 | Kimball Electronics | Cybersecurity Intern | Remote (US), United States | https://go.vansh.nyc/1iy
+66 | CareSource | Cybersecurity Intern | Remote (US), United States | https://go.vansh.nyc/1je
 65 | RTX | Systems Security Engineer Intern | Tewksbury, MA | https://go.vansh.nyc/1iL
+63 | Apex Technology | Software Engineering Internship, Embedded Systems (Spring or Summer 2027) | Los Angeles | https://zapply.jobs/l/d/ashby-apex-technology-inc-4203604c-2330-4c89-8432-37af718a6bda
+62 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
 62 | Peraton | Cyber Research Intern | West Lafayette, IN, Basking Ridge, Bernards, NJ | https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false
+62 | V2X | AI Engineering Intern | Indianapolis, IN | https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us
+62 | The Federal Reserve System | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910
 62 | Northrop Grumman | 2027 Cybersecurity Software Engineering Intern - Roy UT | Clearfield, Utah | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177
-62 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | https://go.vansh.nyc/1dS
 62 | Northrop Grumman | Cybersecurity Software Engineering Intern | Clearfield, UT | https://go.vansh.nyc/1gl
 62 | General Dynamics Information Technology | Cybersecurity Associate Intern | Bossier City, LA | https://go.vansh.nyc/1hR
 62 | General Dynamics Information Technology | AI/ML Data Science and Engineering Intern | Bossier City, LA | https://go.vansh.nyc/1hS
 62 | Constellation Brands | AI Innovation Intern | Rochester, NY, Chicago, IL | https://go.vansh.nyc/1iF
-62 | AstraZeneca | Manufacturing Digital and AI Intern | Gaithersburg - MD | https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263647
-61 | PayPal | Data Scientist Intern | San Jose, CA | https://paypal.eightfold.ai/careers/job/274922982821
-60 | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | https://go.vansh.nyc/1dY
-60 | ASML | Machine Learning and Image-Based EUV System Setup Intern | San Diego, CA | https://go.vansh.nyc/1h9
+62 | V2X | AI Engineer Intern | Indianapolis, IN | https://go.vansh.nyc/1jI
+60 | Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
+60 | PayPal | Machine Learning Engineer Intern | San Jose, CA | https://paypal.eightfold.ai/careers/job/274922983149
+60 | PayPal | Software Engineer Intern | Austin, TX, San Jose, CA | https://paypal.eightfold.ai/careers/job/274922982814
+60 | PayPal | Mobile Engineer Intern | Austin, TX, San Jose, CA | https://paypal.eightfold.ai/careers/job/274922982818
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 98c76560693d22 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | https://go.vansh.nyc/1j0
-c9fbdc9defed23 | Palantir | Software Engineer, Internship - Sovereign AI Systems | https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312
+3dbf1f7f95e9d7 | Shield AI | Software Engineer Co-op Intern | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
 6cde1a135a43bd | PayPal | Cybersecurity Intern | https://go.vansh.nyc/1iu
-6dc6ab8646206f | PayPal | Machine Learning Engineer Intern | https://paypal.eightfold.ai/careers/job/274922983149
-8aab30b44b2c6a | PayPal | Software Engineer Intern | https://paypal.eightfold.ai/careers/job/274922982814
-f98ab5f0589327 | PayPal | Mobile Engineer Intern | https://paypal.eightfold.ai/careers/job/274922982818
 59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
 5db3bab66d5b1a | Tencent | Site Reliability Engineer (SRE) Intern, AI Infrastructure | https://go.vansh.nyc/1hQ
-21dfb835837187 | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065
 879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
 faa6aa769ec732 | Apex Technology | Software Engineering Internship, Test & Automation (Summer 2027) | https://zapply.jobs/l/d/ashby-apex-technology-inc-692bb497-59ba-44df-bacf-fffd2f7c6344
-71ee4ad8132c35 | Microsoft | Software Engineer Intern | https://apply.careers.microsoft.com/careers/job/1970393557037859
+e9456321c703fa | NBCUniversal | NBC Sports Bay Area & California - Programming Intern - Summer 2027 | https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792
 8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
 b80f90b00c80cd | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | https://go.vansh.nyc/14r
 f52c2cd5752bd1 | TikTok | AI Software Engineer Project Intern, Transaction Platform | https://go.vansh.nyc/18t
+4b7c64a28a408f | TikTok | Software Engineer Project Intern, Content AI Infrastructure | https://go.vansh.nyc/18G
+81009316c70446 | The Cary Company | AI / Automation Intern | https://go.vansh.nyc/1ig
+9c9b2a369af6a7 | Kimball Electronics | Cybersecurity Intern | https://go.vansh.nyc/1iy
+d0336e50bca22e | CareSource | Cybersecurity Intern | https://go.vansh.nyc/1je
