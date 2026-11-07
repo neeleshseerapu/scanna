@@ -1,48 +1,48 @@
-scan at 2026-11-07 02:19 UTC
-total 2030 (swe 1519, ml 511, web finds 0, added from candidates 0)
-posted in last 24h: 55
-sources: SimplifyJobs list 863/1531; ATS feed (zshah101) 251/910; Vansh & Ouckah list 693/1734; SpeedyApply SWE list 123/830; SpeedyApply AI list 63/778; Jobright SWE list 24/100; Zapply list 13/197
+scan at 2026-11-07 17:50 UTC
+total 2026 (swe 1511, ml 515, web finds 0, added from candidates 0)
+posted in last 24h: 29
+sources: SimplifyJobs list 857/1506; ATS feed (zshah101) 247/903; Vansh & Ouckah list 698/1741; SpeedyApply SWE list 126/830; SpeedyApply AI list 63/778; Jobright SWE list 25/100; Zapply list 10/197
 
 TOP NEW (last 72h) — score | company | title | location | url
-83 | Zoox | Software Engineer Intern - Software Systems | Foster City, CA | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
-83 | Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
-78 | Match Group | Backend Engineer Intern | Palo Alto, CA, Los Angeles, CA | https://go.vansh.nyc/1kj
+80 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | https://www.tesla.com/careers/search/job/289241
 75 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | New York, NY | https://go.vansh.nyc/1j0
-74 | Tinder | Backend Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
-74 | Match Group | Android Engineer Intern | Los Angeles, CA | https://go.vansh.nyc/1ko
-74 | Match Group | iOS Engineer Intern | Los Angeles, CA, Palo Alto, CA | https://go.vansh.nyc/1kp
+73 | Zoox | Software Engineer Intern - Software Systems | Foster City, CA | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
+73 | Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
 72 | Rivian | ML AI Motor Controls Algorithm Intern | Champaign, IL | https://go.vansh.nyc/1kS
 72 | Samsung | Care AI Data Analytic Intern | Plano, TX | https://go.vansh.nyc/1le
-71 | Zoox | Data Science Intern \[Summer 2027\] | Foster City, CA | https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97
+71 | Zoox | Data Scientist Intern | Boston, MA, Foster City, CA | https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
 70 | Shield AI | Software Engineer Co-op Intern | Seattle, WA, Washington, DC | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
-70 | Tinder | Machine Learning Engineer Intern | Palo Alto, CA | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply
-70 | Tinder | iOS Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
 70 | Notion | Software Engineer Intern - Frontend | NYC | https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true
-70 | Match Group | Machine Learning Engineer Intern | Palo Alto, CA | https://go.vansh.nyc/1kl
-70 | ITT | Data Analytics / AI Intern | Irvine, CA | https://go.vansh.nyc/1kq
 70 | Kudu Dynamics | AI/Automation Development Intern, Assessment & Authorization | Remote (US), United States | https://go.vansh.nyc/1l3
-66 | Tinder | Android Engineer Intern | LA | https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply
+68 | Match Group | Backend Engineer Intern | Palo Alto, CA, Los Angeles, CA | https://go.vansh.nyc/1kj
 66 | Notion | Software Engineer Intern - iOS | NYC | https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true
-66 | PayPal | Cybersecurity Intern | San Jose, CA, Scottsdale, AZ | https://go.vansh.nyc/1iu
-66 | Cook Group | Applied AI & Full Stack Development Intern | Bloomington, IN | https://go.vansh.nyc/1k3
-66 | DocuSign | Software Engineering Intern, Self-Service Directory Diagnostics | Seattle, WA | https://go.vansh.nyc/1kf
 66 | Trimble | AI Automation Intern | Dayton, OH, Westminster, CO | https://go.vansh.nyc/1lh
 66 | Parspec | Applied AI Engineer Intern | San Mateo, CA | https://go.vansh.nyc/1lJ
+64 | Tinder | Backend Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
+64 | Match Group | Android Engineer Intern | Los Angeles, CA | https://go.vansh.nyc/1ko
+64 | Match Group | iOS Engineer Intern | Los Angeles, CA, Palo Alto, CA | https://go.vansh.nyc/1kp
 64 | Varda Space | Site Reliability Internship - Summer 2027 | El Segundo, California, United... | https://zapply.jobs/l/d/greenhouse-vardaspace-8198267003
+62 | T-Mobile | AI Strategist Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279
+62 | T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765
+62 | T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198
+62 | T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194
+62 | Framatome | AI and Software Innovation Intern | Lynchburg, VA | https://go.vansh.nyc/1m6
+60 | Tinder | Machine Learning Engineer Intern | Palo Alto, CA | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply
+60 | Tinder | iOS Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+cfb9f5e678ca7c | Tesla | Software Engineer Intern - SI Reinforcement Learning | https://www.tesla.com/careers/search/job/289241
+98c76560693d22 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | https://go.vansh.nyc/1j0
 27ec28eeeb1b0e | Zoox | Software Engineer Intern - Software Systems | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
 1abd8185738318 | Zoox | Software Engineer Intern - Software Platforms & Product | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
-7cbb9518abb237 | Match Group | Backend Engineer Intern | https://go.vansh.nyc/1kj
-98c76560693d22 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | https://go.vansh.nyc/1j0
-b0c9b4d0f59d2f | Tinder | Backend Engineer Intern | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
-33c790aba4b3f6 | Match Group | Android Engineer Intern | https://go.vansh.nyc/1ko
-dfee7c700fedb6 | Match Group | iOS Engineer Intern | https://go.vansh.nyc/1kp
 4e697665aaec7e | Rivian | ML AI Motor Controls Algorithm Intern | https://go.vansh.nyc/1kS
 5a07a9a684ee07 | Samsung | Care AI Data Analytic Intern | https://go.vansh.nyc/1le
-d0ffd5a436d0c0 | Zoox | Data Science Intern \[Summer 2027\] | https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97
+ccc0d9adf2b1a7 | Zoox | Data Scientist Intern | https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
 3dbf1f7f95e9d7 | Shield AI | Software Engineer Co-op Intern | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
-6fa33ae716732a | Tinder | Machine Learning Engineer Intern | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply
-c0fd39674bc530 | Tinder | iOS Engineer Intern | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
 98285e22df9bce | Notion | Software Engineer Intern - Frontend | https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true
-5ee9d9c8905b66 | Match Group | Machine Learning Engineer Intern | https://go.vansh.nyc/1kl
+35e27cb0e64319 | Kudu Dynamics | AI/Automation Development Intern, Assessment & Authorization | https://go.vansh.nyc/1l3
+59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
+879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
+7cbb9518abb237 | Match Group | Backend Engineer Intern | https://go.vansh.nyc/1kj
+680f4c1368f9db | Notion | Software Engineer Intern - iOS | https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true
+8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
