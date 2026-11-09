@@ -1,48 +1,48 @@
-scan at 2026-11-09 01:55 UTC
-total 2050 (swe 1529, ml 521, web finds 0, added from candidates 0)
-posted in last 24h: 0
-sources: SimplifyJobs list 857/1517; ATS feed (zshah101) 247/903; Vansh & Ouckah list 709/1784; SpeedyApply SWE list 129/834; SpeedyApply AI list 66/799; Jobright SWE list 33/100; Zapply list 9/197
+scan at 2026-11-09 22:39 UTC
+total 2057 (swe 1530, ml 527, web finds 0, added from candidates 0)
+posted in last 24h: 30
+sources: SimplifyJobs list 845/1474; ATS feed (zshah101) 252/907; Vansh & Ouckah list 723/1814; SpeedyApply SWE list 125/823; SpeedyApply AI list 68/805; Jobright SWE list 35/100; Zapply list 9/197
 
 TOP NEW (last 72h) — score | company | title | location | url
-75 | Microsoft | Research Intern - AI & Human Systems | New York City, NY +1 | https://apply.careers.microsoft.com/careers/job/1970393557056017
-70 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | https://www.tesla.com/careers/search/job/289241
-70 | Meta | Battery Algorithms Engineering Intern | Sunnyvale, CA +1 | https://www.metacareers.com/jobs/1161973130109332
-67 | Zoox | Software Engineer Intern - Software Systems | Foster City, CA | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
-67 | Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
-64 | Varda | Site Reliability Internship - Summer 2027 | El Segundo, CA | https://job-boards.greenhouse.io/vardaspace/jobs/8198267003
-62 | Match Group | Backend Engineer Intern | Palo Alto, CA, Los Angeles, CA | https://go.vansh.nyc/1kj
-61 | Zoox | Data Scientist Intern | Boston, MA, Foster City, CA | https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
-58 | Tinder | Backend Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
-58 | Match Group | Android Engineer Intern | Los Angeles, CA | https://go.vansh.nyc/1ko
-58 | Match Group | iOS Engineer Intern | Los Angeles, CA, Palo Alto, CA | https://go.vansh.nyc/1kp
-56 | Rivian | ML AI Motor Controls Algorithm Intern | Champaign, IL | https://go.vansh.nyc/1kS
-56 | Samsung | Care AI Data Analytic Intern | Plano, TX | https://go.vansh.nyc/1le
-56 | Lila Sciences | Co-op - AI for Protein Design | San Francisco, CA | https://job-boards.greenhouse.io/lilasciences/jobs/4480337009
-54 | Tinder | Machine Learning Engineer Intern | Palo Alto, CA | https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply
-54 | Tinder | iOS Engineer Intern | Palo Alto, CA, LA | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
-54 | Match Group | Machine Learning Engineer Intern | Palo Alto, CA | https://go.vansh.nyc/1kl
-54 | ITT | Data Analytics / AI Intern | Irvine, CA | https://go.vansh.nyc/1kq
-54 | Kudu Dynamics | AI/Automation Development Intern, Assessment & Authorization | Remote (US), United States | https://go.vansh.nyc/1l3
-52 | Framatome | AI and Software Innovation Intern | Lynchburg, VA | https://go.vansh.nyc/1m6
-52 | Apex Technology | Software Engineering Internship - Test & Automation - Summer 2027 | Los Angeles, CA | https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344
-50 | Tinder | Android Engineer Intern | LA | https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply
-50 | Cook Group | Applied AI & Full Stack Development Intern | Bloomington, IN | https://go.vansh.nyc/1k3
-50 | DocuSign | Software Engineering Intern, Self-Service Directory Diagnostics | Seattle, WA | https://go.vansh.nyc/1kf
-50 | Trimble | AI Automation Intern | Dayton, OH, Westminster, CO | https://go.vansh.nyc/1lh
+76 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oD
+74 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA, Austin, TX | https://go.vansh.nyc/1ok
+72 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oC
+72 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oE
+70 | NBCUniversal | Software Engineering Intern | Universal City, CA | https://go.vansh.nyc/1oB
+70 | NBCUniversal | Product & Engineering Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oF
+69 | Microsoft | Research Intern - AI & Human Systems | New York City, NY +1 | https://apply.careers.microsoft.com/careers/job/1970393557056017
+69 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | https://zapply.jobs/l/d/greenhouse-lilasciences-4472540009
+66 | Centene | Social Media & AI Undergraduate Summer Intern | Remote (US) | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
+66 | NBCUniversal | Technology Intern, NBC News Group | New York, NY | https://go.vansh.nyc/1os
+66 | NBCUniversal | Media Tech: Product & Engineering Intern | New York, NY | https://go.vansh.nyc/1oy
+66 | NBCUniversal | Software Engineering Intern | New York, NY | https://go.vansh.nyc/1oA
+66 | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote (US), United States | https://go.vansh.nyc/1ph
+66 | ASML | Internship-Co-Op: AI Engineer | San Diego, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355629
+64 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | https://www.tesla.com/careers/search/job/289241
+62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us
+62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://careers.haskell.com/jobs/7415?icims=1&lang=en-us
+62 | CACI | Cyber Security Intern - Summer 2027 | Sterling, VA | https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812
+62 | Leidos | Cybersecurity Analyst Intern | Odenton, MD | https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546
+62 | Zoetis | AI Assistant Development Intern | Parsippany, NJ | https://go.vansh.nyc/1oP
+62 | i3 | Cybersecurity Intern | Huntsville, AL | https://go.vansh.nyc/1pd
+62 | UiPath | AI Engineer Intern | Bellevue | https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555
+60 | General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA, Pittsfield, MA | https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false
+60 | General Dynamics Mission Systems | Full-Stack Application Development Intern | Chantilly, VA, Pittsfield, MA | https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false
+60 | Persona AI | Humanoid Robotics Software Intern | Pensacola, FL, Houston, TX | https://go.vansh.nyc/1p9
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+e2720a36edc357 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oD
+802a750e578515 | Cisco | Software Engineer Intern, Full-Stack / Backend I | https://go.vansh.nyc/1ok
+4572cec50a67f6 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | https://go.vansh.nyc/1oC
+097f47196f4545 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oE
+43740fba217e28 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oB
+0ac5c8a9d6b5e5 | NBCUniversal | Product & Engineering Intern, Media Tech | https://go.vansh.nyc/1oF
 6c19feb6adf436 | Microsoft | Research Intern - AI & Human Systems | https://apply.careers.microsoft.com/careers/job/1970393557056017
-cfb9f5e678ca7c | Tesla | Software Engineer Intern - SI Reinforcement Learning | https://www.tesla.com/careers/search/job/289241
-43f57c4d88382f | Meta | Battery Algorithms Engineering Intern | https://www.metacareers.com/jobs/1161973130109332
-27ec28eeeb1b0e | Zoox | Software Engineer Intern - Software Systems | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
-1abd8185738318 | Zoox | Software Engineer Intern - Software Platforms & Product | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
-519b3fb0862b68 | Varda | Site Reliability Internship - Summer 2027 | https://job-boards.greenhouse.io/vardaspace/jobs/8198267003
-59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
-879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
-98c76560693d22 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | https://go.vansh.nyc/1j0
-7cbb9518abb237 | Match Group | Backend Engineer Intern | https://go.vansh.nyc/1kj
-ccc0d9adf2b1a7 | Zoox | Data Scientist Intern | https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply
-8f048473f2acc3 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | https://go.vansh.nyc/140
-b80f90b00c80cd | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | https://go.vansh.nyc/14r
-f52c2cd5752bd1 | TikTok | AI Software Engineer Project Intern, Transaction Platform | https://go.vansh.nyc/18t
-4b7c64a28a408f | TikTok | Software Engineer Project Intern, Content AI Infrastructure | https://go.vansh.nyc/18G
+64535d9ceef9f2 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | https://zapply.jobs/l/d/greenhouse-lilasciences-4472540009
+3fc2d582eccd88 | Centene | Social Media & AI Undergraduate Summer Intern | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
+49090f4730ba94 | NBCUniversal | Technology Intern, NBC News Group | https://go.vansh.nyc/1os
+2540cf8c0c7dbe | NBCUniversal | Media Tech: Product & Engineering Intern | https://go.vansh.nyc/1oy
+8e5f0bfe762046 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oA
+09ecd5eade951c | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | https://go.vansh.nyc/1ph
+0f9c42e263a8a2 | ASML | Internship-Co-Op: AI Engineer | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355629
+fdcfc433864f2c | Tesla | Internship, Software Engineer, Inference Infrastructure (Summer 2027) | https://jobright.ai/jobs/info/6af116a7676e3f91d3271493
