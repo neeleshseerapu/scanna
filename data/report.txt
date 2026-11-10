@@ -1,48 +1,48 @@
-scan at 2026-11-10 04:17 UTC
-total 2071 (swe 1540, ml 531, web finds 0, added from candidates 0)
-posted in last 24h: 49
-sources: SimplifyJobs list 859/1512; ATS feed (zshah101) 251/905; Vansh & Ouckah list 731/1841; SpeedyApply SWE list 127/823; SpeedyApply AI list 68/805; Jobright SWE list 26/100; Zapply list 9/197
+scan at 2026-11-10 19:58 UTC
+total 2076 (swe 1535, ml 541, web finds 0, added from candidates 0)
+posted in last 24h: 55
+sources: SimplifyJobs list 850/1492; ATS feed (zshah101) 246/901; Vansh & Ouckah list 750/1869; SpeedyApply SWE list 124/820; SpeedyApply AI list 69/803; Jobright SWE list 25/98; Zapply list 12/197
 
 TOP NEW (last 72h) — score | company | title | location | url
+86 | NVIDIA | AI Operations Intern - AI Clouds | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
 82 | Epic Games | AI Programmer Intern | Cary, NC | https://go.vansh.nyc/1pv
+80 | Waymo | Software Engineer Intern, Multiverse | San Francisco, CA | https://go.vansh.nyc/1qh
+79 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | Denver, CO | https://go.vansh.nyc/1rs
+79 | Palantir | Software Engineer, Intern - Connectivity Platform and Product | Denver, CO | https://zapply.jobs/l/d/lever-palantir-eb496d6a-a960-43d3-a09b-e3843052f54e
 76 | Amazon | Software Engineer Intern | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
-76 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oD
-74 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA, Austin, TX | https://go.vansh.nyc/1ok
-72 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oC
-72 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oE
+76 | General Motors | Machine Learning Engineer Intern, Embodied AI | Sunnyvale, CA | https://go.vansh.nyc/1rQ
+76 | Toyota Research Institute | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA | https://zapply.jobs/l/d/lever-tri-be41a03c-460e-4ff7-b817-f012aa1c4b37
 71 | CTGT | AI Evaluation Research Intern | San Francisco, CA | https://go.vansh.nyc/1pM
-70 | NBCUniversal | Software Engineering Intern | Universal City, CA | https://go.vansh.nyc/1oB
-70 | NBCUniversal | Product & Engineering Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oF
-69 | Microsoft | Research Intern - AI & Human Systems | New York City, NY +1 | https://apply.careers.microsoft.com/careers/job/1970393557056017
-66 | Northrop Grumman | 2027 Software Testing Engineering Intern - Apopka FL | Apopka, Florida | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1
-66 | Centene | Social Media & AI Undergraduate Summer Intern | Remote (US) | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
-66 | NBCUniversal | Media Tech: Product & Engineering Intern | New York, NY | https://go.vansh.nyc/1oy
-66 | NBCUniversal | Software Engineering Intern | New York, NY | https://go.vansh.nyc/1oA
+66 | T-Mobile | Software Engineer Intern - T-Ads | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
+66 | T-Mobile | Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
+66 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oD
 66 | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote (US), United States | https://go.vansh.nyc/1ph
 66 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA | https://go.vansh.nyc/1pR
 66 | Lockheed Martin | Software Development Intern | Bethesda, MD, Rockville, MD | https://go.vansh.nyc/1pZ
 66 | Lockheed Martin | Software Engineer Intern | Mt Laurel Township, NJ | https://go.vansh.nyc/1q0
-66 | HP Inc | Cloud Engineering Intern - HP IQ | San Francisco, California,... | https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4799
-64 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | https://www.tesla.com/careers/search/job/289241
-62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us
-62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://careers.haskell.com/jobs/7415?icims=1&lang=en-us
-62 | Biodesix | AI Research & Development Intern | Louisville, CO | https://www.biodesix.com/careers/current-openings?gh_jid=4485306009
-62 | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence Intern - Information Fusion | Laurel, MD | https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us
-62 | DreamWorks Animation | Media Tech: Data – AI & Machine Learning Intern | NYC | https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767
+66 | T-Mobile | Site Reliability Engineering Intern | Frisco, TX, Atlanta, GA | https://go.vansh.nyc/1qv
+66 | Hewlett Packard Enterprise | Strategic Sourcing AI & Automation Intern | Spring, TX | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039
+66 | NBCUniversal | Media Tech: Data - AI & Machine Learning Internships - Summer 2027 | Universal City, CA | https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935-media-tech-data-ai-machine-learning-internships-summer-2027?oga=true
+65 | General Dynamics Mission Systems, Inc. | Systems Intern, Cybersecurity and Linux Administration | San Antonio, TX | https://go.vansh.nyc/1rI
+64 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA, Austin, TX | https://go.vansh.nyc/1ok
+64 | RetailReady | Full Stack Intern | San Francisco, CA | https://go.vansh.nyc/1rt
+63 | Substrate | Systems Software Engineer Intern | San Francisco, CA | https://go.vansh.nyc/1rx
+62 | Celonis | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003
+62 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oC
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
 e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
+48497b803a294f | Waymo | Software Engineer Intern, Multiverse | https://go.vansh.nyc/1qh
+d4b1022919dee0 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | https://go.vansh.nyc/1rs
+1269543c7e3522 | Palantir | Software Engineer, Intern - Connectivity Platform and Product | https://zapply.jobs/l/d/lever-palantir-eb496d6a-a960-43d3-a09b-e3843052f54e
 7bf8b1268972cd | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
-e2720a36edc357 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oD
-802a750e578515 | Cisco | Software Engineer Intern, Full-Stack / Backend I | https://go.vansh.nyc/1ok
-4572cec50a67f6 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | https://go.vansh.nyc/1oC
-097f47196f4545 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oE
+70745294d42f2e | General Motors | Machine Learning Engineer Intern, Embodied AI | https://go.vansh.nyc/1rQ
+2c00ef5eacb3cb | Toyota Research Institute | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | https://zapply.jobs/l/d/lever-tri-be41a03c-460e-4ff7-b817-f012aa1c4b37
 b0ee9841de413c | CTGT | AI Evaluation Research Intern | https://go.vansh.nyc/1pM
-43740fba217e28 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oB
-0ac5c8a9d6b5e5 | NBCUniversal | Product & Engineering Intern, Media Tech | https://go.vansh.nyc/1oF
-6c19feb6adf436 | Microsoft | Research Intern - AI & Human Systems | https://apply.careers.microsoft.com/careers/job/1970393557056017
-9307c3f60ab3e1 | Northrop Grumman | 2027 Software Testing Engineering Intern - Apopka FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1
-3fc2d582eccd88 | Centene | Social Media & AI Undergraduate Summer Intern | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
-2540cf8c0c7dbe | NBCUniversal | Media Tech: Product & Engineering Intern | https://go.vansh.nyc/1oy
-8e5f0bfe762046 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oA
+2d2b06ca175982 | T-Mobile | Software Engineer Intern - T-Ads | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
+8fcd196098e78f | T-Mobile | Software Engineer Intern | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
+e2720a36edc357 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oD
 09ecd5eade951c | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | https://go.vansh.nyc/1ph
+fbe0b02d0a53cd | Pika | Applied AI Engineer Intern, Creative Experiences | https://go.vansh.nyc/1pR
+39b62f5c4daff8 | Lockheed Martin | Software Development Intern | https://go.vansh.nyc/1pZ
