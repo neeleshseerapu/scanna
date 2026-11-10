@@ -1,48 +1,48 @@
-scan at 2026-11-09 22:39 UTC
-total 2057 (swe 1530, ml 527, web finds 0, added from candidates 0)
-posted in last 24h: 30
-sources: SimplifyJobs list 845/1474; ATS feed (zshah101) 252/907; Vansh & Ouckah list 723/1814; SpeedyApply SWE list 125/823; SpeedyApply AI list 68/805; Jobright SWE list 35/100; Zapply list 9/197
+scan at 2026-11-10 04:17 UTC
+total 2071 (swe 1540, ml 531, web finds 0, added from candidates 0)
+posted in last 24h: 49
+sources: SimplifyJobs list 859/1512; ATS feed (zshah101) 251/905; Vansh & Ouckah list 731/1841; SpeedyApply SWE list 127/823; SpeedyApply AI list 68/805; Jobright SWE list 26/100; Zapply list 9/197
 
 TOP NEW (last 72h) — score | company | title | location | url
+82 | Epic Games | AI Programmer Intern | Cary, NC | https://go.vansh.nyc/1pv
+76 | Amazon | Software Engineer Intern | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
 76 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oD
 74 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA, Austin, TX | https://go.vansh.nyc/1ok
 72 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oC
 72 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oE
+71 | CTGT | AI Evaluation Research Intern | San Francisco, CA | https://go.vansh.nyc/1pM
 70 | NBCUniversal | Software Engineering Intern | Universal City, CA | https://go.vansh.nyc/1oB
 70 | NBCUniversal | Product & Engineering Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oF
 69 | Microsoft | Research Intern - AI & Human Systems | New York City, NY +1 | https://apply.careers.microsoft.com/careers/job/1970393557056017
-69 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | https://zapply.jobs/l/d/greenhouse-lilasciences-4472540009
+66 | Northrop Grumman | 2027 Software Testing Engineering Intern - Apopka FL | Apopka, Florida | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1
 66 | Centene | Social Media & AI Undergraduate Summer Intern | Remote (US) | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
-66 | NBCUniversal | Technology Intern, NBC News Group | New York, NY | https://go.vansh.nyc/1os
 66 | NBCUniversal | Media Tech: Product & Engineering Intern | New York, NY | https://go.vansh.nyc/1oy
 66 | NBCUniversal | Software Engineering Intern | New York, NY | https://go.vansh.nyc/1oA
 66 | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote (US), United States | https://go.vansh.nyc/1ph
-66 | ASML | Internship-Co-Op: AI Engineer | San Diego, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355629
+66 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA | https://go.vansh.nyc/1pR
+66 | Lockheed Martin | Software Development Intern | Bethesda, MD, Rockville, MD | https://go.vansh.nyc/1pZ
+66 | Lockheed Martin | Software Engineer Intern | Mt Laurel Township, NJ | https://go.vansh.nyc/1q0
+66 | HP Inc | Cloud Engineering Intern - HP IQ | San Francisco, California,... | https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4799
 64 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | https://www.tesla.com/careers/search/job/289241
 62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us
 62 | Haskell | AI Engineering Design Intern for Facility Design | Jacksonville, FL | https://careers.haskell.com/jobs/7415?icims=1&lang=en-us
-62 | CACI | Cyber Security Intern - Summer 2027 | Sterling, VA | https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812
-62 | Leidos | Cybersecurity Analyst Intern | Odenton, MD | https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546
-62 | Zoetis | AI Assistant Development Intern | Parsippany, NJ | https://go.vansh.nyc/1oP
-62 | i3 | Cybersecurity Intern | Huntsville, AL | https://go.vansh.nyc/1pd
-62 | UiPath | AI Engineer Intern | Bellevue | https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555
-60 | General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA, Pittsfield, MA | https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false
-60 | General Dynamics Mission Systems | Full-Stack Application Development Intern | Chantilly, VA, Pittsfield, MA | https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false
-60 | Persona AI | Humanoid Robotics Software Intern | Pensacola, FL, Houston, TX | https://go.vansh.nyc/1p9
+62 | Biodesix | AI Research & Development Intern | Louisville, CO | https://www.biodesix.com/careers/current-openings?gh_jid=4485306009
+62 | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence Intern - Information Fusion | Laurel, MD | https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us
+62 | DreamWorks Animation | Media Tech: Data – AI & Machine Learning Intern | NYC | https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
+7bf8b1268972cd | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
 e2720a36edc357 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oD
 802a750e578515 | Cisco | Software Engineer Intern, Full-Stack / Backend I | https://go.vansh.nyc/1ok
 4572cec50a67f6 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | https://go.vansh.nyc/1oC
 097f47196f4545 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oE
+b0ee9841de413c | CTGT | AI Evaluation Research Intern | https://go.vansh.nyc/1pM
 43740fba217e28 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oB
 0ac5c8a9d6b5e5 | NBCUniversal | Product & Engineering Intern, Media Tech | https://go.vansh.nyc/1oF
 6c19feb6adf436 | Microsoft | Research Intern - AI & Human Systems | https://apply.careers.microsoft.com/careers/job/1970393557056017
-64535d9ceef9f2 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | https://zapply.jobs/l/d/greenhouse-lilasciences-4472540009
+9307c3f60ab3e1 | Northrop Grumman | 2027 Software Testing Engineering Intern - Apopka FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1
 3fc2d582eccd88 | Centene | Social Media & AI Undergraduate Summer Intern | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859
-49090f4730ba94 | NBCUniversal | Technology Intern, NBC News Group | https://go.vansh.nyc/1os
 2540cf8c0c7dbe | NBCUniversal | Media Tech: Product & Engineering Intern | https://go.vansh.nyc/1oy
 8e5f0bfe762046 | NBCUniversal | Software Engineering Intern | https://go.vansh.nyc/1oA
 09ecd5eade951c | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | https://go.vansh.nyc/1ph
-0f9c42e263a8a2 | ASML | Internship-Co-Op: AI Engineer | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355629
-fdcfc433864f2c | Tesla | Internship, Software Engineer, Inference Infrastructure (Summer 2027) | https://jobright.ai/jobs/info/6af116a7676e3f91d3271493
