@@ -1,23 +1,23 @@
-scan at 2026-11-10 19:58 UTC
-total 2076 (swe 1535, ml 541, web finds 0, added from candidates 0)
-posted in last 24h: 55
-sources: SimplifyJobs list 850/1492; ATS feed (zshah101) 246/901; Vansh & Ouckah list 750/1869; SpeedyApply SWE list 124/820; SpeedyApply AI list 69/803; Jobright SWE list 25/98; Zapply list 12/197
+scan at 2026-11-11 02:12 UTC
+total 2102 (swe 1553, ml 549, web finds 0, added from candidates 0)
+posted in last 24h: 50
+sources: SimplifyJobs list 867/1530; ATS feed (zshah101) 252/915; Vansh & Ouckah list 750/1872; SpeedyApply SWE list 121/820; SpeedyApply AI list 70/803; Jobright SWE list 33/98; Zapply list 9/195
 
 TOP NEW (last 72h) — score | company | title | location | url
-86 | NVIDIA | AI Operations Intern - AI Clouds | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
-82 | Epic Games | AI Programmer Intern | Cary, NC | https://go.vansh.nyc/1pv
-80 | Waymo | Software Engineer Intern, Multiverse | San Francisco, CA | https://go.vansh.nyc/1qh
+83 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | https://go.vansh.nyc/1s7
 79 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | Denver, CO | https://go.vansh.nyc/1rs
-79 | Palantir | Software Engineer, Intern - Connectivity Platform and Product | Denver, CO | https://zapply.jobs/l/d/lever-palantir-eb496d6a-a960-43d3-a09b-e3843052f54e
-76 | Amazon | Software Engineer Intern | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
+76 | NVIDIA | AI Operations Intern - AI Clouds | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
 76 | General Motors | Machine Learning Engineer Intern, Embodied AI | Sunnyvale, CA | https://go.vansh.nyc/1rQ
-76 | Toyota Research Institute | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA | https://zapply.jobs/l/d/lever-tri-be41a03c-460e-4ff7-b817-f012aa1c4b37
-71 | CTGT | AI Evaluation Research Intern | San Francisco, CA | https://go.vansh.nyc/1pM
-66 | T-Mobile | Software Engineer Intern - T-Ads | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
-66 | T-Mobile | Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
+72 | Epic Games | AI Programmer Intern | Cary, NC | https://go.vansh.nyc/1pv
+71 | CTGT | AI Evaluation Research Intern | San Francisco, CA | https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e
+70 | Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true
+70 | Visa | Software Engineer, Intern - 2027 Foster City, CA | US - Foster City, CA | https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W
+70 | Waymo | Software Engineer Intern, Multiverse | San Francisco, CA | https://go.vansh.nyc/1qh
+69 | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA, Austin, TX | https://go.vansh.nyc/1sE
+66 | Amazon | Software Engineer Intern | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
+66 | General Motors | Software Engineer Intern - Machine Learning Engineer - Embodied AI | Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034
+66 | DwyerOmega | Applied AI Intern | Remote (US) | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662
 66 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | Universal City, CA | https://go.vansh.nyc/1oD
-66 | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote (US), United States | https://go.vansh.nyc/1ph
-66 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA | https://go.vansh.nyc/1pR
 66 | Lockheed Martin | Software Development Intern | Bethesda, MD, Rockville, MD | https://go.vansh.nyc/1pZ
 66 | Lockheed Martin | Software Engineer Intern | Mt Laurel Township, NJ | https://go.vansh.nyc/1q0
 66 | T-Mobile | Site Reliability Engineering Intern | Frisco, TX, Atlanta, GA | https://go.vansh.nyc/1qv
@@ -27,22 +27,22 @@ TOP NEW (last 72h) — score | company | title | location | url
 64 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA, Austin, TX | https://go.vansh.nyc/1ok
 64 | RetailReady | Full Stack Intern | San Francisco, CA | https://go.vansh.nyc/1rt
 63 | Substrate | Systems Software Engineer Intern | San Francisco, CA | https://go.vansh.nyc/1rx
-62 | Celonis | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003
-62 | NBCUniversal | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY | https://go.vansh.nyc/1oC
+63 | Hook Music | Machine Learning Engineering Intern, Recommendation Systems | Remote (US), United States | https://go.vansh.nyc/1sf
+62 | Addepar | AI Engineer Intern | NYC | https://job-boards.greenhouse.io/addepar1/jobs/8927543002
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
-e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
-48497b803a294f | Waymo | Software Engineer Intern, Multiverse | https://go.vansh.nyc/1qh
+d1d379bbec9f43 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | https://go.vansh.nyc/1s7
 d4b1022919dee0 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | https://go.vansh.nyc/1rs
-1269543c7e3522 | Palantir | Software Engineer, Intern - Connectivity Platform and Product | https://zapply.jobs/l/d/lever-palantir-eb496d6a-a960-43d3-a09b-e3843052f54e
-7bf8b1268972cd | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
+111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
 70745294d42f2e | General Motors | Machine Learning Engineer Intern, Embodied AI | https://go.vansh.nyc/1rQ
-2c00ef5eacb3cb | Toyota Research Institute | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | https://zapply.jobs/l/d/lever-tri-be41a03c-460e-4ff7-b817-f012aa1c4b37
-b0ee9841de413c | CTGT | AI Evaluation Research Intern | https://go.vansh.nyc/1pM
-2d2b06ca175982 | T-Mobile | Software Engineer Intern - T-Ads | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
-8fcd196098e78f | T-Mobile | Software Engineer Intern | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
+e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
+d53436dbce1c9d | CTGT | AI Evaluation Research Intern | https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e
+07c738ca2c1d4c | Skydio | Middleware Software Engineer Intern | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true
+ea8c6f0331aaeb | Visa | Software Engineer, Intern - 2027 Foster City, CA | https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W
+48497b803a294f | Waymo | Software Engineer Intern, Multiverse | https://go.vansh.nyc/1qh
+55924fea9b8e13 | Cisco | Software Engineer Embedded Systems I Intern | https://go.vansh.nyc/1sE
+7bf8b1268972cd | Amazon | Software Engineer Intern | https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027
+93cc0a7ed3bc58 | General Motors | Software Engineer Intern - Machine Learning Engineer - Embodied AI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034
+3c21884c8bc3ab | DwyerOmega | Applied AI Intern | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662
 e2720a36edc357 | NBCUniversal | Data, AI & Machine Learning Intern, Media Tech | https://go.vansh.nyc/1oD
-09ecd5eade951c | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | https://go.vansh.nyc/1ph
-fbe0b02d0a53cd | Pika | Applied AI Engineer Intern, Creative Experiences | https://go.vansh.nyc/1pR
 39b62f5c4daff8 | Lockheed Martin | Software Development Intern | https://go.vansh.nyc/1pZ
