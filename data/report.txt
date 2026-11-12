@@ -1,48 +1,48 @@
-scan at 2026-11-12 03:18 UTC
-total 2123 (swe 1568, ml 555, web finds 0, added from candidates 0)
-posted in last 24h: 35
-sources: SimplifyJobs list 856/1498; ATS feed (zshah101) 252/918; Vansh & Ouckah list 793/1929; SpeedyApply SWE list 124/866; SpeedyApply AI list 69/833; Jobright SWE list 19/100; Zapply list 10/195
+scan at 2026-11-12 20:22 UTC
+total 2133 (swe 1579, ml 554, web finds 0, added from candidates 0)
+posted in last 24h: 45
+sources: SimplifyJobs list 854/1516; ATS feed (zshah101) 256/921; Vansh & Ouckah list 808/1949; SpeedyApply SWE list 119/861; SpeedyApply AI list 68/816; Jobright SWE list 18/100; Zapply list 10/194
 
 TOP NEW (last 72h) — score | company | title | location | url
-82 | Riot Games | Data Engineering Intern | Los Angeles, CA | https://go.vansh.nyc/1sS
 82 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | https://go.vansh.nyc/1vZ
-80 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall - 2027 Start | San Jose, CA | https://lifeattiktok.com/search/7706693387932633397
-76 | Brex | Software Engineer Intern | SF | https://www.brex.com/careers/8936403002?gh_jid=8936403002
-76 | Salesforce | Summer 2027 Intern - AI Research Incubator | San Francisco, CA | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 76 | ServiceNow | Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA | https://zapply.jobs/l/d/sr-ServiceNow-744000161209810
 73 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | https://go.vansh.nyc/1s7
+72 | Riot Games | Data Engineering Intern | Los Angeles, CA | https://go.vansh.nyc/1sS
 72 | ServiceNow | Assoc Information Security Engineer Intern | San Diego, CALIFORNIA | https://zapply.jobs/l/d/sr-ServiceNow-744000161204235
+72 | Bosch Group | AI Research Intern – Time Series Foundation Models | Sunnyvale, California | https://zapply.jobs/l/d/sr-BoschGroup-744000161339309
 70 | NVIDIA | AI Operations Intern - AI Clouds | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
-69 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | Denver, CO | https://go.vansh.nyc/1rs
+70 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall - 2027 Start | San Jose, CA | https://lifeattiktok.com/search/7706693387932633397
+70 | Salesforce | Summer 2027 Intern - AI Research Incubator | San Francisco, CA | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 68 | Riot Games | Data Engineer Intern | Remote (US) | https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716
+68 | US Internships Public Careers Site | Undergraduate Frontend Software Engineering Intern | Los Angeles, CA, San Mateo, CA | https://go.vansh.nyc/1xb
+67 | Microsoft | Data Scientist Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557027390
 66 | NBCUniversal | Software Engineer Intern | Universal City, LA | https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529
 66 | Epic Games | AI Programmer Intern | Cary, NC | https://go.vansh.nyc/1pv
-66 | General Motors | Machine Learning Engineer Intern, Embodied AI | Sunnyvale, CA | https://go.vansh.nyc/1rQ
 66 | Bloom Energy | AI Solutions Engineer Intern | San Jose, CA | https://go.vansh.nyc/1vK
-66 | StepStone Group | AI Quant Analyst Intern | La Jolla, CA, San Diego, CA | https://go.vansh.nyc/1vT
 66 | ServiceNow | Associate Detection Engineering Intern | Kirkland, WA | https://go.vansh.nyc/1w0
 64 | Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true
 64 | Tesla | Software Developer Intern - IT Apps | Fremont, CA | https://www.tesla.com/careers/search/job/289683
 64 | Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true
 64 | Waymo | Software Engineer Intern, Multiverse | San Francisco, CA | https://go.vansh.nyc/1qh
 64 | Bask Health | Backend Engineer Intern | Remote (US), United States | https://go.vansh.nyc/1vx
-62 | Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI | https://go.vansh.nyc/1uo
-62 | SimVentions | Cybersecurity Intern | Fredericksburg, VA | https://go.vansh.nyc/1uu
-62 | Welltower | Cyber Security Intern | Frisco, TX | https://go.vansh.nyc/1uw
+64 | Bask Health | Frontend Engineer Intern, Frontend Engineering | Remote (US), United States | https://go.vansh.nyc/1w9
+63 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | Denver, CO | https://go.vansh.nyc/1rs
+62 | Highmark Health | Summer 2027 Business Analysis and AI enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Business-Analysis-and-AI-enGen-Undergraduate-Intern_J291552
+62 | HUB International | AI Engineering Intern | Chicago, IL | https://go.vansh.nyc/1vr
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-6c0b2a7a6cce5a | Riot Games | Data Engineering Intern | https://go.vansh.nyc/1sS
 7f0c2cf646d3dd | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | https://go.vansh.nyc/1vZ
-e933216f9f1cd4 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall - 2027 Start | https://lifeattiktok.com/search/7706693387932633397
-2338117b80d436 | Brex | Software Engineer Intern | https://www.brex.com/careers/8936403002?gh_jid=8936403002
-46b98ee66e5642 | Salesforce | Summer 2027 Intern - AI Research Incubator | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 d82e693aeba188 | ServiceNow | Assoc Security Engineering & Automation Intern | https://zapply.jobs/l/d/sr-ServiceNow-744000161209810
 d1d379bbec9f43 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | https://go.vansh.nyc/1s7
+6c0b2a7a6cce5a | Riot Games | Data Engineering Intern | https://go.vansh.nyc/1sS
 97eac5c9bd0d3d | ServiceNow | Assoc Information Security Engineer Intern | https://zapply.jobs/l/d/sr-ServiceNow-744000161204235
+e385e51b6e90ad | Bosch Group | AI Research Intern – Time Series Foundation Models | https://zapply.jobs/l/d/sr-BoschGroup-744000161339309
 111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
-d4b1022919dee0 | Palantir Technologies | Software Engineer Intern, Connectivity Platform and Product | https://go.vansh.nyc/1rs
+e933216f9f1cd4 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall - 2027 Start | https://lifeattiktok.com/search/7706693387932633397
+46b98ee66e5642 | Salesforce | Summer 2027 Intern - AI Research Incubator | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 6b214f2c0778ed | Riot Games | Data Engineer Intern | https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716
+8eb0309702418f | US Internships Public Careers Site | Undergraduate Frontend Software Engineering Intern | https://go.vansh.nyc/1xb
+8c8d9c015b933e | Microsoft | Data Scientist Intern - CoreAI | https://apply.careers.microsoft.com/careers/job/1970393557027390
 5ad7bf965b5682 | NBCUniversal | Software Engineer Intern | https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529
 e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
-70745294d42f2e | General Motors | Machine Learning Engineer Intern, Embodied AI | https://go.vansh.nyc/1rQ
 6b609b1388f203 | Bloom Energy | AI Solutions Engineer Intern | https://go.vansh.nyc/1vK
