@@ -1,48 +1,48 @@
-scan at 2026-11-14 18:27 UTC
-total 2122 (swe 1572, ml 550, web finds 0, added from candidates 0)
-posted in last 24h: 22
-sources: SimplifyJobs list 825/1463; ATS feed (zshah101) 256/914; Vansh & Ouckah list 815/1944; SpeedyApply SWE list 121/853; SpeedyApply AI list 72/840; Jobright SWE list 21/99; Zapply list 12/194
+scan at 2026-11-15 02:05 UTC
+total 2110 (swe 1561, ml 549, web finds 0, added from candidates 0)
+posted in last 24h: 7
+sources: SimplifyJobs list 821/1452; ATS feed (zshah101) 252/911; Vansh & Ouckah list 816/1946; SpeedyApply SWE list 121/853; SpeedyApply AI list 72/840; Jobright SWE list 16/99; Zapply list 12/195
 
 TOP NEW (last 72h) — score | company | title | location | url
 82 | ServiceNow | AI Security Engineer Intern | San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern?oga=true
 72 | ServiceNow | AI Identity Intern | Kirkland, WA | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
 70 | TikTok | Machine Learning Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7698822572474583301
-70 | TikTok | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | San Jose, CA | https://go.vansh.nyc/1ym
-70 | CrowdStrike | Insider Risk Engineering Intern | Arlington, VA, Redmond, WA | https://go.vansh.nyc/1z6
 66 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | https://go.vansh.nyc/1vZ
 66 | ServiceNow | Assoc AI Engineering - Cloud Security Automation Intern | Santa Clara, CA | https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern?oga=true
-65 | Micron | Intern - AI Engineer Platform | Boise, Idaho, United States of... | https://zapply.jobs/l/d/eightfold-micron-45166482
+64 | TikTok | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | San Jose, CA | https://go.vansh.nyc/1ym
 64 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zy
 64 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zz
-63 | NetApp | Software Engineer Intern, Systems | San Jose, CA | https://go.vansh.nyc/1zs
 63 | Docusign | AI Platform Engineer Intern | San Francisco, CA | https://uscareers-docusign.icims.com/jobs/30578/job
-62 | Envita Solutions | Software Engineering Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z7
-62 | Envita Solutions | Data Scientist Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z8
-62 | FieldPulse | AI Intern | Dallas, TX | https://go.vansh.nyc/1zj
 62 | Ericsson | AI Software Engineer Intern | Plano, TX | https://go.vansh.nyc/1zB
 62 | The Allen Institute for Artificial Intelligence | Research Internship - AI for Neuroscience | Seattle, WA | https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636
-60 | Reliable Robotics | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed
-60 | IDEMIA North America | Full Stack Software Engineering Intern | Eden Prairie, MN | https://go.vansh.nyc/1z9
-60 | NetApp | Software Engineer Intern, Cloud | San Jose, CA | https://go.vansh.nyc/1zr
+60 | CrowdStrike | Insider Risk Engineering Intern | Arlington, VA, Redmond, WA | https://go.vansh.nyc/1z6
 60 | Bosch | AI Research Intern - Time Series Foundation Models | Sunnyvale, CA | https://jobs.smartrecruiters.com/BoschGroup/744000161339309-ai-research-intern-time-series-foundation-models?oga=true
-60 | Bloom Energy | Automation Engineering Intern | Fremont, California | https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25265
-56 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors
-56 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
-56 | Bask Health | AI Engineering Intern | Remote (US), United States | https://go.vansh.nyc/1yi
+59 | Micron | Intern - AI Engineer Platform | Boise, Idaho, United States of... | https://zapply.jobs/l/d/eightfold-micron-45166482
+56 | KBR Wyle Services | Image Processing Software Engineer Intern | Sioux Falls, SD | https://go.vansh.nyc/1zx
+53 | NetApp | Software Engineer Intern, Systems | San Jose, CA | https://go.vansh.nyc/1zs
+52 | Verisk | Data Science/AI Intern | Lehi, UT | https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184
+52 | Origin Bank | Cybersecurity Intern | Ruston, LA | https://go.vansh.nyc/1yr
+52 | Bask | AI Engineering Intern | United States | https://go.vansh.nyc/1yt
+52 | Envita Solutions | Software Engineering Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z7
+52 | Envita Solutions | Data Scientist Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z8
+52 | FieldPulse | AI Intern | Dallas, TX | https://go.vansh.nyc/1zj
+51 | Microsoft | Data Scientist Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557027390
+50 | Reliable Robotics | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed
+50 | ServiceNow | Associate Detection Engineering Intern | Kirkland, WA | https://go.vansh.nyc/1w0
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 3e13691b370678 | ServiceNow | AI Security Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern?oga=true
 a181ef356be316 | ServiceNow | AI Identity Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
 c7920e88caee16 | TikTok | Machine Learning Engineer Intern | https://lifeattiktok.com/search/7698822572474583301
-cb95a50316c8a4 | TikTok | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | https://go.vansh.nyc/1ym
-304a14c1f43da3 | CrowdStrike | Insider Risk Engineering Intern | https://go.vansh.nyc/1z6
 7f0c2cf646d3dd | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | https://go.vansh.nyc/1vZ
 323a705fcd96af | ServiceNow | Assoc AI Engineering - Cloud Security Automation Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern?oga=true
-be382a72c83b28 | Micron | Intern - AI Engineer Platform | https://zapply.jobs/l/d/eightfold-micron-45166482
+cb95a50316c8a4 | TikTok | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | https://go.vansh.nyc/1ym
 ab59b92ab74e1b | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | https://go.vansh.nyc/1zy
 461e3afb82b1dd | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | https://go.vansh.nyc/1zz
 111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
 59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
-6ac08db01bd785 | NetApp | Software Engineer Intern, Systems | https://go.vansh.nyc/1zs
 46b98ee66e5642 | Salesforce | Summer 2027 Intern - AI Research Incubator | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 6b705ffa86b8f0 | Docusign | AI Platform Engineer Intern | https://uscareers-docusign.icims.com/jobs/30578/job
+879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
+a431a87c9770a0 | Ericsson | AI Software Engineer Intern | https://go.vansh.nyc/1zB
+2df10e3b8f74e7 | The Allen Institute for Artificial Intelligence | Research Internship - AI for Neuroscience | https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636
