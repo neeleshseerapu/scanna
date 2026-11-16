@@ -1,48 +1,48 @@
-scan at 2026-11-16 02:21 UTC
-total 2112 (swe 1564, ml 548, web finds 0, added from candidates 0)
-posted in last 24h: 1
-sources: SimplifyJobs list 822/1469; ATS feed (zshah101) 254/909; Vansh & Ouckah list 816/1947; SpeedyApply SWE list 119/853; SpeedyApply AI list 71/840; Jobright SWE list 17/99; Zapply list 13/195
+scan at 2026-11-16 22:28 UTC
+total 2107 (swe 1555, ml 552, web finds 0, added from candidates 0)
+posted in last 24h: 16
+sources: SimplifyJobs list 805/1410; ATS feed (zshah101) 254/909; Vansh & Ouckah list 808/1917; SpeedyApply SWE list 122/848; SpeedyApply AI list 71/831; Jobright SWE list 29/99; Zapply list 18/196
 
 TOP NEW (last 72h) — score | company | title | location | url
-66 | ServiceNow | AI Security Engineer Intern | San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern?oga=true
-64 | TikTok | Machine Learning Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7698822572474583301
-62 | ServiceNow | AI Identity Intern | Kirkland, WA | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
-56 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308
-54 | CrowdStrike | Insider Risk Engineering Intern | Arlington, VA, Redmond, WA | https://go.vansh.nyc/1z6
-54 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zy
-54 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zz
-52 | Ericsson | AI Software Engineer Intern | Plano, TX | https://go.vansh.nyc/1zB
-52 | The Allen Institute for Artificial Intelligence | Research Internship - AI for Neuroscience | Seattle, WA | https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636
+66 | ASML | Internship-Generative AI developer | San Jose, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346
+62 | Boston Scientific | AI Acceleration Intern | Marlborough, MA | https://bostonscientific.eightfold.ai/careers/job/563602813862390
+62 | Boston Scientific | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813827837
+62 | Boston Scientific | AI Engineering Intern, Generative and Agentic AI | Marlborough, MA | https://go.vansh.nyc/1A8
+62 | Carnival Corporation | Data & AI Solutions Intern | Miami, FL | https://go.vansh.nyc/1Ag
+62 | Schonfeld | Cybersecurity Operations Intern | New York, NY | https://go.vansh.nyc/1Aj
+62 | Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | https://go.vansh.nyc/1Am
+62 | Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, Ohio | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190
+62 | Fiserv | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, New Jersey | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189
+62 | ICF | 2027 Summer Intern, AI Engineer | Reston, VA | https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518
+62 | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | https://zapply.jobs/l/d/workday-cmu-cmu-2025364
+60 | Pacific Fusion | HPC/DevOps Engineering Intern | San Leandro, CA | https://go.vansh.nyc/1Ao
+57 | Micron | Intern - Data Science, SMAI | Boise, Idaho, United States of... | https://zapply.jobs/l/d/eightfold-micron-45530213
+56 | ServiceNow | AI Identity Intern | Kirkland, WA | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
+55 | i3 | Embedded Systems Reverse Engineer Intern | Washington, DC | https://go.vansh.nyc/1Af
+54 | Octaura | Data Engineer Intern | NYC | https://job-boards.greenhouse.io/octaura/jobs/4662934007
+48 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zy
+48 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zz
 47 | NetApp | Software Engineer Intern, Systems | San Jose, CA | https://go.vansh.nyc/1zs
-46 | Verisk | Data Science/AI Intern | Lehi, UT | https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184
-46 | Bask | AI Engineering Intern | United States | https://go.vansh.nyc/1yt
-46 | Envita Solutions | Software Engineering Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z7
-46 | Envita Solutions | Data Scientist Intern, Applied AI | Indianapolis, IN | https://go.vansh.nyc/1z8
-46 | FieldPulse | AI Intern | Dallas, TX | https://go.vansh.nyc/1zj
-46 | KBR Wyle Services | Image Processing Software Engineer Intern | Sioux Falls, SD | https://go.vansh.nyc/1zx
-46 | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC | https://go.vansh.nyc/1zU
-44 | Reliable Robotics | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed
-44 | Samsung Semiconductor | Compiler Engineer Intern | San Jose, CA | https://go.vansh.nyc/1yw
-44 | IDEMIA North America | Full Stack Software Engineering Intern | Eden Prairie, MN | https://go.vansh.nyc/1z9
+47 | Micron Technology | Intern - Data Science, SMAI | Boise, ID - Main Site | https://zapply.jobs/l/d/workday-micron-external-JR117444
+46 | Ericsson | AI Software Engineer Intern | Plano, TX | https://go.vansh.nyc/1zB
+46 | The Allen Institute for Artificial Intelligence | Research Internship - AI for Neuroscience | Seattle, WA | https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636
 44 | NetApp | Software Engineer Intern, Cloud | San Jose, CA | https://go.vansh.nyc/1zr
-44 | Bloom Energy | Automation Engineering Intern | Fremont, California | https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25265
-43 | Electric Power Engineers | Software Power Systems Engineering Intern | Austin, TX | https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job
 40 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors
 40 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-3e13691b370678 | ServiceNow | AI Security Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern?oga=true
-c7920e88caee16 | TikTok | Machine Learning Engineer Intern | https://lifeattiktok.com/search/7698822572474583301
-111e52c8c0b47f | NVIDIA | AI Operations Intern - AI Clouds | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
+b3c4fe204ec2a9 | ASML | Internship-Generative AI developer | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346
+f639a233cd932e | NVIDIA | AI Operations Intern, AI Clouds | https://go.vansh.nyc/1qq
 46b98ee66e5642 | Salesforce | Summer 2027 Intern - AI Research Incubator | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
-a181ef356be316 | ServiceNow | AI Identity Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
+6ba0ebb1560b2a | Boston Scientific | AI Acceleration Intern | https://bostonscientific.eightfold.ai/careers/job/563602813862390
+ab534970fe9bbd | Boston Scientific | AI Engineer Intern - Generative & Agentic AI | https://bostonscientific.eightfold.ai/careers/job/563602813827837
+9c51296ccb632c | Boston Scientific | AI Engineering Intern, Generative and Agentic AI | https://go.vansh.nyc/1A8
+498b90d72af2eb | Carnival Corporation | Data & AI Solutions Intern | https://go.vansh.nyc/1Ag
+4cde5ad63001cc | Schonfeld | Cybersecurity Operations Intern | https://go.vansh.nyc/1Aj
+5ed7535f6da33a | Idaho National Laboratory | Cybersecurity Operations Intern | https://go.vansh.nyc/1Am
+640f5d7e1ce50f | Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190
+dfae140e8b6deb | Fiserv | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189
+6c41fe04d07e2c | ICF | 2027 Summer Intern, AI Engineer | https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518
+db3a3acb7c314d | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | https://zapply.jobs/l/d/workday-cmu-cmu-2025364
 d1d379bbec9f43 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | https://go.vansh.nyc/1s7
-e7e1967b47c457 | Epic Games | AI Programmer Intern | https://go.vansh.nyc/1pv
-6c0b2a7a6cce5a | Riot Games | Data Engineering Intern | https://go.vansh.nyc/1sS
-7f0c2cf646d3dd | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | https://go.vansh.nyc/1vZ
-323a705fcd96af | ServiceNow | Assoc AI Engineering - Cloud Security Automation Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern?oga=true
-59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
-07c738ca2c1d4c | Skydio | Middleware Software Engineer Intern | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true
-3ed3b40984cb52 | Shield AI | Software Engineer Intern | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true
-879bc246283e7d | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | https://go.vansh.nyc/14f
-48497b803a294f | Waymo | Software Engineer Intern, Multiverse | https://go.vansh.nyc/1qh
+59293aa8fa7b62 | Pacific Fusion | HPC/DevOps Engineering Intern | https://go.vansh.nyc/1Ao
