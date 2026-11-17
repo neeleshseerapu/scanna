@@ -1,48 +1,48 @@
-scan at 2026-11-16 22:28 UTC
-total 2107 (swe 1555, ml 552, web finds 0, added from candidates 0)
-posted in last 24h: 16
-sources: SimplifyJobs list 805/1410; ATS feed (zshah101) 254/909; Vansh & Ouckah list 808/1917; SpeedyApply SWE list 122/848; SpeedyApply AI list 71/831; Jobright SWE list 29/99; Zapply list 18/196
+scan at 2026-11-17 04:44 UTC
+total 2111 (swe 1557, ml 554, web finds 0, added from candidates 0)
+posted in last 24h: 25
+sources: SimplifyJobs list 807/1421; ATS feed (zshah101) 254/909; Vansh & Ouckah list 815/1934; SpeedyApply SWE list 121/848; SpeedyApply AI list 71/831; Jobright SWE list 26/99; Zapply list 17/195
 
 TOP NEW (last 72h) — score | company | title | location | url
+70 | ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA, NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
 66 | ASML | Internship-Generative AI developer | San Jose, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346
+64 | Disney | Data Engineering Intern | New York, NY | https://go.vansh.nyc/1AL
 62 | Boston Scientific | AI Acceleration Intern | Marlborough, MA | https://bostonscientific.eightfold.ai/careers/job/563602813862390
 62 | Boston Scientific | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813827837
 62 | Boston Scientific | AI Engineering Intern, Generative and Agentic AI | Marlborough, MA | https://go.vansh.nyc/1A8
-62 | Carnival Corporation | Data & AI Solutions Intern | Miami, FL | https://go.vansh.nyc/1Ag
 62 | Schonfeld | Cybersecurity Operations Intern | New York, NY | https://go.vansh.nyc/1Aj
-62 | Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | https://go.vansh.nyc/1Am
-62 | Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, Ohio | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190
-62 | Fiserv | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, New Jersey | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189
+62 | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA | https://go.vansh.nyc/1Az
+62 | Fiserv | Technology Intern, Cybersecurity | Columbus, OH | https://go.vansh.nyc/1AT
+62 | Carnegie Mellon SEI | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | https://zapply.jobs/l/d/workday-cmu-sei-2025364
 62 | ICF | 2027 Summer Intern, AI Engineer | Reston, VA | https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518
-62 | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | https://zapply.jobs/l/d/workday-cmu-cmu-2025364
 60 | Pacific Fusion | HPC/DevOps Engineering Intern | San Leandro, CA | https://go.vansh.nyc/1Ao
-57 | Micron | Intern - Data Science, SMAI | Boise, Idaho, United States of... | https://zapply.jobs/l/d/eightfold-micron-45530213
+60 | Clera | Full-Stack Software Engineering Intern | New York, NY | https://go.vansh.nyc/1AN
+60 | GlobalFoundries | Test Wafer and Qual Automation Engineering (Summer 2027) | USA - Vermont - Essex Junction | https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604662
+59 | Schonfeld | Platform Engineering Intern | New York, NY | https://go.vansh.nyc/1Aw
+56 | Bound | Engineering Intern | Ames, IA | https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd
+56 | Minitab | Software Engineering Intern | State College, PA | https://go.vansh.nyc/1Ax
+56 | HexArmor | Software Engineer Intern | Atlanta, GA | https://go.vansh.nyc/1AQ
 56 | ServiceNow | AI Identity Intern | Kirkland, WA | https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern?oga=true
+56 | Symbotic | Intern- Software Engineer | USA Wilmington, MA | https://zapply.jobs/l/d/workday-symbotic-symbotic-R7963
 55 | i3 | Embedded Systems Reverse Engineer Intern | Washington, DC | https://go.vansh.nyc/1Af
+55 | Integration Innovation (i3) | Embedded Systems Reverse Engineer Intern | Washington, DC | https://go.vansh.nyc/1AB
 54 | Octaura | Data Engineer Intern | NYC | https://job-boards.greenhouse.io/octaura/jobs/4662934007
-48 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zy
-48 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI | https://go.vansh.nyc/1zz
-47 | NetApp | Software Engineer Intern, Systems | San Jose, CA | https://go.vansh.nyc/1zs
-47 | Micron Technology | Intern - Data Science, SMAI | Boise, ID - Main Site | https://zapply.jobs/l/d/workday-micron-external-JR117444
-46 | Ericsson | AI Software Engineer Intern | Plano, TX | https://go.vansh.nyc/1zB
-46 | The Allen Institute for Artificial Intelligence | Research Internship - AI for Neuroscience | Seattle, WA | https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636
-44 | NetApp | Software Engineer Intern, Cloud | San Jose, CA | https://go.vansh.nyc/1zr
-40 | NextEra Energy | Software Engineering Intern - Technical | St Paul, MN | https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors
-40 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false
+52 | Carnival Corporation | Data & AI Solutions Intern | Miami, FL | https://go.vansh.nyc/1Ag
+52 | Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | https://go.vansh.nyc/1Am
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+f1314f80e511cc | ServiceNow | Associate Forward Deployed Solution Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
 b3c4fe204ec2a9 | ASML | Internship-Generative AI developer | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346
+b576acbc5c939c | Disney | Data Engineering Intern | https://go.vansh.nyc/1AL
 f639a233cd932e | NVIDIA | AI Operations Intern, AI Clouds | https://go.vansh.nyc/1qq
 46b98ee66e5642 | Salesforce | Summer 2027 Intern - AI Research Incubator | https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655
 6ba0ebb1560b2a | Boston Scientific | AI Acceleration Intern | https://bostonscientific.eightfold.ai/careers/job/563602813862390
 ab534970fe9bbd | Boston Scientific | AI Engineer Intern - Generative & Agentic AI | https://bostonscientific.eightfold.ai/careers/job/563602813827837
 9c51296ccb632c | Boston Scientific | AI Engineering Intern, Generative and Agentic AI | https://go.vansh.nyc/1A8
-498b90d72af2eb | Carnival Corporation | Data & AI Solutions Intern | https://go.vansh.nyc/1Ag
 4cde5ad63001cc | Schonfeld | Cybersecurity Operations Intern | https://go.vansh.nyc/1Aj
-5ed7535f6da33a | Idaho National Laboratory | Cybersecurity Operations Intern | https://go.vansh.nyc/1Am
-640f5d7e1ce50f | Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190
-dfae140e8b6deb | Fiserv | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189
+36baa09a8c43cb | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab | https://go.vansh.nyc/1Az
+f89d3a90aba4cc | Fiserv | Technology Intern, Cybersecurity | https://go.vansh.nyc/1AT
+96d5c9ae6ec81a | Carnegie Mellon SEI | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | https://zapply.jobs/l/d/workday-cmu-sei-2025364
 6c41fe04d07e2c | ICF | 2027 Summer Intern, AI Engineer | https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518
-db3a3acb7c314d | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | https://zapply.jobs/l/d/workday-cmu-cmu-2025364
 d1d379bbec9f43 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | https://go.vansh.nyc/1s7
 59293aa8fa7b62 | Pacific Fusion | HPC/DevOps Engineering Intern | https://go.vansh.nyc/1Ao
