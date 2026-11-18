@@ -1,48 +1,48 @@
-scan at 2026-11-18 03:49 UTC
-total 2122 (swe 1555, ml 567, web finds 0, added from candidates 0)
-posted in last 24h: 22
-sources: SimplifyJobs list 796/1392; ATS feed (zshah101) 252/909; Vansh & Ouckah list 821/1941; SpeedyApply SWE list 123/831; SpeedyApply AI list 84/833; Jobright SWE list 30/100; Zapply list 16/197
+scan at 2026-11-18 20:51 UTC
+total 2132 (swe 1554, ml 578, web finds 0, added from candidates 0)
+posted in last 24h: 20
+sources: SimplifyJobs list 785/1375; ATS feed (zshah101) 252/909; Vansh & Ouckah list 818/1937; SpeedyApply SWE list 140/862; SpeedyApply AI list 95/854; Jobright SWE list 27/100; Zapply list 15/196
 
 TOP NEW (last 72h) — score | company | title | location | url
-84 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
-76 | NVIDIA | Applied Research Scientist Intern - Agentic Biology - Summer 2027 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307
-66 | Bissell | AI & Automation Intern | Grand Rapids, MI | https://careers.bissell.com/jobs/9995?icims=1&lang=en-us
-66 | SemiAnalysis | Summer Intern - AI Tokenomics | San Francisco, CA | https://app.dover.io/apply/job/92a27ba4-b4e4-42e2-b427-26918df47b58/
-65 | Birdseye Security Solutions | AI Systems Intern | Dallas, TX | https://go.vansh.nyc/1B7
-65 | Amentum | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | TX-Houston | https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175558
-62 | Robert Bosch Venture Capital | AI Application Intern | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000162076254
+80 | Airbnb | Software Engineering Intern | San Francisco, CA | https://go.vansh.nyc/1C6
+76 | Airbnb | Software Engineer Intern | SF | https://careers.airbnb.com/positions/8360478?gh_jid=8360478
+74 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
+70 | NVIDIA | Applied Research Scientist Intern - Agentic Biology - Summer 2027 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307
+69 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker | https://zapply.jobs/l/d/workday-leidos-external-R-00193769
+66 | CrowdStrike | AI Research Launch Intern | Sunnyvale, CA +3 | https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599
+66 | Hewlett Packard Enterprise | HPE Labs - AI Enablement Intern | Milpitas, CA | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939
+62 | DriveWealth | AI Consulting Associate Program People Analytics Intern | Chicago, IL, NYC | https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true
 62 | T-Mobile | Software Engineering AI Intern | Atlanta, GA | https://go.vansh.nyc/1Bx
-62 | SemiAnalysis | Semiconductor & AI Research Intern | Hillsboro, OR | https://app.dover.io/apply/job/7162f938-7eaf-4724-8444-bdd189f71a02/
-62 | T-Mobile | Summer 2027 AI Engineering Internship | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110
+62 | Pathlabs | Software and AI Engineering Intern | Missoula, MT | https://jobs.pathlabs.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern
+62 | Bosch | AI Application Intern - 8 months/40 hours per week | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000162076254-ai-application-intern-8-months-40-hours-per-week-?oga=true
 60 | ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA, NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
-60 | Prometheus Group | Web Development Intern | Raleigh, NC | https://go.vansh.nyc/1Bh
+60 | IDEMIA | Full Stack Software Engineering Internship | Reston, VA | https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job
+60 | IDEMIA | Full Stack Software Engineering Internship | Eden Prairie, MN | https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job
+60 | Motorola Solutions | Software Engineer Co-op | Remote (US) | https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561
+60 | Deccan AI | ML Intern | Mountain View, CA | https://app.dover.io/apply/job/ce8443ee-b86c-4187-a051-40d0787cdc39/
 56 | Raptor Maps | Software Engineer Intern | Somerville, MA | https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a
-56 | Analog Devices | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | https://go.vansh.nyc/1AV
-56 | Birdseye Security Solutions | Computer Vision Intern | Dallas, TX | https://go.vansh.nyc/1B8
-56 | Sedaro | DevOps Intern | Arlington, VA | https://go.vansh.nyc/1Be
+56 | Bissell | AI & Automation Intern | Grand Rapids, MI | https://careers.bissell.com/jobs/9995?icims=1&lang=en-us
 56 | Draper | Software Engineering & DevOps Intern | Cambridge, MA | https://go.vansh.nyc/1BD
-56 | Forterra | 2027 Intern - Software | Clarksburg, MD +4 | https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395
-56 | ASML | Internship-Generative AI developer | San Jose, CA | https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship-Generative-AI-developer_J-00355346
-56 | ASML | Internship - Integrate GUI and LLM | San Jose, CA | https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014
-56 | ASML | Internship- AI Research and Development | San Jose, CA | https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship--AI-Research-and-Development_J-00357860
-55 | i3 Corps | Embedded Systems Reverse Engineer Intern | Washington, DC | https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job
-54 | Constellation Energy | IT Software Developer Intern | San Diego, CA | https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us
-54 | Disney | Data Engineering Intern | New York, NY | https://go.vansh.nyc/1AL
-52 | Boston Scientific | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813827837
+56 | IDEMIA | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN | https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job
+56 | Revealed | Software Engineering Intern | Americas +1 | https://app.dover.io/apply/job/6fe86bf8-84ea-4818-b389-cf07de4c8201/
+56 | Motorola Solutions | Software System Technologist Intern - Summer 2027 Internship | Chicago, IL | https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Software-System-Technologist-Intern--Summer-2027-Internship-_R70839
+56 | SemiAnalysis | Summer Intern - AI Tokenomics | San Francisco, CA | https://app.dover.io/apply/job/92a27ba4-b4e4-42e2-b427-26918df47b58/
+56 | T-Mobile | Summer 2027 AI Engineering Internship | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110
+56 | Bose | Software Engineer Co-op | MA - Framingham | https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29387
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+acffe125d22653 | Airbnb | Software Engineering Intern | https://go.vansh.nyc/1C6
+e19060dcc214c4 | Airbnb | Software Engineer Intern | https://careers.airbnb.com/positions/8360478?gh_jid=8360478
 2705a9e6be1a76 | Anduril | Machine Learning Engineer Intern | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
 dfbbb53ac77fe0 | NVIDIA | Applied Research Scientist Intern - Agentic Biology - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307
-c9de9ddb636c12 | Bissell | AI & Automation Intern | https://careers.bissell.com/jobs/9995?icims=1&lang=en-us
-9b82772a7165fa | SemiAnalysis | Summer Intern - AI Tokenomics | https://app.dover.io/apply/job/92a27ba4-b4e4-42e2-b427-26918df47b58/
-40e8dffb85545b | Birdseye Security Solutions | AI Systems Intern | https://go.vansh.nyc/1B7
-94dd2906389f60 | Amentum | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175558
-8cd2c88e04966d | Robert Bosch Venture Capital | AI Application Intern | https://jobs.smartrecruiters.com/BoschGroup/744000162076254
+32c578c02d1b21 | Leidos | Business Systems AI Intern | https://zapply.jobs/l/d/workday-leidos-external-R-00193769
+a1f7ee98b40cb9 | CrowdStrike | AI Research Launch Intern | https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599
+dc42ec36b88ab9 | Hewlett Packard Enterprise | HPE Labs - AI Enablement Intern | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939
+2aca56f95a17b0 | DriveWealth | AI Consulting Associate Program People Analytics Intern | https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true
 d285bbdde3f99a | T-Mobile | Software Engineering AI Intern | https://go.vansh.nyc/1Bx
-014a65a956b3ba | SemiAnalysis | Semiconductor & AI Research Intern | https://app.dover.io/apply/job/7162f938-7eaf-4724-8444-bdd189f71a02/
-c90bf260fe22bf | T-Mobile | Summer 2027 AI Engineering Internship | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110
+7c6f7c8e3d9013 | Pathlabs | Software and AI Engineering Intern | https://jobs.pathlabs.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern
+a5b096020617d3 | Bosch | AI Application Intern - 8 months/40 hours per week | https://jobs.smartrecruiters.com/BoschGroup/744000162076254-ai-application-intern-8-months-40-hours-per-week-?oga=true
 f1314f80e511cc | ServiceNow | Associate Forward Deployed Solution Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
-7875b3d5083e4a | Prometheus Group | Web Development Intern | https://go.vansh.nyc/1Bh
-7f0c2cf646d3dd | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | https://go.vansh.nyc/1vZ
-323a705fcd96af | ServiceNow | Assoc AI Engineering - Cloud Security Automation Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern?oga=true
-3e13691b370678 | ServiceNow | AI Security Engineer Intern | https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern?oga=true
+92a71ec06ae3e2 | IDEMIA | Full Stack Software Engineering Internship | https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job
+725c307da08ab0 | IDEMIA | Full Stack Software Engineering Internship | https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job
+04753c318324ab | Motorola Solutions | Software Engineer Co-op | https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561
