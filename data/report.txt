@@ -1,48 +1,48 @@
-scan at 2026-11-20 03:41 UTC
-total 2131 (swe 1553, ml 578, web finds 0, added from candidates 0)
-posted in last 24h: 31
-sources: SimplifyJobs list 763/1334; ATS feed (zshah101) 254/909; Vansh & Ouckah list 833/1957; SpeedyApply SWE list 146/850; SpeedyApply AI list 100/855; Jobright SWE list 20/97; Zapply list 15/196
+scan at 2026-11-20 20:40 UTC
+total 2159 (swe 1567, ml 592, web finds 0, added from candidates 0)
+posted in last 24h: 53
+sources: SimplifyJobs list 752/1322; ATS feed (zshah101) 251/909; Vansh & Ouckah list 846/1977; SpeedyApply SWE list 159/851; SpeedyApply AI list 109/858; Jobright SWE list 24/99; Zapply list 18/196
 
 TOP NEW (last 72h) — score | company | title | location | url
 86 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA, Mountain View, CA | https://go.vansh.nyc/1Dx
 79 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
 76 | Snowflake | Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
 76 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | Newark, CA | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
+76 | NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | https://go.vansh.nyc/1Eh
+76 | Lucid Motors | Product Security Engineering Intern, Summer 2027 | Newark, CA | https://zapply.jobs/l/d/greenhouse-lucidmotors-5290941007
 73 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | https://go.vansh.nyc/1DT
+72 | MongoDB | 2027 - AI and People Transformation Intern - NYC | New York City, NY | https://www.mongodb.com/careers/job/?gh_jid=8346138
+72 | General Motors | 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern | Warren, Michigan, United States... | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624606
 70 | Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
 70 | Lucid Motors | Infotainment Software Intern | Newark, CA | https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007
-70 | Airbnb | Software Engineering Intern | San Francisco, CA | https://go.vansh.nyc/1C6
 69 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | https://go.vansh.nyc/1DP
-69 | Leidos | Business Systems AI Intern | 6314 Remote/Teleworker | https://zapply.jobs/l/d/workday-leidos-external-R-00193769
-68 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
-68 | Intel | Signal integrity AI enabling intern | Phoenix, AZ | https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302
-66 | Airbnb | Software Engineer Intern | SF | https://careers.airbnb.com/positions/8360478?gh_jid=8360478
 66 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | https://go.vansh.nyc/1Cv
 66 | Lucid Motors | Embedded Software Intern | Newark, CA | https://go.vansh.nyc/1Dv
+66 | Hewlett Packard Enterprise | AI Engineering Technical Intern | Sunnyvale, CA | https://go.vansh.nyc/1ER
+66 | Lucid Motors | Intern - Motor Control Software Development and Validation Engineer - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007
+66 | Lucid Motors | Intern - Software QA Engineer - Infotainment - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007
+66 | T-Mobile | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239
+66 | Cisco | AI Researcher II - Intern - United States | San Francisco, CA +2 | https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2032589
 64 | Pivotal Software | Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA | https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply
-63 | HeartFlow | Platform Engineering Intern | San Francisco, CA | https://go.vansh.nyc/1Ds
+64 | Airbnb | Software Engineering Intern | San Francisco, CA | https://go.vansh.nyc/1C6
 62 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620
 62 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621
-62 | Samsung Semiconductor | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA | https://go.vansh.nyc/1Cw
-62 | Bread Financial | Cybersecurity Intern | Columbus, OH | https://go.vansh.nyc/1CF
-60 | Formlabs | API & Automation Intern | Somerville, MA | https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855
-60 | Revelyst | Finance AI Process Innovation Intern | Irvine, CA | https://revelyst.wd1.myworkdayjobs.com/en-US/external_revelyst/job/Irvine-CA/Finance-AI-Process-Innovation-Intern_R0013665-1
-60 | Revelyst | Operations AI Process Innovation Intern | Irvine, CA | https://revelyst.wd1.myworkdayjobs.com/en-US/external_revelyst/job/Irvine-CA/Operations-AI-Process-Innovation-Intern_R0013664
-60 | CrowdStrike | AI Research Launch Intern | Sunnyvale, CA +3 | https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599
+62 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880
+62 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 3bca2d4b2445c9 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | https://go.vansh.nyc/1Dx
 37d41d68357e82 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
 d34c5544086d1c | Snowflake | Software Engineer Intern - AI / ML | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
 56428f249946d8 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
+d185ef94512572 | NVIDIA | Finance AI Engineering Intern | https://go.vansh.nyc/1Eh
+d5b1b48b4ac1fd | Lucid Motors | Product Security Engineering Intern, Summer 2027 | https://zapply.jobs/l/d/greenhouse-lucidmotors-5290941007
 1011a65884cf32 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | https://go.vansh.nyc/1DT
+d1bb50452ea5ea | MongoDB | 2027 - AI and People Transformation Intern - NYC | https://www.mongodb.com/careers/job/?gh_jid=8346138
+f0425aaddf179c | General Motors | 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624606
 b1eae890476bd6 | Snowflake | Software Engineer Intern - Database Engineering | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
 ebe975bb8fe117 | Lucid Motors | Infotainment Software Intern | https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007
-acffe125d22653 | Airbnb | Software Engineering Intern | https://go.vansh.nyc/1C6
 22f80def4b5a4b | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | https://go.vansh.nyc/1DP
-32c578c02d1b21 | Leidos | Business Systems AI Intern | https://zapply.jobs/l/d/workday-leidos-external-R-00193769
-2705a9e6be1a76 | Anduril | Machine Learning Engineer Intern | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
-8cfd518c4606a9 | Intel | Signal integrity AI enabling intern | https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302
-e19060dcc214c4 | Airbnb | Software Engineer Intern | https://careers.airbnb.com/positions/8360478?gh_jid=8360478
 9bc68f334e7fd0 | Microsoft | Research Intern, Computer Vision and Deep Learning | https://go.vansh.nyc/1Cv
 d07e0fbc74d51a | Lucid Motors | Embedded Software Intern | https://go.vansh.nyc/1Dv
+af2b8fb1b8926d | Hewlett Packard Enterprise | AI Engineering Technical Intern | https://go.vansh.nyc/1ER
