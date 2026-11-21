@@ -1,48 +1,48 @@
-scan at 2026-11-20 20:40 UTC
-total 2159 (swe 1567, ml 592, web finds 0, added from candidates 0)
-posted in last 24h: 53
-sources: SimplifyJobs list 752/1322; ATS feed (zshah101) 251/909; Vansh & Ouckah list 846/1977; SpeedyApply SWE list 159/851; SpeedyApply AI list 109/858; Jobright SWE list 24/99; Zapply list 18/196
+scan at 2026-11-21 03:25 UTC
+total 2165 (swe 1563, ml 602, web finds 0, added from candidates 0)
+posted in last 24h: 54
+sources: SimplifyJobs list 756/1344; ATS feed (zshah101) 250/909; Vansh & Ouckah list 846/1986; SpeedyApply SWE list 158/851; SpeedyApply AI list 108/858; Jobright SWE list 28/98; Zapply list 19/195
 
 TOP NEW (last 72h) — score | company | title | location | url
-86 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA, Mountain View, CA | https://go.vansh.nyc/1Dx
-79 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
-76 | Snowflake | Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
-76 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | Newark, CA | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
+82 | Rivian | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA | https://go.vansh.nyc/1F3
+78 | Cisco | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina | https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295
+76 | Lucid Motors | AI/ML Intern - Vehicle Infotainment - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007
+76 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA, Mountain View, CA | https://go.vansh.nyc/1Dx
 76 | NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | https://go.vansh.nyc/1Eh
-76 | Lucid Motors | Product Security Engineering Intern, Summer 2027 | Newark, CA | https://zapply.jobs/l/d/greenhouse-lucidmotors-5290941007
-73 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | https://go.vansh.nyc/1DT
+73 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
 72 | MongoDB | 2027 - AI and People Transformation Intern - NYC | New York City, NY | https://www.mongodb.com/careers/job/?gh_jid=8346138
 72 | General Motors | 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern | Warren, Michigan, United States... | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624606
-70 | Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
-70 | Lucid Motors | Infotainment Software Intern | Newark, CA | https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007
-69 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | https://go.vansh.nyc/1DP
-66 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | https://go.vansh.nyc/1Cv
-66 | Lucid Motors | Embedded Software Intern | Newark, CA | https://go.vansh.nyc/1Dv
+70 | Snowflake | Software Engineer Intern - AI / ML | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
+70 | EP Wealth Advisors | Data AI Engineer Intern | Austin, TX, Torrance, CA | https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply
+70 | Garmin | Software Engineer Intern, Web/Mobile | Yarmouth, ME | https://go.vansh.nyc/1Fa
+66 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | Newark, CA | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
 66 | Hewlett Packard Enterprise | AI Engineering Technical Intern | Sunnyvale, CA | https://go.vansh.nyc/1ER
 66 | Lucid Motors | Intern - Motor Control Software Development and Validation Engineer - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007
 66 | Lucid Motors | Intern - Software QA Engineer - Infotainment - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007
 66 | T-Mobile | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239
 66 | Cisco | AI Researcher II - Intern - United States | San Francisco, CA +2 | https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2032589
-64 | Pivotal Software | Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA | https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply
+66 | Lucid Motors | Product Security Engineering Intern, Summer 2027 | Newark, CA | https://zapply.jobs/l/d/greenhouse-lucidmotors-5290941007
+64 | Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
 64 | Airbnb | Software Engineering Intern | San Francisco, CA | https://go.vansh.nyc/1C6
-62 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620
-62 | Vertiv | AI Intern | Westerville, OH, Fort Lauderdale, FL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621
+63 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | https://go.vansh.nyc/1DT
 62 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880
 62 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899
+62 | Ralliant | Software Engineering Intern - AI Building | Beaverton, OR | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324
+62 | Werner Electric Supply | AI Intern | Appleton, WI | https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+226f1814add584 | Rivian | Software Engineering Intern, AI Platform, Autonomy | https://go.vansh.nyc/1F3
+d133301db70618 | Cisco | AI Cybersecurity Engineer I (Intern) – United States | https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295
+d78f63fbb728a0 | Lucid Motors | AI/ML Intern - Vehicle Infotainment - Summer 2027 | https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007
 3bca2d4b2445c9 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | https://go.vansh.nyc/1Dx
-37d41d68357e82 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
-d34c5544086d1c | Snowflake | Software Engineer Intern - AI / ML | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
-56428f249946d8 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
 d185ef94512572 | NVIDIA | Finance AI Engineering Intern | https://go.vansh.nyc/1Eh
-d5b1b48b4ac1fd | Lucid Motors | Product Security Engineering Intern, Summer 2027 | https://zapply.jobs/l/d/greenhouse-lucidmotors-5290941007
-1011a65884cf32 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | https://go.vansh.nyc/1DT
+37d41d68357e82 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
 d1bb50452ea5ea | MongoDB | 2027 - AI and People Transformation Intern - NYC | https://www.mongodb.com/careers/job/?gh_jid=8346138
 f0425aaddf179c | General Motors | 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624606
-b1eae890476bd6 | Snowflake | Software Engineer Intern - Database Engineering | https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true
-ebe975bb8fe117 | Lucid Motors | Infotainment Software Intern | https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007
-22f80def4b5a4b | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | https://go.vansh.nyc/1DP
-9bc68f334e7fd0 | Microsoft | Research Intern, Computer Vision and Deep Learning | https://go.vansh.nyc/1Cv
-d07e0fbc74d51a | Lucid Motors | Embedded Software Intern | https://go.vansh.nyc/1Dv
+d34c5544086d1c | Snowflake | Software Engineer Intern - AI / ML | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
+3a5f6cfad65995 | EP Wealth Advisors | Data AI Engineer Intern | https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply
+f1a3c71dd1227c | Garmin | Software Engineer Intern, Web/Mobile | https://go.vansh.nyc/1Fa
+56428f249946d8 | Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007
 af2b8fb1b8926d | Hewlett Packard Enterprise | AI Engineering Technical Intern | https://go.vansh.nyc/1ER
+1a8bd64b6c0e29 | Lucid Motors | Intern - Motor Control Software Development and Validation Engineer - Summer 2027 | https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007
+2ea93bd8348e67 | Lucid Motors | Intern - Software QA Engineer - Infotainment - Summer 2027 | https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007
