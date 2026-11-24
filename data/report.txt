@@ -1,48 +1,48 @@
-scan at 2026-11-23 03:02 UTC
-total 2141 (swe 1540, ml 601, web finds 0, added from candidates 0)
-posted in last 24h: 3
-sources: SimplifyJobs list 754/1336; ATS feed (zshah101) 260/909; Vansh & Ouckah list 849/1989; SpeedyApply SWE list 139/832; SpeedyApply AI list 106/869; Jobright SWE list 16/99; Zapply list 17/196
+scan at 2026-11-24 00:17 UTC
+total 2152 (swe 1555, ml 597, web finds 0, added from candidates 0)
+posted in last 24h: 20
+sources: SimplifyJobs list 748/1319; ATS feed (zshah101) 259/909; Vansh & Ouckah list 859/1982; SpeedyApply SWE list 139/832; SpeedyApply AI list 104/869; Jobright SWE list 26/100; Zapply list 17/196
 
 TOP NEW (last 72h) — score | company | title | location | url
-70 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1
-66 | Rivian | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA | https://go.vansh.nyc/1F3
-62 | Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | https://go.vansh.nyc/1G5
-62 | HPE (University) | Networking & Cybersecurity Intern | San Jose, California, United... | https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058
-60 | Lucid Motors | AI/ML Intern - Vehicle Infotainment - Summer 2027 | Newark, CA | https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007
-60 | Forterra | 2027 Intern - Software | East Palo Alto, CA | https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395
-58 | Neros Technologies | Autonomy Intern | Torrance, CA | https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007
-58 | Rockwell Automation | ISM, Cyber Security and AI Intern | Mayfield Heights, OH | https://go.vansh.nyc/1G7
-56 | General Motors | 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern | Warren, Michigan, United States... | https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624606
-55 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN | https://go.vansh.nyc/1Gp
-54 | EP Wealth Advisors | Data AI Engineer Intern | Austin, TX, Torrance, CA | https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply
-54 | Garmin | Software Engineer Intern, Web/Mobile | Yarmouth, ME | https://go.vansh.nyc/1Fa
-51 | Activision Blizzard | Data Platform Engineering Intern | Irvine, CA | https://go.vansh.nyc/1Ge
-50 | Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA | https://go.vansh.nyc/1Go
-50 | ASML | Internship - Contract Management and AI | San Diego, CA | https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Contract-Management-and-AI_J-00357971
-46 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880
-46 | Honeywell Aerospace | AI Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899
-46 | Ralliant | Software Engineering Intern - AI Building | Beaverton, OR | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324
-46 | Werner Electric Supply | AI Intern | Appleton, WI | https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d
-46 | CAS | Business Data Analytics Intern, AI/ML Focus | Columbus, OH | https://go.vansh.nyc/1E5
-46 | The SilverLogic | AI Engineer/Consultant Intern | Boca Raton, FL | https://go.vansh.nyc/1EE
-46 | Southern Farm Bureau Life Insurance | Cyber Security Intern | Jackson, MS | https://go.vansh.nyc/1G1
-46 | Fabri | DevOps, IT & Cybersecurity Intern | Billerica, MA | https://go.vansh.nyc/1Gk
-46 | GlobalFoundries | AI-Enabled PDK Development Intern - Summer 2027 | USA +2 | https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440
-46 | GlobalFoundries | AI-Enabled Device Modeling Intern - Summer 2027 | USA +2 | https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-Enabled-Device-Modeling-Intern--Summer-2027-_JR-2604437
+80 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
+66 | CornerStone Partners | AI and Automation Intern | Charlottesville, VA | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
+66 | Shield AI | Software Engineering Intern | Dallas, TX | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
+66 | Motorola Solutions | Mission Critical Networks Software Engineer Intern | Schaumburg, IL, Chicago, IL | https://go.vansh.nyc/1Hn
+66 | ASML | Internship/Co-Op: AI Engineer | San Jose, CA | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358477
+64 | First Resonance | Forward Deployed Engineering Intern | Los Angeles, CA | https://go.vansh.nyc/1GF
+62 | Micron Technology | Advanced Modeling and AI Solutions Intern | Boise, ID | https://go.vansh.nyc/1GW
+62 | Northrop Grumman | 2027 Software Test Engineering Intern - Roy UT | Roy, Utah | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728
+60 | Garmin | Software Engineer Intern, Aviation Web Development | Middlebury, CT | https://go.vansh.nyc/1H0
+60 | Contoro Robotics | Robotics Software Engineer Intern, Autonomy & Automation | Austin, TX | https://go.vansh.nyc/1Hp
+60 | Genentech | 2027 Summer Intern - Software Engineer (Robotics) - Lab Automation | South San Francisco | https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129832
+59 | APEX Analytix | Software Engineer Intern - Platform Tooling | Greensboro, NC | https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19
+56 | Benchling | Software Engineer Intern | SF | https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true
+56 | Illinois Tool Works | Software or Computer Engineer Intern | Fairmont, MN | https://careers.itw.com/global/en/job/JR11356
+56 | Oscar Health | Software Engineering Intern | New York, NY | https://go.vansh.nyc/1H6
+56 | Shield | Software Engineering Intern | Dallas, TX | https://go.vansh.nyc/1H8
+56 | Kudu Dynamics | Software Engineering Intern | Arlington, VA | https://go.vansh.nyc/1Hh
+56 | Saab | Software Engineering Co-op | East Syracuse, NY | https://go.vansh.nyc/1Hj
+56 | Saab | Software Engineer Co-op | East Syracuse, NY | https://go.vansh.nyc/1Hk
+56 | Capital Technology Group | Software Development Intern | Silver Spring, MD | https://go.vansh.nyc/1Ht
+54 | Lifeway | Software Engineer Intern - Full Stack - Back-End | Remote (US) | https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false
+54 | Lifeway | Front-End Engineer Intern | Nashville, TN, Remote (US) | https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false
+54 | Capital Technology Group | Data Engineering and Data Science Intern | Silver Spring, MD | https://go.vansh.nyc/1Hu
+53 | Nintendo | IT Platform Engineer Intern | Redmond, WA | https://go.vansh.nyc/1GU
+52 | Neros Technologies | Autonomy Intern | Torrance, CA | https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
-c9b45747ace1b7 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1
-37d41d68357e82 | Snowflake | Software Engineer Intern - Core - Infrastructure & Security | https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true
-226f1814add584 | Rivian | Software Engineering Intern, AI Platform, Autonomy | https://go.vansh.nyc/1F3
-d34c5544086d1c | Snowflake | Software Engineer Intern - AI / ML | https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true
+5af75bdd9e02e1 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
+a98b8f6fdf7a5b | CornerStone Partners | AI and Automation Intern | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
+541a01c146449c | Shield AI | Software Engineering Intern | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
+5bf7accef014e6 | Motorola Solutions | Mission Critical Networks Software Engineer Intern | https://go.vansh.nyc/1Hn
+0993c8aa84be41 | ASML | Internship/Co-Op: AI Engineer | https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358477
+a8480b7cf762d5 | First Resonance | Forward Deployed Engineering Intern | https://go.vansh.nyc/1GF
 3bca2d4b2445c9 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | https://go.vansh.nyc/1Dx
 d185ef94512572 | NVIDIA | Finance AI Engineering Intern | https://go.vansh.nyc/1Eh
-47c880c1ec9fec | Cisco | AI Cybersecurity Engineer I Intern | https://go.vansh.nyc/1G5
-5ecca85682c76b | HPE (University) | Networking & Cybersecurity Intern | https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058
+c9b45747ace1b7 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1
+5e72cbd77e9685 | Micron Technology | Advanced Modeling and AI Solutions Intern | https://go.vansh.nyc/1GW
+cf0274cafa7f7c | Northrop Grumman | 2027 Software Test Engineering Intern - Roy UT | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728
 2705a9e6be1a76 | Anduril | Machine Learning Engineer Intern | https://boards.greenhouse.io/andurilindustries/jobs/5274037007
-d78f63fbb728a0 | Lucid Motors | AI/ML Intern - Vehicle Infotainment - Summer 2027 | https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007
-824a4a8f59bece | Forterra | 2027 Intern - Software | https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395
-d1bb50452ea5ea | MongoDB | 2027 - AI and People Transformation Intern, NYC | https://www.mongodb.com/careers/job/?gh_jid=8346138
-a134e16437e395 | Neros Technologies | Autonomy Intern | https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007
-59bff9c0272244 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | https://go.vansh.nyc/18h
-f92b185974aac8 | Rockwell Automation | ISM, Cyber Security and AI Intern | https://go.vansh.nyc/1G7
+8d44c94b1e26d3 | Garmin | Software Engineer Intern, Aviation Web Development | https://go.vansh.nyc/1H0
+dc4416ebcc1612 | Contoro Robotics | Robotics Software Engineer Intern, Autonomy & Automation | https://go.vansh.nyc/1Hp
+de3f85b423edf0 | Genentech | 2027 Summer Intern - Software Engineer (Robotics) - Lab Automation | https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129832
