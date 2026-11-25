@@ -1,48 +1,48 @@
-scan at 2026-11-24 22:43 UTC
-total 2170 (swe 1570, ml 600, web finds 0, added from candidates 0)
-posted in last 24h: 27
-sources: SimplifyJobs list 753/1320; ATS feed (zshah101) 261/913; Vansh & Ouckah list 864/1993; SpeedyApply SWE list 155/840; SpeedyApply AI list 104/867; Jobright SWE list 13/100; Zapply list 20/198
+scan at 2026-11-25 21:56 UTC
+total 2192 (swe 1583, ml 609, web finds 0, added from candidates 0)
+posted in last 24h: 25
+sources: SimplifyJobs list 755/1322; ATS feed (zshah101) 262/918; Vansh & Ouckah list 872/2003; SpeedyApply SWE list 154/840; SpeedyApply AI list 104/860; Jobright SWE list 22/100; Zapply list 23/199
 
 TOP NEW (last 72h) — score | company | title | location | url
-86 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | https://go.vansh.nyc/1Im
-80 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-72 | Northrop Grumman | 2027 Cybersecurity Intern - Linthicum MD | Linthicum, Maryland | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261960
-68 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | https://go.vansh.nyc/1It
-66 | CornerStone Partners | AI and Automation Intern | Charlottesville, VA | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
-66 | Shield AI | Software Engineering Intern | Dallas, TX | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
-66 | Illumio | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, California - HQ | https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7
-66 | Juniper Networks | Networking & Cybersecurity Intern | San Jose, CA | https://go.vansh.nyc/1HU
-66 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs CO | Colorado Springs, CO | https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918
-63 | Illumio | Engineering Intern - Architecture Platform | Sunnyvale, CA | https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true
-62 | Servco Pacific | Cybersecurity Analyst Intern | Honolulu, HI | https://go.vansh.nyc/1HV
-62 | BEUMER Group | AI Development Intern | United States | https://go.vansh.nyc/1I9
-62 | Sanofi | 2027 Summer Intern NCES statistician expert in AI Cambridge MA | Cambridge, MA | https://sanofi.wd3.myworkdayjobs.com/en-US/sanoficareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-NCES-statistician-expert-in-AI-Cambridge-MA_R2865668
-60 | Garmin | Software Engineer Intern, Aviation Web Development | Middlebury, CT | https://go.vansh.nyc/1H0
-60 | ZOLL Medical Corporation | Software Automation Intern | Chelmsford, MA | https://go.vansh.nyc/1I1
-60 | QinetiQ | Software Engineer Intern | Remote (US), United States | https://go.vansh.nyc/1Ip
-60 | Arete | Science & Software Development Intern | Northridge, CA | https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed4b889e-3beb-433a-9b2c-7258324f6a83&jobId=585838
-60 | Samsung | Software Development Engineer - Intern | Mountain View, CA | https://sec.wd3.myworkdayjobs.com/en-US/samsung_careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018
-59 | Illumio | Security Platforms Engineer Intern - Security Platforms | Sunnyvale, CA | https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true
-59 | Federal Home Loan Bank of Indianapolis | Data Platform Engineer Intern | Indianapolis, IN | https://go.vansh.nyc/1I0
-59 | T-Mobile | Site Reliability Engineering (SRE) Intern, Database Platform Engineering | Atlanta, GA | https://go.vansh.nyc/1Ik
-59 | T-Mobile | Summer 2027 Database Platform Engineering Site Reliability Engineering - SRE- Internship | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920
-59 | T-Mobile | Summer 2027 Database Platform Engineering Site Reliability Engineering - SRE - Internship | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE---Internship_REQ380923
-58 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726
-56 | Benchling | Software Engineer Intern | SF | https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true
+82 | Coinbase | Security Engineer Intern | Hybrid - New York, NY | https://zapply.jobs/l/d/greenhouse-coinbase-8415869
+80 | Amazon | Front-End Engineer Intern | Seattle, WA, Chicago, IL | https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
+76 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | https://go.vansh.nyc/1Im
+72 | Cisco | Security Engineer I (Intern) - United States | RTP, North Carolina | https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025885
+71 | Samsung Semiconductor | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA | https://go.vansh.nyc/1IH
+70 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
+67 | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | Los Angeles, CA | https://go.vansh.nyc/1Jf
+66 | SambaNova | AI Performance Engineer Intern | Austin, TX, San Jose, CA | https://go.vansh.nyc/1Jj
+66 | Marvell | Applied AI/ML Research Scientist Intern | Santa Clara, CA | https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603847
+65 | Johns Hopkins Applied Physics Laboratory | Cyber Physical Systems Intern | Laurel, MD | https://go.vansh.nyc/1IY
+64 | Apex Technology, Inc. | Flight Software Engineering Intern | Los Angeles, CA | https://go.vansh.nyc/1Jg
+63 | SambaNova | Cloud Platform Engineer Intern | San Jose, CA | https://go.vansh.nyc/1Jq
+62 | Draper | Cyber Effects Engineering Intern | Cambridge, MA | https://go.vansh.nyc/1Jv
+62 | Northrop Grumman | 2027 Cybersecurity Intern - Linthicum MD | Linthicum, Maryland | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261960
+62 | Generac | Intern AI Engineering | Waukesha, WI - | https://zapply.jobs/l/d/workday-generac-external-JR17511
+60 | Shield AI | Software Engineering Intern | Dallas, TX | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
+60 | SambaNova Systems | Runtime Engineer Intern | Austin, TX, San Jose, CA | https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004
+60 | Juniper Networks | Networking & Cybersecurity Intern | San Jose, CA | https://go.vansh.nyc/1HU
+60 | SambaNova | Compiler Engineer Intern | Austin, TX, San Jose, CA | https://go.vansh.nyc/1Jk
+58 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | https://go.vansh.nyc/1It
+56 | CornerStone Partners | AI and Automation Intern | Charlottesville, VA | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
+56 | Bandwidth | Software Engineer Intern | Raleigh, NC | https://job-boards.greenhouse.io/bandwidth/jobs/8414452
+56 | Bandwidth | Software Engineer Intern | Raleigh, NC | https://job-boards.greenhouse.io/bandwidth/jobs/8414426
+56 | Bandwidth | Software Engineer Intern | Raleigh, NC | https://job-boards.greenhouse.io/bandwidth/jobs/8414440
+56 | Bandwidth | Software Engineer Intern | Raleigh, NC | https://job-boards.greenhouse.io/bandwidth/jobs/8414444
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
+57a9a04546f531 | Coinbase | Security Engineer Intern | https://zapply.jobs/l/d/greenhouse-coinbase-8415869
+89f9ae0d9d8644 | Amazon | Front-End Engineer Intern | https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
 9e05d9cdc2cad7 | NVIDIA | Developer Technology Intern, AI | https://go.vansh.nyc/1Im
+27021696f7a4cc | Cisco | Security Engineer I (Intern) - United States | https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025885
+de51c39a32ff08 | Samsung Semiconductor | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | https://go.vansh.nyc/1IH
 5af75bdd9e02e1 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-a0f32a17679ef6 | Northrop Grumman | 2027 Cybersecurity Intern - Linthicum MD | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261960
-16e4f37858929a | Apex Technology, Inc. | Software Engineer Intern, Test Automation | https://go.vansh.nyc/1It
-a98b8f6fdf7a5b | CornerStone Partners | AI and Automation Intern | https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027
-541a01c146449c | Shield AI | Software Engineering Intern | https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true
-b0c1db97744fd6 | Illumio | AI-Based Scale & Performance Test Automation Intern | https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7
-594e8def74e15f | Juniper Networks | Networking & Cybersecurity Intern | https://go.vansh.nyc/1HU
-4974a5c1285283 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs CO | https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918
-317fb88ce7058d | Illumio | Engineering Intern - Architecture Platform | https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true
+01868900e134bc | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | https://go.vansh.nyc/1Jf
+2a00bcfb7b6b32 | SambaNova | AI Performance Engineer Intern | https://go.vansh.nyc/1Jj
+6febb4836ee58a | Marvell | Applied AI/ML Research Scientist Intern | https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603847
+9c9b2a369af6a7 | Johns Hopkins Applied Physics Laboratory | Cyber Physical Systems Intern | https://go.vansh.nyc/1IY
+6492da293862a8 | Apex Technology, Inc. | Flight Software Engineering Intern | https://go.vansh.nyc/1Jg
 3bca2d4b2445c9 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | https://go.vansh.nyc/1Dx
 d185ef94512572 | NVIDIA | Finance AI Engineering Intern | https://go.vansh.nyc/1Eh
+1f54fbbea52b1a | SambaNova | Cloud Platform Engineer Intern | https://go.vansh.nyc/1Jq
 c9b45747ace1b7 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1
-4f6ccb7667a522 | Servco Pacific | Cybersecurity Analyst Intern | https://go.vansh.nyc/1HV
-093829b587afe5 | BEUMER Group | AI Development Intern | https://go.vansh.nyc/1I9
