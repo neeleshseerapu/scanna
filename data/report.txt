@@ -1,48 +1,48 @@
-scan at 2026-11-26 04:19 UTC
-total 2200 (swe 1589, ml 611, web finds 0, added from candidates 0)
-posted in last 24h: 21
-sources: SimplifyJobs list 765/1336; ATS feed (zshah101) 262/918; Vansh & Ouckah list 877/2020; SpeedyApply SWE list 155/840; SpeedyApply AI list 103/860; Jobright SWE list 16/100; Zapply list 22/198
+scan at 2026-11-26 21:52 UTC
+total 2206 (swe 1598, ml 608, web finds 0, added from candidates 0)
+posted in last 24h: 14
+sources: SimplifyJobs list 763/1333; ATS feed (zshah101) 261/918; Vansh & Ouckah list 886/2036; SpeedyApply SWE list 151/850; SpeedyApply AI list 104/855; Jobright SWE list 20/100; Zapply list 21/198
 
 TOP NEW (last 72h) — score | company | title | location | url
-82 | Coinbase | Security Engineer Intern | Hybrid - New York, NY | https://zapply.jobs/l/d/greenhouse-coinbase-8415869
-76 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | https://go.vansh.nyc/1Im
+72 | Coinbase | Security Engineer Intern | Hybrid - New York, NY | https://zapply.jobs/l/d/greenhouse-coinbase-8415869
 70 | Amazon | Front-End Engineer Intern | Seattle, WA, Chicago, IL | https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
-67 | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | Los Angeles, CA | https://go.vansh.nyc/1Jf
-66 | Marvell | Applied AI/ML Research Scientist Intern | Santa Clara, CA | https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603847
+70 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | https://go.vansh.nyc/1Im
+70 | NVIDIA | AI and Quant DevTech Engineering Intern - Summer 2027 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517
 64 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-64 | Apex Technology, Inc. | Flight Software Engineering Intern | Los Angeles, CA | https://go.vansh.nyc/1Jg
-63 | SambaNova | Cloud Platform Engineer Intern | San Jose, CA | https://go.vansh.nyc/1Jq
-62 | Draper | Cyber Effects Engineering Intern | Cambridge, MA | https://go.vansh.nyc/1Jv
+64 | NVIDIA | Software Engineering Intern - Simulation Technology - Summer 2027 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531
 62 | Cisco | Security Engineer I Intern | Research Triangle Park, NC | https://go.vansh.nyc/1JA
 62 | ManTech | Developer Intern, C++ | Remote (US), United States | https://go.vansh.nyc/1K6
-62 | Northrop Grumman | 2027 Cybersecurity Intern - Linthicum MD | Linthicum, Maryland | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261960
-62 | Generac | Intern AI Engineering | Waukesha, WI - | https://zapply.jobs/l/d/workday-generac-external-JR17511
+62 | Capital Blue Cross | Intern-Data Science - Analytics & AI | Harrisburg, PA | https://careers-capbluecross.icims.com/jobs/5241/intern-data-science%2c-analytics-%26-ai/job
+62 | Capital Blue Cross | Intern-AI-Assisted Development | Harrisburg, PA | https://careers-capbluecross.icims.com/jobs/5237/intern-ai-assisted-development/job
 61 | Samsung Semiconductor | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA | https://go.vansh.nyc/1IH
 60 | Veeva Systems | Software Engineer Intern | Pleasanton, CA | https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply
 60 | OpenSesame | Software Engineer Intern | Remote (US) | https://boards.greenhouse.io/opensesame/jobs/8418272
-60 | Juniper Networks | Networking & Cybersecurity Intern | San Jose, CA | https://go.vansh.nyc/1HU
-60 | Xona Space | Software Engineering Intern, Engineering Productivity | Burlingame, CA | https://go.vansh.nyc/1Jx
 58 | ManTech | C++ Developer Intern | Lexington Park, MD | https://mantech.avature.net/en_US/careers/JobDetail/67268
-58 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | https://go.vansh.nyc/1It
 58 | ManTech | Developer Intern, C++ | Lexington Park, MD | https://go.vansh.nyc/1JD
+58 | Apex Technology | Software Engineering Internship - Test & Automation - Summer 2027 | Los Angeles, CA | https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344
+57 | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | Los Angeles, CA | https://go.vansh.nyc/1Jf
 56 | Cantor Fitzgerald | Technology Summer Intern - Development | NYC | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630
 56 | Total Quality Logistics | Software Development Intern | Cincinnati, OH | https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763
 56 | Veeva Systems | Software Engineer Intern | Boston, MA | https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply
-56 | Ameren | Robotics, AI, OT, Software Development Intern | St. Louis, MO | https://go.vansh.nyc/1Iz
+56 | SambaNova | AI Performance Engineer Intern | Austin, TX, San Jose, CA | https://go.vansh.nyc/1Jj
+56 | Digital Control | Software Engineer Intern | Kent, WA | https://go.vansh.nyc/1JO
+56 | Digital Control | Software Engineering Intern | Kent, WA | https://go.vansh.nyc/1K0
+56 | Hewlett Packard Enterprise | Cloud Security Engagement Intern | Spring, TX | https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Security-Engagement-Intern_1216079
+56 | Marvell | Applied AI/ML Research Scientist Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1
 
 ELIGIBILITY NOT CHECKED YET (highest priority first) — id | company | title | url
 57a9a04546f531 | Coinbase | Security Engineer Intern | https://zapply.jobs/l/d/greenhouse-coinbase-8415869
-9e05d9cdc2cad7 | NVIDIA | Developer Technology Intern, AI | https://go.vansh.nyc/1Im
 89f9ae0d9d8644 | Amazon | Front-End Engineer Intern | https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
-01868900e134bc | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | https://go.vansh.nyc/1Jf
-6febb4836ee58a | Marvell | Applied AI/ML Research Scientist Intern | https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603847
+9e05d9cdc2cad7 | NVIDIA | Developer Technology Intern, AI | https://go.vansh.nyc/1Im
+368692ab8c6d55 | NVIDIA | AI and Quant DevTech Engineering Intern - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517
 5af75bdd9e02e1 | Amazon | Software Development Engineer Intern - Artificial General Intelligence | https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-6492da293862a8 | Apex Technology, Inc. | Flight Software Engineering Intern | https://go.vansh.nyc/1Jg
+7e0f0b84834047 | NVIDIA | Software Engineering Intern - Simulation Technology - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531
 3bca2d4b2445c9 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | https://go.vansh.nyc/1Dx
-d185ef94512572 | NVIDIA | Finance AI Engineering Intern | https://go.vansh.nyc/1Eh
-1f54fbbea52b1a | SambaNova | Cloud Platform Engineer Intern | https://go.vansh.nyc/1Jq
 c9b45747ace1b7 | NVIDIA | Accounting AI Solution Engineer Intern - Summer 2027 | https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1
-fd103145ac49f2 | Draper | Cyber Effects Engineering Intern | https://go.vansh.nyc/1Jv
 fd1a22067212ee | Cisco | Security Engineer I Intern | https://go.vansh.nyc/1JA
 57073701e9568d | ManTech | Developer Intern, C++ | https://go.vansh.nyc/1K6
-a0f32a17679ef6 | Northrop Grumman | 2027 Cybersecurity Intern - Linthicum MD | https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261960
+46345dbd9c588a | Capital Blue Cross | Intern-Data Science - Analytics & AI | https://careers-capbluecross.icims.com/jobs/5241/intern-data-science%2c-analytics-%26-ai/job
+58ebf8b6134052 | Capital Blue Cross | Intern-AI-Assisted Development | https://careers-capbluecross.icims.com/jobs/5237/intern-ai-assisted-development/job
+de51c39a32ff08 | Samsung Semiconductor | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | https://go.vansh.nyc/1IH
+21eca1487a3896 | Veeva Systems | Software Engineer Intern | https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply
+bc8891d086b172 | OpenSesame | Software Engineer Intern | https://boards.greenhouse.io/opensesame/jobs/8418272
